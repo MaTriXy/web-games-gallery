@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Neon Orb Rush: Airmash Relay</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="app">
+    <h1>Neon Orb Rush: Airmash Relay</h1>
+    <p class="sub">Tap neon relay orbs zipping through a crowded airmash arena before enemy missiles lock onto your multiplayer squad.</p>
+    <p id="themeTag" class="theme-tag">Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game</p>
+    <div class="hud">
+      <span>Score <strong id="score">0</strong></span>
+      <span>Combo <strong id="combo">0</strong></span>
+      <span>Multiplier <strong id="multiplier">x1</strong></span>
+      <span>Best <strong id="bestCombo">0</strong></span>
+      <span>Time <strong id="timer">45</strong></span>
+      <button id="startBtn">Start</button>
+    </div>
+    <section class="briefing">
+      <div>
+        <h2>Objective</h2>
+        <p>Clear marked relay orbs before their countdown rings empty, keep your squad link alive for 2-4 minutes, and build a combo multiplier by chaining accurate taps.</p>
+      </div>
+      <div>
+        <h2>Controls</h2>
+        <ul><li><strong>Pop relay orb:</strong> Tap a glowing orb -> Destroys the orb, adds score, and extends your combo if hit before it vanishes.</li><li><strong>Prioritize danger lane:</strong> Tap orbs with red lock rings first -> Prepares incoming missile lanes and prevents squad shield loss.</li><li><strong>Recover pressure:</strong> Tap a blue sync orb -> Briefly slows spawn speed and stabilizes the arena.</li></ul>
+      </div>
+      <div>
+        <h2>How to Play</h2>
+        <ol><li>Neon relay orbs streak across 3 clear air lanes toward your multiplayer squad beacon.</li><li>Each orb shows a shrinking ring and lane arrow so you can read exactly which target will expire first.</li><li>Tap relay orbs before they vanish; missed red-lock orbs trigger missile hits on the squad shield.</li><li>Successful taps in a row raise a combo multiplier, while misses or late taps break it.</li><li>Every 30 seconds, orb speed increases, mixed lane patterns appear, and decoy gray orbs start crossing the field.</li><li>The run ends when the squad shield takes 3 missile hits or the timer expires; your score posts to a simple local leaderboard.</li></ol>
+      </div>
+      <div>
+        <h2>Tips</h2>
+        <ul><li>Follow the shrinking rings, not just the motion; they telegraph urgency.</li><li>Red-lock orbs are fail-state threats and should override normal targets.</li><li>Blue sync orbs are rare recovery windows when the screen gets crowded.</li><li>Fast, accurate single taps beat frantic double tapping because misses break combo.</li></ul>
+      </div>
+    </section>
+    <p id="status" class="status"></p>
+    <section id="playfield" class="playfield"></section>
+    <section class="sequence-grid">
+      <button class="pad hidden" data-pad="0"></button>
+      <button class="pad hidden" data-pad="1"></button>
+      <button class="pad hidden" data-pad="2"></button>
+      <button class="pad hidden" data-pad="3"></button>
+    </section>
+    <section id="resultOverlay" class="result-overlay hidden">
+      <div class="result-card">
+        <h2>Round Summary</h2>
+        <p id="summary" class="summary"></p>
+        <button id="restartBtn">Play again</button>
+      </div>
+    </section>
+    <h2>Leaderboard</h2>
+    <ol id="board"></ol>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>

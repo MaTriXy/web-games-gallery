@@ -1,0 +1,48 @@
+{
+  "title": "Neon Orb Rush: Airmash Relay",
+  "description": "Tap neon relay orbs zipping through a crowded airmash arena before enemy missiles lock onto your multiplayer squad.",
+  "category": "Arcade Reflex",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#00F5D4",
+  "starThresholds": [
+    1200,
+    2600,
+    4200
+  ],
+  "howToPlayJson": {
+    "title": "Neon Orb Rush: Airmash Relay",
+    "objective": "Clear marked relay orbs before their countdown rings empty, keep your squad link alive for 2-4 minutes, and build a combo multiplier by chaining accurate taps.",
+    "controls": [
+      {
+        "action": "Pop relay orb",
+        "input": "Tap a glowing orb",
+        "outcome": "Destroys the orb, adds score, and extends your combo if hit before it vanishes."
+      },
+      {
+        "action": "Prioritize danger lane",
+        "input": "Tap orbs with red lock rings first",
+        "outcome": "Prepares incoming missile lanes and prevents squad shield loss."
+      },
+      {
+        "action": "Recover pressure",
+        "input": "Tap a blue sync orb",
+        "outcome": "Briefly slows spawn speed and stabilizes the arena."
+      }
+    ],
+    "steps": [
+      "Neon relay orbs streak across 3 clear air lanes toward your multiplayer squad beacon.",
+      "Each orb shows a shrinking ring and lane arrow so you can read exactly which target will expire first.",
+      "Tap relay orbs before they vanish; missed red-lock orbs trigger missile hits on the squad shield.",
+      "Successful taps in a row raise a combo multiplier, while misses or late taps break it.",
+      "Every 30 seconds, orb speed increases, mixed lane patterns appear, and decoy gray orbs start crossing the field.",
+      "The run ends when the squad shield takes 3 missile hits or the timer expires; your score posts to a simple local leaderboard."
+    ],
+    "scoring": "Base points for each popped orb, bonus points for red-lock saves, and a rising combo multiplier up to x8 for consecutive clean taps without a miss.",
+    "tips": [
+      "Follow the shrinking rings, not just the motion; they telegraph urgency.",
+      "Red-lock orbs are fail-state threats and should override normal targets.",
+      "Blue sync orbs are rare recovery windows when the screen gets crowded.",
+      "Fast, accurate single taps beat frantic double tapping because misses break combo."
+    ]
+  }
+}
