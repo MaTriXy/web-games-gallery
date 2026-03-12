@@ -1,0 +1,47 @@
+{
+  "title": "According to Valve",
+  "description": "Hear the boiler clerk's ruling, then tap the glowing valves in the claimed pulse order before steam pressure blows the chamber.",
+  "category": "Arcade Memory",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#FF6B2C",
+  "starThresholds": [
+    1200,
+    2600,
+    4800
+  ],
+  "howToPlayJson": {
+    "title": "According to Valve",
+    "objective": "Memorize and replay short valve pulse sequences while adapting to shifting 'according' rules that change how each pattern must be entered.",
+    "controls": [
+      {
+        "action": "Replay a pulse",
+        "input": "Tap a lit valve",
+        "outcome": "Inputs that valve as the next step in the sequence"
+      },
+      {
+        "action": "Bank pressure",
+        "input": "Press and hold the center gauge",
+        "outcome": "Spends built combo to briefly slow the next pattern"
+      },
+      {
+        "action": "Read the rule",
+        "input": "Watch the top banner and valve icons",
+        "outcome": "Shows whether the next sequence must be copied, reversed, or entered by pitch from low to high"
+      }
+    ],
+    "steps": [
+      "A round starts with 3 to 5 valves thumping a short rhythm and lighting in sequence, backed by punchy steam-drums.",
+      "The player replays the pattern on large mobile-friendly valves before the pressure ring fills.",
+      "Every few sequences, an 'According' banner flips the rule: copy exactly, reverse the order, or ignore flash order and enter the heard tones",
+      "Correct replays raise combo, speed up the beat, and add one more pulse or a fakeout valve.",
+      "A mistake, timeout, or overfilled pressure meter ends the run immediately and posts the score to a simple daily or all-time leaderboard."
+    ],
+    "scoring": "Each correct valve is worth base points; perfect full-pattern clears increase a combo multiplier up to x8. Banking pressure at the center gauge preserves the run but cashes out half the current multiplier, creating a few",
+    "tips": [
+      "Listen first; the tones matter as much as the flash order once the rule flips.",
+      "Use the center gauge only when the chamber is crowded, since it cuts your multiplier.",
+      "Reverse rounds are easier if you trace the last two valves mentally before tapping.",
+      "Short runs stay intense: a full session should resolve in about 2 to 4 minutes."
+    ]
+  }
+}

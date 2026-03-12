@@ -1,11 +1,11 @@
-const GAME_TITLE = `Please, Check!`;
-const ACCENT = `#00C2A8`;
+const GAME_TITLE = `First 1500: Worked / Didn't`;
+const ACCENT = `#ff6a3d`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Please check my quantum physics browser game for accuracy`;
-const MOTIF_A = `please`;
-const MOTIF_B = `check`;
-const OBJECTIVE_TAG = `please vs check`;
-const STAR_THRESHOLDS = [900,1800,3200];
+const THEME_LABEL = `I made my first 1500$ from my free mobile game: here is what worked, and what di`;
+const MOTIF_A = `first`;
+const MOTIF_B = `1500`;
+const OBJECTIVE_TAG = `first vs 1500`;
+const STAR_THRESHOLDS = [500,1500,3000];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

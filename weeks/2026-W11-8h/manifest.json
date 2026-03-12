@@ -1,34 +1,12 @@
 {
   "schemaVersion": "2.0.0",
   "weekKey": "2026-W11-8h",
-  "generatedAt": "2026-03-12T23:35:08.299Z",
+  "generatedAt": "2026-03-12T23:54:51.047Z",
   "games": [
     {
-      "slug": "official-launch-trailer-crimson-desert-skyline-dodge-c1",
-      "title": "Official Launch Run",
-      "description": "Swipe a launch marshal skiff across the crimson runway to dodge incoming launch debris and ride official clearance beams for huge score chains.",
-      "genre": "action",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "Official Launch Trailer | Crimson Desert",
-      "trendSource": "reddit_gaming",
-      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
-      "ideaSeedId": "skyline-dodge",
-      "ideaSeedName": "Skyline Dodge",
-      "buildStrategyId": "split_runtime",
-      "sourcePath": "./official-launch-trailer-crimson-desert-skyline-dodge-c1/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "server-survival-tower-defense-game-that-teaches-cloud-architec",
-      "title": "Neon Orb Rush: Tower Uplink",
-      "description": "Defend a glowing server tower by tapping incoming traffic orbs and timing scale-ups before request surges crash your stack.",
+      "slug": "9-months-ago-we-started-our-hobby-game-project-how-can-we-impr",
+      "title": "Month Zero Sprint",
+      "description": "Kick a hobby project back to life by tapping neon start-orbs at the right moment as nine months of momentum spin around your thumbs.",
       "genre": "arcade",
       "sessionMinutes": 2,
       "capabilities": [
@@ -37,20 +15,20 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
-      "trendSource": "github_games",
-      "trendUrl": "https://github.com/pshenok/server-survival",
+      "trendTitle": "9 Months ago we started our hobby game project. How can we improve?",
+      "trendSource": "reddit_indiegaming",
+      "trendUrl": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
       "buildStrategyId": "single_file",
-      "sourcePath": "./server-survival-tower-defense-game-that-teaches-cloud-architec/index.html",
+      "sourcePath": "./9-months-ago-we-started-our-hobby-game-project-how-can-we-impr/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "best-i-can-offer-is-20-pulse-pattern-c1",
-      "title": "Best Offer Under Twenty",
-      "description": "You play a fast-talking pawn broker who memorizes each seller's demand pulse and taps back your best offer without breaking the $20 ceiling.",
+      "slug": "everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s",
+      "title": "Every Attempt",
+      "description": "Relive every attempt to fill your tank by memorizing the pump's pulse pattern and replaying it before the next price spike breaks your nerve.",
       "genre": "puzzle",
       "sessionMinutes": 4,
       "capabilities": [
@@ -59,42 +37,20 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Best I can offer is 20$",
+      "trendTitle": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
       "trendSource": "reddit_memes",
-      "trendUrl": "https://www.reddit.com/r/memes/comments/1rry5rc/best_i_can_offer_is_20/",
+      "trendUrl": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
       "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./best-i-can-offer-is-20-pulse-pattern-c1/index.html",
+      "sourcePath": "./everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "show-hn-i-built-a-multiplayer-voxel-browser-game-engine-gravit",
-      "title": "Voxel Lobby Drop",
-      "description": "Drag a tiny voxel server under falling player-cubes to assemble live multiplayer rooms before lag ghosts crash your engine.",
-      "genre": "arcade",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "Show HN: I built a multiplayer voxel browser game engine",
-      "trendSource": "hacker_news",
-      "trendUrl": "https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/",
-      "ideaSeedId": "gravity-basket",
-      "ideaSeedName": "Gravity Basket",
-      "buildStrategyId": "single_file",
-      "sourcePath": "./show-hn-i-built-a-multiplayer-voxel-browser-game-engine-gravit/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "please-check-my-quantum-physics-browser-game-for-accuracy-colo",
-      "title": "Please, Check!",
-      "description": "Play a polite quantum fact-checker who swipes between color lanes and taps unstable gates to verify the right results before bad physics gets through.",
+      "slug": "i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor",
+      "title": "First 1500: Worked / Didn't",
+      "description": "Swipe between lanes and tap to swap colors as you steer a first-time dev's earnings through matching gates and risky Worked-or-Didn't choices on the way to $1500.",
       "genre": "action",
       "sessionMinutes": 3,
       "capabilities": [
@@ -103,13 +59,57 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Please check my quantum physics browser game for accuracy",
-      "trendSource": "hacker_news",
-      "trendUrl": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/",
+      "trendTitle": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
+      "trendSource": "reddit_gamedev",
+      "trendUrl": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
       "ideaSeedId": "color-swap-lanes",
       "ideaSeedName": "Color Swap Lanes",
       "buildStrategyId": "split_runtime",
-      "sourcePath": "./please-check-my-quantum-physics-browser-game-for-accuracy-colo/index.html",
+      "sourcePath": "./i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "show-hn-a-game-that-tests-how-well-you-know-your-local-area-pu",
+      "title": "Well Tested",
+      "description": "Trace the town's well-test pulses and tap each neighborhood well cap back in order before the pressure gauge crashes.",
+      "genre": "puzzle",
+      "sessionMinutes": 4,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Show HN: A game that tests how well you know your local area",
+      "trendSource": "hacker_news",
+      "trendUrl": "https://backofyourhand.com/51.89863,-8.47039",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "buildStrategyId": "cabinet_arcade",
+      "sourcePath": "./show-hn-a-game-that-tests-how-well-you-know-your-local-area-pu/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "according-to-valve-5863-games-earned-over-100-000-dollars-on-s",
+      "title": "According to Valve",
+      "description": "Hear the boiler clerk's ruling, then tap the glowing valves in the claimed pulse order before steam pressure blows the chamber.",
+      "genre": "puzzle",
+      "sessionMinutes": 4,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "According to Valve 5863 games earned over 100 000 dollars on Steam in 2025.",
+      "trendSource": "reddit_gamedev",
+      "trendUrl": "https://www.reddit.com/r/gamedev/comments/1rqtmvv/according_to_valve_5863_games_earned_over_100_000/",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "buildStrategyId": "cabinet_arcade",
+      "sourcePath": "./according-to-valve-5863-games-earned-over-100-000-dollars-on-s/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     }

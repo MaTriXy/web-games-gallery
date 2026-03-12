@@ -1,0 +1,43 @@
+{
+  "title": "Month Zero Sprint",
+  "objective": "Keep the project alive for a 3-minute run by launching the right neon orbs before they fade, surviving mistakes, and building a combo for the leaderboard.",
+  "controls": [
+    {
+      "action": "Launch an orb",
+      "input": "Tap a glowing orb as it crosses the bright START gate",
+      "outcome": "The orb converts into progress, adds score, and extends combo"
+    },
+    {
+      "action": "Hold for a risky save",
+      "input": "Press and hold a fading cracked orb for a short beat",
+      "outcome": "You recover a nearly lost month for bonus points, but miss other targets while holding"
+    },
+    {
+      "action": "Avoid bad launches",
+      "input": "Do not tap red burnout orbs or orbs outside the current rule pulse",
+      "outcome": "You preserve hearts and keep your multiplier alive"
+    }
+  ],
+  "steps": [
+    "Nine month-arcs form a circular timeline, each with a clearly marked START gate and a fading END zone.",
+    "Neon orbs spawn and travel along the arcs; bright fresh orbs score best when tapped at the START gate, with audio ticks telegraphing timing.",
+    "Every few seconds a large readable pulse flips the rule between START NOW and SALVAGE NOW.",
+    "In START NOW, only newly spawned bright orbs are safe to tap; older ones should be ignored.",
+    "In SALVAGE NOW, only cracked late-stage orbs are worth tapping; fresh ones become penalties if launched too early.",
+    "Missing too many valid orbs or tapping the wrong state drains hearts; losing all hearts ends the run immediately.",
+    "Speed, lane count, and mixed orb patterns escalate until the final month-rush where pulses flip faster and combo management decides the high",
+    "score."
+  ],
+  "scoring": "Each correct launch awards points based on timing accuracy and current combo. Consecutive correct taps raise a multiplier up to x8. Salvage saves are worth extra points and refill a small amount of combo decay, but wrong",
+  "tips": [
+    "Watch the giant state banner and matching sound cue before tapping; the rule flip is the core twist.",
+    "Tap near the START gate for safer combo building, then use SALVAGE phases to rescue high-value cracked orbs.",
+    "Do not chase every orb; choosing the correct state target matters more than raw speed.",
+    "Use hold-saves only when the board is sparse or the bonus is worth the lane attention."
+  ],
+  "trendContext": {
+    "source": "reddit_indiegaming",
+    "title": "9 Months ago we started our hobby game project. How can we improve?",
+    "url": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/"
+  }
+}

@@ -12,84 +12,18 @@
   "requestedCount": 5,
   "trendCandidates": [
     {
-      "rank": 14,
-      "source": "github_games",
-      "title": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
-      "rawScore": 6704,
-      "url": "https://github.com/pshenok/server-survival",
-      "meta": {
-        "fullName": "pshenok/server-survival",
-        "stars": 5436,
-        "forks": 634
-      },
-      "signalQuality": 66,
-      "score": 353,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 35,
-      "source": "reddit_gaming",
-      "title": "Official Launch Trailer | Crimson Desert",
-      "rawScore": 2818,
-      "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
-      "meta": {
-        "subreddit": "gaming",
-        "ups": 1054,
-        "comments": 588
-      },
-      "signalQuality": 40,
-      "score": 350,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 20,
-      "source": "reddit_memes",
-      "title": "Best I can offer is 20$",
-      "rawScore": 10599,
-      "url": "https://www.reddit.com/r/memes/comments/1rry5rc/best_i_can_offer_is_20/",
-      "meta": {
-        "subreddit": "memes",
-        "ups": 9630,
-        "comments": 323
-      },
-      "signalQuality": -56,
-      "score": 347,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 2,
       "source": "reddit_indiegaming",
       "title": "9 Months ago we started our hobby game project. How can we improve?",
-      "rawScore": 531,
+      "rawScore": 541,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 48,
-        "comments": 161
+        "ups": 55,
+        "comments": 162
       },
       "signalQuality": 80,
-      "score": 339,
+      "score": 340,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -169,59 +103,15 @@
       "rank": 36,
       "source": "reddit_memes",
       "title": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
-      "rawScore": 1868,
+      "rawScore": 1889,
       "url": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
       "meta": {
         "subreddit": "memes",
-        "ups": 1064,
-        "comments": 268
+        "ups": 1082,
+        "comments": 269
       },
       "signalQuality": -16,
-      "score": 311,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 31,
-      "source": "hacker_news",
-      "title": "Please check my quantum physics browser game for accuracy",
-      "rawScore": 553,
-      "url": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/",
-      "meta": {
-        "author": "sideshowb",
-        "score": 133,
-        "comments": 105
-      },
-      "signalQuality": 84,
-      "score": 303,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 39,
-      "source": "hacker_news",
-      "title": "Show HN: I built a multiplayer voxel browser game engine",
-      "rawScore": 488,
-      "url": "https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/",
-      "meta": {
-        "author": "Vekz",
-        "score": 236,
-        "comments": 63
-      },
-      "signalQuality": 84,
-      "score": 299,
+      "score": 312,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -257,11 +147,11 @@
       "rank": 5,
       "source": "reddit_gamedev",
       "title": "According to Valve 5863 games earned over 100 000 dollars on Steam in 2025.",
-      "rawScore": 719,
+      "rawScore": 724,
       "url": "https://www.reddit.com/r/gamedev/comments/1rqtmvv/according_to_valve_5863_games_earned_over_100_000/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 452,
+        "ups": 457,
         "comments": 89
       },
       "signalQuality": 54,
@@ -301,11 +191,11 @@
       "rank": 13,
       "source": "reddit_gamedev",
       "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
-      "rawScore": 271,
+      "rawScore": 276,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 148,
+        "ups": 153,
         "comments": 41
       },
       "signalQuality": 72,
@@ -342,6 +232,28 @@
       }
     },
     {
+      "rank": 21,
+      "source": "reddit_gamedev",
+      "title": "What is considered too big for an indie project?",
+      "rawScore": 173,
+      "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
+      "meta": {
+        "subreddit": "gamedev",
+        "ups": 17,
+        "comments": 52
+      },
+      "signalQuality": 70,
+      "score": 254,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
       "rank": 26,
       "source": "reddit_indiegaming",
       "title": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
@@ -364,40 +276,18 @@
       }
     },
     {
-      "rank": 21,
-      "source": "reddit_gamedev",
-      "title": "What is considered too big for an indie project?",
-      "rawScore": 168,
-      "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
-      "meta": {
-        "subreddit": "gamedev",
-        "ups": 15,
-        "comments": 51
-      },
-      "signalQuality": 70,
-      "score": 252,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 34,
       "source": "reddit_indiegaming",
       "title": "After 3 years of work, my indie tower defense Bean Beasts just launched today on Switch! 🫘",
-      "rawScore": 56,
+      "rawScore": 59,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rs2ed1/after_3_years_of_work_my_indie_tower_defense_bean/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 35,
+        "ups": 38,
         "comments": 7
       },
       "signalQuality": 72,
-      "score": 238,
+      "score": 240,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -411,11 +301,11 @@
       "rank": 29,
       "source": "reddit_gamedev",
       "title": "Launching a Steam page, how many wishlists do YOU expect?",
-      "rawScore": 166,
+      "rawScore": 165,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrlhcc/launching_a_steam_page_how_many_wishlists_do_you/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 25,
+        "ups": 24,
         "comments": 47
       },
       "signalQuality": 44,
@@ -433,15 +323,15 @@
       "rank": 37,
       "source": "reddit_gamedev",
       "title": "40K wishlists - Steam Next Fest - our strategy &amp; data",
-      "rawScore": 99,
+      "rawScore": 98,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrq9mh/40k_wishlists_steam_next_fest_our_strategy_data/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 39,
+        "ups": 38,
         "comments": 20
       },
       "signalQuality": 54,
-      "score": 218,
+      "score": 217,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -455,12 +345,12 @@
       "rank": 1,
       "source": "reddit_webgames",
       "title": "Signal Drift - tune alien transmissions out of static in this free browser puzzle game",
-      "rawScore": 5,
+      "rawScore": 8,
       "url": "https://www.reddit.com/r/WebGames/comments/1rs4ju9/signal_drift_tune_alien_transmissions_out_of/",
       "meta": {
         "subreddit": "webgames",
         "ups": 2,
-        "comments": 1
+        "comments": 2
       },
       "signalQuality": 90,
       "score": 188,
@@ -477,11 +367,11 @@
       "rank": 9,
       "source": "reddit_webgames",
       "title": "Playable Snake game in the browser – no downloads, works on mobile",
-      "rawScore": 4,
+      "rawScore": 3,
       "url": "https://www.reddit.com/r/WebGames/comments/1rs6qd2/playable_snake_game_in_the_browser_no_downloads/",
       "meta": {
         "subreddit": "webgames",
-        "ups": 1,
+        "ups": 0,
         "comments": 1
       },
       "signalQuality": 90,
@@ -564,28 +454,7 @@
     {
       "rank": 8,
       "source": "google_trends",
-      "title": "florida state vs duke",
-      "rawScore": 5000,
-      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
-      "meta": {
-        "geo": "US",
-        "approxTraffic": 5000
-      },
-      "signalQuality": -24,
-      "score": 179,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 16,
-      "source": "google_trends",
-      "title": "uconn men&apos;s basketball",
+      "title": "mavericks vs grizzlies",
       "rawScore": 2000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
@@ -604,7 +473,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 16,
       "source": "google_trends",
       "title": "jaquan brisker",
       "rawScore": 5000,
@@ -625,17 +494,38 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 24,
       "source": "google_trends",
-      "title": "mavericks vs grizzlies",
+      "title": "connor heyward",
       "rawScore": 1600,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
         "approxTraffic": 1000
       },
-      "signalQuality": -42,
-      "score": 134,
+      "signalQuality": -66,
+      "score": 110,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 32,
+      "source": "google_trends",
+      "title": "ivica zubac",
+      "rawScore": 1200,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 500
+      },
+      "signalQuality": -66,
+      "score": 103,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -648,15 +538,15 @@
     {
       "rank": 40,
       "source": "google_trends",
-      "title": "byu vs houston",
-      "rawScore": 10000,
+      "title": "georgia basketball",
+      "rawScore": 1000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 10000
+        "approxTraffic": 1000
       },
-      "signalQuality": -96,
-      "score": 124,
+      "signalQuality": -66,
+      "score": 99,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -692,15 +582,15 @@
       "rank": 3,
       "source": "reddit_gaming",
       "title": "Highguard has now officially shutdown",
-      "rawScore": 13163,
+      "rawScore": 13590,
       "url": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 9362,
-        "comments": 1267
+        "ups": 9684,
+        "comments": 1302
       },
       "signalQuality": 18,
-      "score": 389,
+      "score": 390,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -714,15 +604,15 @@
       "rank": 11,
       "source": "reddit_gaming",
       "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
-      "rawScore": 6375,
+      "rawScore": 6439,
       "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 3312,
-        "comments": 1021
+        "ups": 3352,
+        "comments": 1029
       },
       "signalQuality": 40,
-      "score": 382,
+      "score": 383,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -736,15 +626,15 @@
       "rank": 19,
       "source": "reddit_gaming",
       "title": "Valve says the Steam Machine targets 30 FPS/1080p for games to get verified on the machine, and input verification is the same as the Steam Deck; Performance is roughly 6 times that of the Deck",
-      "rawScore": 4820,
+      "rawScore": 4824,
       "url": "https://www.reddit.com/r/gaming/comments/1rr1brk/valve_says_the_steam_machine_targets_30_fps1080p/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 3131,
+        "ups": 3135,
         "comments": 563
       },
       "signalQuality": 40,
-      "score": 371,
+      "score": 372,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -758,15 +648,15 @@
       "rank": 4,
       "source": "reddit_memes",
       "title": "Difference between 1775 2026",
-      "rawScore": 10440,
+      "rawScore": 12112,
       "url": "https://www.reddit.com/r/memes/comments/1rs2qeu/difference_between_1775_2026/",
       "meta": {
         "subreddit": "memes",
-        "ups": 8775,
-        "comments": 555
+        "ups": 10228,
+        "comments": 628
       },
       "signalQuality": -38,
-      "score": 364,
+      "score": 370,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -780,15 +670,15 @@
       "rank": 27,
       "source": "reddit_gaming",
       "title": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
-      "rawScore": 5293,
+      "rawScore": 5432,
       "url": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 4174,
-        "comments": 373
+        "ups": 4307,
+        "comments": 375
       },
       "signalQuality": 22,
-      "score": 357,
+      "score": 358,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -802,15 +692,81 @@
       "rank": 12,
       "source": "reddit_memes",
       "title": "It’s an endless cycle",
-      "rawScore": 15192,
+      "rawScore": 15232,
       "url": "https://www.reddit.com/r/memes/comments/1rrb14u/its_an_endless_cycle/",
       "meta": {
         "subreddit": "memes",
-        "ups": 14922,
+        "ups": 14962,
         "comments": 90
       },
       "signalQuality": -62,
       "score": 356,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 14,
+      "source": "github_games",
+      "title": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
+      "rawScore": 6704,
+      "url": "https://github.com/pshenok/server-survival",
+      "meta": {
+        "fullName": "pshenok/server-survival",
+        "stars": 5436,
+        "forks": 634
+      },
+      "signalQuality": 66,
+      "score": 353,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 35,
+      "source": "reddit_gaming",
+      "title": "Official Launch Trailer | Crimson Desert",
+      "rawScore": 2833,
+      "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 1066,
+        "comments": 589
+      },
+      "signalQuality": 40,
+      "score": 351,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 20,
+      "source": "reddit_memes",
+      "title": "Best I can offer is 20$",
+      "rawScore": 11042,
+      "url": "https://www.reddit.com/r/memes/comments/1rry5rc/best_i_can_offer_is_20/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 10043,
+        "comments": 333
+      },
+      "signalQuality": -56,
+      "score": 348,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -846,15 +802,15 @@
       "rank": 28,
       "source": "reddit_memes",
       "title": "Shut it Keith",
-      "rawScore": 39328,
+      "rawScore": 39558,
       "url": "https://www.reddit.com/r/memes/comments/1rro7xi/shut_it_keith/",
       "meta": {
         "subreddit": "memes",
-        "ups": 38389,
-        "comments": 313
+        "ups": 38613,
+        "comments": 315
       },
       "signalQuality": -140,
-      "score": 319,
+      "score": 320,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -885,24 +841,68 @@
         "highestSeverity": 0,
         "matches": []
       }
+    },
+    {
+      "rank": 31,
+      "source": "hacker_news",
+      "title": "Please check my quantum physics browser game for accuracy",
+      "rawScore": 553,
+      "url": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/",
+      "meta": {
+        "author": "sideshowb",
+        "score": 133,
+        "comments": 105
+      },
+      "signalQuality": 84,
+      "score": 303,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 39,
+      "source": "hacker_news",
+      "title": "Show HN: I built a multiplayer voxel browser game engine",
+      "rawScore": 488,
+      "url": "https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/",
+      "meta": {
+        "author": "Vekz",
+        "score": 236,
+        "comments": 63
+      },
+      "signalQuality": 84,
+      "score": 299,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
     }
   ],
   "selectedGames": [
     {
       "releaseSlot": 1,
       "trend": {
-        "rank": 35,
-        "source": "reddit_gaming",
-        "title": "Official Launch Trailer | Crimson Desert",
-        "rawScore": 2818,
-        "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
+        "rank": 2,
+        "source": "reddit_indiegaming",
+        "title": "9 Months ago we started our hobby game project. How can we improve?",
+        "rawScore": 541,
+        "url": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/",
         "meta": {
-          "subreddit": "gaming",
-          "ups": 1054,
-          "comments": 588
+          "subreddit": "IndieGaming",
+          "ups": 55,
+          "comments": 162
         },
-        "signalQuality": 40,
-        "score": 350,
+        "signalQuality": 80,
+        "score": 340,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -912,48 +912,10 @@
           "matches": []
         }
       },
-      "outputSlug": "official-launch-trailer-crimson-desert-skyline-dodge-c1",
-      "ideaSeedId": "skyline-dodge",
-      "ideaSeedName": "Skyline Dodge",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Official Launch Trailer | Crimson Desert\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
-      "buildStrategyId": "split_runtime",
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "genre": "action",
-      "sessionMinutes": 3
-    },
-    {
-      "releaseSlot": 2,
-      "trend": {
-        "rank": 14,
-        "source": "github_games",
-        "title": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
-        "rawScore": 6704,
-        "url": "https://github.com/pshenok/server-survival",
-        "meta": {
-          "fullName": "pshenok/server-survival",
-          "stars": 5436,
-          "forks": 634
-        },
-        "signalQuality": 66,
-        "score": 353,
-        "ratingAudit": {
-          "ratingPolicy": "apple-9+",
-          "ratingLabel": "Apple 9+",
-          "engine": "rules",
-          "allowed": true,
-          "highestSeverity": 0,
-          "matches": []
-        }
-      },
-      "outputSlug": "server-survival-tower-defense-game-that-teaches-cloud-architec",
+      "outputSlug": "9-months-ago-we-started-our-hobby-game-project-how-can-we-impr",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"9 Months ago we started our hobby game project. How can we improve?\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
       "buildStrategyId": "single_file",
       "capabilities": [
         "touch",
@@ -965,20 +927,20 @@
       "sessionMinutes": 2
     },
     {
-      "releaseSlot": 3,
+      "releaseSlot": 2,
       "trend": {
-        "rank": 20,
+        "rank": 36,
         "source": "reddit_memes",
-        "title": "Best I can offer is 20$",
-        "rawScore": 10599,
-        "url": "https://www.reddit.com/r/memes/comments/1rry5rc/best_i_can_offer_is_20/",
+        "title": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
+        "rawScore": 1889,
+        "url": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
         "meta": {
           "subreddit": "memes",
-          "ups": 9630,
-          "comments": 323
+          "ups": 1082,
+          "comments": 269
         },
-        "signalQuality": -56,
-        "score": 347,
+        "signalQuality": -16,
+        "score": 312,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -988,10 +950,10 @@
           "matches": []
         }
       },
-      "outputSlug": "best-i-can-offer-is-20-pulse-pattern-c1",
+      "outputSlug": "everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Best I can offer is 20$\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"Everytime I attempt to fill up my tank lately I experience a small emotional crisis\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
       "buildStrategyId": "cabinet_arcade",
       "capabilities": [
         "touch",
@@ -1003,20 +965,20 @@
       "sessionMinutes": 4
     },
     {
-      "releaseSlot": 4,
+      "releaseSlot": 3,
       "trend": {
-        "rank": 39,
-        "source": "hacker_news",
-        "title": "Show HN: I built a multiplayer voxel browser game engine",
-        "rawScore": 488,
-        "url": "https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/",
+        "rank": 13,
+        "source": "reddit_gamedev",
+        "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
+        "rawScore": 276,
+        "url": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
         "meta": {
-          "author": "Vekz",
-          "score": 236,
-          "comments": 63
+          "subreddit": "gamedev",
+          "ups": 153,
+          "comments": 41
         },
-        "signalQuality": 84,
-        "score": 299,
+        "signalQuality": 72,
+        "score": 272,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1026,48 +988,10 @@
           "matches": []
         }
       },
-      "outputSlug": "show-hn-i-built-a-multiplayer-voxel-browser-game-engine-gravit",
-      "ideaSeedId": "gravity-basket",
-      "ideaSeedName": "Gravity Basket",
-      "ideaPrompt": "Autoresearch cycle 4: design a non-template casual game around \"Show HN: I built a multiplayer voxel browser game engine\" using \"Move a catcher to collect falling items while avoiding decoys.\". Extra twist: bias toward mobile thumb ergonomics.",
-      "buildStrategyId": "single_file",
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "genre": "arcade",
-      "sessionMinutes": 3
-    },
-    {
-      "releaseSlot": 5,
-      "trend": {
-        "rank": 31,
-        "source": "hacker_news",
-        "title": "Please check my quantum physics browser game for accuracy",
-        "rawScore": 553,
-        "url": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/",
-        "meta": {
-          "author": "sideshowb",
-          "score": 133,
-          "comments": 105
-        },
-        "signalQuality": 84,
-        "score": 303,
-        "ratingAudit": {
-          "ratingPolicy": "apple-9+",
-          "ratingLabel": "Apple 9+",
-          "engine": "rules",
-          "allowed": true,
-          "highestSeverity": 0,
-          "matches": []
-        }
-      },
-      "outputSlug": "please-check-my-quantum-physics-browser-game-for-accuracy-colo",
+      "outputSlug": "i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor",
       "ideaSeedId": "color-swap-lanes",
       "ideaSeedName": "Color Swap Lanes",
-      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"Please check my quantum physics browser game for accuracy\" using \"Switch lanes and match colors with incoming gates.\". Extra twist: include one novelty mechanic tied to the trend title.",
+      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"I made my first 1500$ from my free mobile game: here is what worked, and what didn't\" using \"Switch lanes and match colors with incoming gates.\". Extra twist: include one novelty mechanic tied to the trend title.",
       "buildStrategyId": "split_runtime",
       "capabilities": [
         "touch",
@@ -1077,11 +1001,87 @@
       ],
       "genre": "action",
       "sessionMinutes": 3
+    },
+    {
+      "releaseSlot": 4,
+      "trend": {
+        "rank": 7,
+        "source": "hacker_news",
+        "title": "Show HN: A game that tests how well you know your local area",
+        "rawScore": 1682,
+        "url": "https://backofyourhand.com/51.89863,-8.47039",
+        "meta": {
+          "author": "adamlynch",
+          "score": 654,
+          "comments": 257
+        },
+        "signalQuality": 56,
+        "score": 314,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "show-hn-a-game-that-tests-how-well-you-know-your-local-area-pu",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Show HN: A game that tests how well you know your local area\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "buildStrategyId": "cabinet_arcade",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "puzzle",
+      "sessionMinutes": 4
+    },
+    {
+      "releaseSlot": 5,
+      "trend": {
+        "rank": 5,
+        "source": "reddit_gamedev",
+        "title": "According to Valve 5863 games earned over 100 000 dollars on Steam in 2025.",
+        "rawScore": 724,
+        "url": "https://www.reddit.com/r/gamedev/comments/1rqtmvv/according_to_valve_5863_games_earned_over_100_000/",
+        "meta": {
+          "subreddit": "gamedev",
+          "ups": 457,
+          "comments": 89
+        },
+        "signalQuality": 54,
+        "score": 288,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "according-to-valve-5863-games-earned-over-100-000-dollars-on-s",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"According to Valve 5863 games earned over 100 000 dollars on Steam in 2025.\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "buildStrategyId": "cabinet_arcade",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "puzzle",
+      "sessionMinutes": 4
     }
   ],
-  "generatedAt": "2026-03-12T23:35:08.299Z",
+  "generatedAt": "2026-03-12T23:54:51.047Z",
   "autoresearch": {
-    "runId": "20260312232540",
+    "runId": "20260312234512",
     "cycles": 4,
     "exploreCount": 3,
     "publishCount": 5,
