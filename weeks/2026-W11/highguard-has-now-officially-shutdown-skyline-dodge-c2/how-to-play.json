@@ -1,0 +1,41 @@
+{
+  "title": "Highguard: Officially Closed",
+  "objective": "Survive as long as possible on the failing Highguard exit route by swiping between lanes to avoid incoming shutdown debris, patrol beams, and OFFICIALLY CLOSED barriers while collecting official seals to build score multipliers.",
+  "controls": [
+    {
+      "action": "Dodge sideways",
+      "input": "Swipe left or right",
+      "outcome": "Shift to an adjacent lane to avoid incoming hazards."
+    },
+    {
+      "action": "Slip through gaps",
+      "input": "Swipe up",
+      "outcome": "Make a short forward dash through narrow openings and seal lines."
+    },
+    {
+      "action": "Brake",
+      "input": "Swipe down",
+      "outcome": "Slow briefly to let fast hazards pass, but lose combo time."
+    }
+  ],
+  "steps": [
+    "Start on the center lane of the Highguard skyway as slow debris drifts in from the horizon.",
+    "Swipe between three lanes to avoid falling tower stones, sweeping patrol lights, and giant OFFICIALLY CLOSED barricades.",
+    "Collect floating official seals that appear in riskier positions near hazard clusters.",
+    "Each seal raises your multiplier, but missing a seal resets the seal chain and taking a brake makes the chain decay faster.",
+    "Hazard speed, density, and mixed patterns escalate every 30 seconds, with late waves combining moving beams and staggered barricades.",
+    "A single collision ends the run and submits your score to the local leaderboard."
+  ],
+  "scoring": "Earn points continuously for survival. Collecting official seals increases a score multiplier up to 8x, but seals spawn in dangerous lines and the multiplier drops if you go too long without claiming another seal. Near-m",
+  "tips": [
+    "Stay near the center early so you can react to split barricades.",
+    "Take seals only when they preserve an escape lane afterward.",
+    "Use brake sparingly; it saves runs but weakens multiplier momentum.",
+    "Audio stingers warn beam sweeps a moment before they cross lanes."
+  ],
+  "trendContext": {
+    "source": "reddit_gaming",
+    "title": "Highguard has now officially shutdown",
+    "url": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/"
+  }
+}

@@ -1,11 +1,11 @@
-const GAME_TITLE = `Signal Sniper: Airmash Relay`;
-const ACCENT = `#3AAED8`;
-const MODE = `tap_targets`;
-const THEME_LABEL = `Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game`;
-const MOTIF_A = `airmash`;
-const MOTIF_B = `multiplayer`;
-const OBJECTIVE_TAG = `airmash vs multiplayer`;
-const STAR_THRESHOLDS = [120,260,420];
+const GAME_TITLE = `Highguard: Officially Closed`;
+const ACCENT = `#D94F2A`;
+const MODE = `dodge_stream`;
+const THEME_LABEL = `Highguard has now officially shutdown`;
+const MOTIF_A = `highguard`;
+const MOTIF_B = `officially`;
+const OBJECTIVE_TAG = `highguard vs officially`;
+const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");
@@ -20,6 +20,8 @@ const playfield = document.getElementById("playfield");
 const sequencePads = [...document.querySelectorAll(".pad")];
 const themeEl = document.getElementById("themeTag");
 const summaryEl = document.getElementById("summary");
+const introOverlayEl = document.getElementById("introOverlay");
+const gameShellEl = document.getElementById("gameShell");
 const overlayEl = document.getElementById("resultOverlay");
 
 let score = 0;
@@ -129,6 +131,7 @@ function endGame() {
   if (timerId) clearInterval(timerId);
   if (animationId) cancelAnimationFrame(animationId);
   if (tapTimeoutId) clearTimeout(tapTimeoutId);
+  document.body.classList.remove("running");
   saveBoard(score);
   renderBoard();
   const duration = Math.max(1, Math.round((Date.now() - startedAt) / 1000));
@@ -158,6 +161,9 @@ function resetRound() {
   if (timerId) clearInterval(timerId);
   if (animationId) cancelAnimationFrame(animationId);
   if (tapTimeoutId) clearTimeout(tapTimeoutId);
+  document.body.classList.add("running");
+  gameShellEl.classList.remove("hidden");
+  introOverlayEl.classList.add("hidden");
   overlayEl.classList.add("hidden");
   updateHud();
 }
@@ -308,7 +314,7 @@ function setupSequence() {
           addPoints(sequence.length * 2);
           sequence.push(Math.floor(Math.random() * 4));
           setStatus(`Sequence clear. Follow the next ${MOTIF_A} pulse.`);
-    setTimeout(playSequence, 350);
+          setTimeout(playSequence, 350);
         }
       } else {
         seconds = Math.max(0, seconds - 4);
@@ -362,13 +368,10 @@ window.addEventListener("message", (event) => {
   }
 });
 
-if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("./sw.js").catch(() => {});
-}
-
 document.querySelector("h1").textContent = GAME_TITLE;
 themeEl.textContent = THEME_LABEL + " / " + OBJECTIVE_TAG;
 document.documentElement.style.setProperty("--accent", ACCENT);
+playfield.classList.add("mode-" + MODE);
 renderBoard();
 setStatus("Press Start");
 updateHud();

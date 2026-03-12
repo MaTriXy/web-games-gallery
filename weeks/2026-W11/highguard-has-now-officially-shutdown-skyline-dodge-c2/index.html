@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Highguard: Officially Closed</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="app">
+    <section class="game-frame">
+      
+      <header class="topbar">
+        <div class="title-block">
+          <p id="themeTag" class="theme-tag">Highguard has now officially shutdown</p>
+          <h1>Highguard: Officially Closed</h1>
+          <p class="sub">Swipe the last Highguard courier through collapsing sky-bridge traffic, dodging shutdown hazards while grabbing official seals for risky score boosts.</p>
+        </div>
+        <div class="hud">
+          <span>Score <strong id="score">0</strong></span>
+          <span>Combo <strong id="combo">0</strong></span>
+          <span>Multiplier <strong id="multiplier">x1</strong></span>
+          <span>Best <strong id="bestCombo">0</strong></span>
+          <span>Time <strong id="timer">45</strong></span>
+        </div>
+      </header>
+      <section id="gameShell" class="game-shell hidden">
+        <p id="status" class="status"></p>
+        <section id="playfield" class="playfield"></section>
+        <section class="sequence-grid">
+          <button class="pad hidden" data-pad="0"></button>
+          <button class="pad hidden" data-pad="1"></button>
+          <button class="pad hidden" data-pad="2"></button>
+          <button class="pad hidden" data-pad="3"></button>
+        </section>
+        <section class="footer-panels">
+          <div class="briefing-compact">
+            <h2>Mission</h2>
+            <p>Survive as long as possible on the failing Highguard exit route by swiping between lanes to avoid incoming shutdown debris, patrol beams, and OFFICIALLY CLOSED barriers while collecting official seals to build score multipliers.</p>
+          </div>
+          <div class="leaderboard-panel">
+            <h2>Leaderboard</h2>
+            <ol id="board"></ol>
+          </div>
+        </section>
+      </section>
+      <section id="introOverlay" class="screen-overlay">
+        <div class="screen-card intro-card">
+          <p class="eyebrow">Mission briefing</p>
+          <h2>Ready to launch?</h2>
+          <p class="screen-copy">Survive as long as possible on the failing Highguard exit route by swiping between lanes to avoid incoming shutdown debris, patrol beams, and OFFICIALLY CLOSED barriers while collecting official seals to build score multipliers.</p>
+          <div class="intro-grid">
+            <div>
+              <h3>Controls</h3>
+              <ul><li><strong>Dodge sideways:</strong> Swipe left or right -> Shift to an adjacent lane to avoid incoming hazards.</li><li><strong>Slip through gaps:</strong> Swipe up -> Make a short forward dash through narrow openings and seal lines.</li><li><strong>Brake:</strong> Swipe down -> Slow briefly to let fast hazards pass, but lose combo time.</li></ul>
+            </div>
+            <div>
+              <h3>Plan</h3>
+              <ol><li>Start on the center lane of the Highguard skyway as slow debris drifts in from the horizon.</li><li>Swipe between three lanes to avoid falling tower stones, sweeping patrol lights, and giant OFFICIALLY CLOSED barricades.</li><li>Collect floating official seals that appear in riskier positions near hazard clusters.</li></ol>
+            </div>
+            <div class="tips-panel">
+              <h3>Pilot tips</h3>
+              <ul><li>Stay near the center early so you can react to split barricades.</li><li>Take seals only when they preserve an escape lane afterward.</li><li>Use brake sparingly; it saves runs but weakens multiplier momentum.</li></ul>
+            </div>
+          </div>
+          <div class="start-row">
+            <button id="startBtn">Start mission</button>
+            <p>45-second run. No page scrolling. Beat your best combo.</p>
+          </div>
+        </div>
+      </section>
+      <section id="resultOverlay" class="screen-overlay hidden">
+        <div class="screen-card result-card">
+          <h2>Round Summary</h2>
+          <p id="summary" class="summary"></p>
+          <button id="restartBtn">Play again</button>
+        </div>
+      </section>
+    </section>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>

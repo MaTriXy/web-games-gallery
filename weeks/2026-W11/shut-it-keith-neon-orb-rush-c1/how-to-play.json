@@ -1,0 +1,26 @@
+{
+  "title": "Shut it Keith Rush",
+  "objective": "Score as many points as possible by mastering the shut loop before the timer ends.",
+  "controls": [
+    {
+      "action": "Tap target",
+      "input": "Touch / click",
+      "outcome": "Gain score and extend combo"
+    }
+  ],
+  "steps": [
+    "Press Start.",
+    "Hit valid prompts quickly and avoid mistakes.",
+    "Finish and submit score."
+  ],
+  "scoring": "Build combo streaks for bigger points. Highest score wins.",
+  "tips": [
+    "Keep your finger close to the main action lane.",
+    "Use sound and color to maintain rhythm."
+  ],
+  "trendContext": {
+    "source": "reddit_memes",
+    "title": "Shut it Keith",
+    "url": "https://www.reddit.com/r/memes/comments/1rro7xi/shut_it_keith/"
+  }
+}

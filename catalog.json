@@ -1,9 +1,46 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-03-12T10:33:24.983Z",
+  "generatedAt": "2026-03-12T21:54:22.069Z",
   "weekCount": 6,
-  "gameCount": 9,
+  "gameCount": 10,
   "weeks": [
+    {
+      "weekKey": "2026-W11",
+      "generatedAt": "2026-03-12T21:54:22.019Z",
+      "buildMode": "trending",
+      "sourceScope": "all",
+      "topic": null,
+      "games": [
+        {
+          "slug": "shut-it-keith-neon-orb-rush-c1",
+          "title": "Shut it Keith Rush",
+          "description": "React fast to shut-themed prompts and chain combos before time runs out.",
+          "genre": "arcade",
+          "sessionMinutes": 2,
+          "trendTitle": "Shut it Keith",
+          "trendSource": "reddit_memes",
+          "trendUrl": "https://www.reddit.com/r/memes/comments/1rro7xi/shut_it_keith/",
+          "playPath": "weeks/2026-W11/shut-it-keith-neon-orb-rush-c1/index.html",
+          "previewPath": "weeks/2026-W11/shut-it-keith-neon-orb-rush-c1/preview.webp",
+          "metadataPath": "weeks/2026-W11/shut-it-keith-neon-orb-rush-c1/metadata.json",
+          "sourcePath": "weeks/2026-W11/shut-it-keith-neon-orb-rush-c1/index.html"
+        },
+        {
+          "slug": "highguard-has-now-officially-shutdown-skyline-dodge-c2",
+          "title": "Highguard: Officially Closed",
+          "description": "Swipe the last Highguard courier through collapsing sky-bridge traffic, dodging shutdown hazards while grabbing official seals for risky score boosts.",
+          "genre": "action",
+          "sessionMinutes": 3,
+          "trendTitle": "Highguard has now officially shutdown",
+          "trendSource": "reddit_gaming",
+          "trendUrl": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/",
+          "playPath": "weeks/2026-W11/highguard-has-now-officially-shutdown-skyline-dodge-c2/index.html",
+          "previewPath": "weeks/2026-W11/highguard-has-now-officially-shutdown-skyline-dodge-c2/preview.webp",
+          "metadataPath": "weeks/2026-W11/highguard-has-now-officially-shutdown-skyline-dodge-c2/metadata.json",
+          "sourcePath": "weeks/2026-W11/highguard-has-now-officially-shutdown-skyline-dodge-c2/index.html"
+        }
+      ]
+    },
     {
       "weekKey": "2026-W11-live",
       "generatedAt": "2026-03-12T10:32:58.488Z",
@@ -121,29 +158,6 @@
           "previewPath": "weeks/2026-W11-arpromote/weekly-concept-1-hyper-casual-reflex-challenge-neon-orb-rush-c/preview.webp",
           "metadataPath": "weeks/2026-W11-arpromote/weekly-concept-1-hyper-casual-reflex-challenge-neon-orb-rush-c/metadata.json",
           "sourcePath": "weeks/2026-W11-arpromote/weekly-concept-1-hyper-casual-reflex-challenge-neon-orb-rush-c/index.html"
-        }
-      ]
-    },
-    {
-      "weekKey": "2026-W11",
-      "generatedAt": "2026-03-12T00:26:33.191Z",
-      "buildMode": "trending",
-      "sourceScope": "hackernews",
-      "topic": null,
-      "games": [
-        {
-          "slug": "show-hn-airmash-multiplayer-missile-warfare-html5-game-s",
-          "title": "Signal Sniper: Airmash Relay",
-          "description": "Tap allied airmash pilots with flashing relay pings before enemy missile chatter floods the multiplayer sky.",
-          "genre": "arcade",
-          "sessionMinutes": 2,
-          "trendTitle": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
-          "trendSource": "hacker_news",
-          "trendUrl": "https://airma.sh/",
-          "playPath": "weeks/2026-W11/show-hn-airmash-multiplayer-missile-warfare-html5-game-s/index.html",
-          "previewPath": "weeks/2026-W11/show-hn-airmash-multiplayer-missile-warfare-html5-game-s/preview.webp",
-          "metadataPath": "weeks/2026-W11/show-hn-airmash-multiplayer-missile-warfare-html5-game-s/metadata.json",
-          "sourcePath": "weeks/2026-W11/show-hn-airmash-multiplayer-missile-warfare-html5-game-s/index.html"
         }
       ]
     },

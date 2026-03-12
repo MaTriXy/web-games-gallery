@@ -1,12 +1,13 @@
 # Weekly Game Release - 2026-W11
 
-Generated at: 2026-03-12T00:26:33.191Z
+Generated at: 2026-03-12T21:54:22.019Z
 
 Mode: trending
-Source scope: hackernews
+Source scope: all
 
 ## Included games
-- slot 1: show-hn-airmash-multiplayer-missile-warfare-html5-game-s (arcade, 2 min) <- Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game
+- slot 1: shut-it-keith-neon-orb-rush-c1 (arcade, 2 min) <- Shut it Keith
+- slot 2: highguard-has-now-officially-shutdown-skyline-dodge-c2 (action, 3 min) <- Highguard has now officially shutdown
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated
