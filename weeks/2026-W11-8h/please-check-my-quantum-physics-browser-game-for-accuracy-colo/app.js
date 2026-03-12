@@ -1,11 +1,11 @@
-const GAME_TITLE = `Loot Collapse Run`;
-const ACCENT = `#FF6A3D`;
+const GAME_TITLE = `Please, Check!`;
+const ACCENT = `#00C2A8`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `All games with loot boxes in them will be rated minimum PEGI 16, starting this s`;
-const MOTIF_A = `loot`;
-const MOTIF_B = `boxes`;
-const OBJECTIVE_TAG = `loot vs boxes`;
-const STAR_THRESHOLDS = [1200,2600,4200];
+const THEME_LABEL = `Please check my quantum physics browser game for accuracy`;
+const MOTIF_A = `please`;
+const MOTIF_B = `check`;
+const OBJECTIVE_TAG = `please vs check`;
+const STAR_THRESHOLDS = [900,1800,3200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

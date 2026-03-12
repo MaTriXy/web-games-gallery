@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-12T23:15:36.923Z
+Generated at: 2026-03-12T23:35:08.299Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: difference-between-1775-2026-pulse-pattern-c1 (puzzle, 4 min) <- Difference between 1775 2026
-- slot 2: launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g (arcade, 2 min) <- Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games
-- slot 3: all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1 (action, 3 min) <- All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation
-- slot 4: gamedevmind-game-development-map-pulse-pattern-c3 (puzzle, 4 min) <- GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
-- slot 5: crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa (arcade, 2 min) <- Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch
+- slot 1: official-launch-trailer-crimson-desert-skyline-dodge-c1 (action, 3 min) <- Official Launch Trailer | Crimson Desert
+- slot 2: server-survival-tower-defense-game-that-teaches-cloud-architec (arcade, 2 min) <- server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
+- slot 3: best-i-can-offer-is-20-pulse-pattern-c1 (puzzle, 4 min) <- Best I can offer is 20$
+- slot 4: show-hn-i-built-a-multiplayer-voxel-browser-game-engine-gravit (arcade, 3 min) <- Show HN: I built a multiplayer voxel browser game engine
+- slot 5: please-check-my-quantum-physics-browser-game-for-accuracy-colo (action, 3 min) <- Please check my quantum physics browser game for accuracy
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated

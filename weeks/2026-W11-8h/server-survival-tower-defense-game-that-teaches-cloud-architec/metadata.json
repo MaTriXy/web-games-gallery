@@ -1,0 +1,50 @@
+{
+  "title": "Neon Orb Rush: Tower Uplink",
+  "description": "Defend a glowing server tower by tapping incoming traffic orbs and timing scale-ups before request surges crash your stack.",
+  "category": "Arcade Strategy",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#00F5D4",
+  "starThresholds": [
+    1200,
+    2600,
+    4200
+  ],
+  "howToPlayJson": {
+    "title": "Neon Orb Rush: Tower Uplink",
+    "objective": "Survive a 3-minute traffic storm by clearing neon request orbs before they reach the tower core, while triggering short autoscale windows to stabilize overloaded floors and build score combos.",
+    "controls": [
+      {
+        "action": "Burst a request orb",
+        "input": "Tap a moving neon orb before it reaches the tower",
+        "outcome": "The request is served, the lane is cleared, and your combo rises"
+      },
+      {
+        "action": "Deploy autoscale",
+        "input": "Tap a flashing tower floor when its scale ring appears",
+        "outcome": "That floor auto-clears matching orbs for a few seconds but leaves other lanes fully manual"
+      },
+      {
+        "action": "Patch an overload",
+        "input": "Tap a red overheating floor twice quickly",
+        "outcome": "Prevents a temporary shutdown that would disable scoring on that floor"
+      }
+    ],
+    "steps": [
+      "Neon request orbs stream toward three stacked tower floors from the screen edges and curve inward as they approach their target floor.",
+      "Tap orbs before impact to keep the server tower alive; missed orbs become breach hits, and too many breaches trigger a full outage failstate",
+      "Each clean hit adds combo, and combo boosts score multiplier until you miss, hit a decoy orb, or let a floor overheat.",
+      "Every few seconds one floor flashes with a scale ring; tap it to deploy a brief autoscale mode that clears its own traffic automatically.",
+      "The twist: during each autoscale window, a different floor enters a volatile reroute state where some orbs suddenly swap lanes mid-flight,so",
+      "Read the telegraphs: true request orbs leave a solid lane trail, rerouted orbs blink before switching floors, and decoy cache ghosts shimmer",
+      "Traffic density, orb speed, lane swaps, and overheat frequency escalate until the end of the short session."
+    ],
+    "scoring": "Score comes from served requests, with a rising multiplier for uninterrupted clears. Activating autoscale at high combo adds a bonus, and end-of-run score goes to a simple local offline leaderboard.",
+    "tips": [
+      "Prioritize orbs closest to the tower; breaches matter more than long combo greed.",
+      "Use autoscale on the busiest floor, not the emptiest one.",
+      "Watch for the blink telegraph before a reroute orb changes floors.",
+      "Patch overheats immediately or that floor stops paying combo points.",
+      "Audio helps: clean chimes mark safe clears, a harsh alarm warns of reroutes, and bass pulses signal incoming surge waves."
+    ]
+  }
+}

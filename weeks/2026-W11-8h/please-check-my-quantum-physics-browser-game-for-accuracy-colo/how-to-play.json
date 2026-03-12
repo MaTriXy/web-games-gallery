@@ -1,0 +1,43 @@
+{
+  "title": "Please, Check!",
+  "objective": "Survive a 2-4 minute review run by matching your cursor to incoming gate colors, using timed checks on uncertain gates, and building a combo multiplier through accurate approvals.",
+  "controls": [
+    {
+      "action": "Switch lane",
+      "input": "Swipe left or right",
+      "outcome": "Move the review cursor to another colored lane before the next gate arrives."
+    },
+    {
+      "action": "Check a gate",
+      "input": "Tap an incoming gate marked with a ?",
+      "outcome": "Reveal its true color for a moment so you can decide whether to stay, swap, or prepare a combo save."
+    },
+    {
+      "action": "Please slow",
+      "input": "Press and hold the PLEASE button when charged",
+      "outcome": "Briefly slows the stream and shows the next two gates, but drains the charge immediately."
+    }
+  ],
+  "steps": [
+    "Start in the middle lane with a glowing review cursor.",
+    "Colored gates stream downward; passing through a matching gate scores points and adds combo.",
+    "A mismatched gate breaks combo and costs one heart.",
+    "Some gates arrive as uncertain ? gates; tap them before contact to collapse them into a real color.",
+    "Every few seconds a PLEASE request appears and charges the PLEASE button if you clear it cleanly.",
+    "Using PLEASE briefly slows time and previews the next pair of gates, letting you plan around dense patterns.",
+    "Later waves introduce entangled gate pairs: checking one instantly changes the color of another lane's next gate, forcing quick reroutes.",
+    "The run ends when all hearts are lost, then the score posts to a simple local leaderboard."
+  ],
+  "scoring": "Score 10 per matched gate, +5 per successful check, and a multiplier that rises every 5 clean matches up to x6. Missing a check on a ? gate or hitting a wrong color resets the multiplier. Entangled pair clears give a 2x,",
+  "tips": [
+    "Save PLEASE for entangled waves, not single uncertain gates.",
+    "Tap ? gates early; the reveal window is short.",
+    "A high combo matters more than chasing every risky bonus check.",
+    "Audio pitch rises with multiplier, so use sound to track momentum without looking away from the lanes."
+  ],
+  "trendContext": {
+    "source": "hacker_news",
+    "title": "Please check my quantum physics browser game for accuracy",
+    "url": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/"
+  }
+}

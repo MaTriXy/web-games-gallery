@@ -1,0 +1,49 @@
+{
+  "title": "Best Offer Under Twenty",
+  "description": "You play a fast-talking pawn broker who memorizes each seller's demand pulse and taps back your best offer without breaking the $20 ceiling.",
+  "category": "Rhythm Bargaining",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#ff6a00",
+  "starThresholds": [
+    800,
+    1800,
+    3200
+  ],
+  "howToPlayJson": {
+    "title": "Best Offer Under Twenty",
+    "objective": "Survive a rapid line of sellers by replaying their pulse sequences, then adjusting for surprise bargaining twists so every accepted offer stays at or under $20 while your combo climbs.",
+    "controls": [
+      {
+        "action": "Replay pulse",
+        "input": "Tap the four offer pads in order with one thumb or two thumbs",
+        "outcome": "Matches the seller's demand rhythm and keeps the negotiation alive"
+      },
+      {
+        "action": "Flip a marked beat",
+        "input": "Tap and hold a glowing beat pad instead of tapping it normally",
+        "outcome": "Converts that beat into a lower-value counterbeat when the round demands a cheaper best offer"
+      },
+      {
+        "action": "Cash out combo",
+        "input": "Tap the DEAL stamp after a perfect sequence",
+        "outcome": "Banks the current multiplier before the next seller speeds up"
+      }
+    ],
+    "steps": [
+      "A seller enters and flashes a short demand sequence across four offer pads: Cash, Card, Trade, and Pass.",
+      "The game plays the pattern with punchy bass clicks and register sounds, then briefly shows the total asking price.",
+      "You replay the sequence from memory before the timer ring closes.",
+      "Every few rounds, one rule twist appears for that seller, such as 'Best Only' where one marked beat must be held to downgrade it, or 'No Pat",
+      "h Back' where the final two beats must be reversed.",
+      "If your replay satisfies the active rule and keeps the offer at $20 or less, the seller accepts and your combo increases.",
+      "A wrong beat, a missed hold, going over $20, or timing out ends the run immediately."
+    ],
+    "scoring": "Each accepted seller is worth points based on sequence length, playback speed, and current combo multiplier. Perfect replays add a 'Best Offer' multiplier that grows until you bank it with DEAL. Unbanked multipliers are",
+    "tips": [
+      "Listen before you look; each pad has a distinct sound cue.",
+      "Hold beats only when they glow gold; unnecessary holds count as mistakes.",
+      "Bank big combos before a high-speed seller if your multiplier is at risk.",
+      "Watch the price pips under the pads so you do not accidentally push the offer above $20."
+    ]
+  }
+}
