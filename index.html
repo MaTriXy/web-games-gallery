@@ -6,84 +6,426 @@
   <title>Matrixy Web Games</title>
   <style>
     :root {
-      --bg: #f3efe7;
-      --ink: #152033;
-      --muted: #5b657a;
-      --card: #fffdf9;
-      --line: rgba(21, 32, 51, 0.12);
-      --accent: #d65a1f;
+      color-scheme: light;
+      --bg: #f4efe5;
+      --ink: #172033;
+      --muted: #5a6685;
+      --card: rgba(255,255,255,0.88);
+      --line: rgba(23,32,51,0.1);
+      --accent: #ff6b2c;
+      --accent-2: #1b7c83;
+      --shadow: 0 18px 40px rgba(23,32,51,0.12);
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
-      min-height: 100vh;
       font-family: "Avenir Next", "Segoe UI", sans-serif;
       color: var(--ink);
       background:
-        radial-gradient(circle at top left, rgba(214, 90, 31, 0.16), transparent 28%),
-        linear-gradient(180deg, #fff8ef 0%, var(--bg) 100%);
+        radial-gradient(circle at top left, rgba(255,107,44,0.18), transparent 32%),
+        radial-gradient(circle at top right, rgba(27,124,131,0.16), transparent 28%),
+        linear-gradient(180deg, #fff8ee 0%, var(--bg) 52%, #f6f6fb 100%);
+      min-height: 100vh;
     }
-    main {
-      max-width: 860px;
+    .shell {
+      max-width: 1200px;
       margin: 0 auto;
-      padding: 40px 20px 64px;
+      padding: 28px 20px 56px;
     }
-    section {
+    .hero {
       padding: 28px;
       border: 1px solid var(--line);
-      border-radius: 24px;
-      background: var(--card);
-      box-shadow: 0 18px 42px rgba(21, 32, 51, 0.08);
+      border-radius: 28px;
+      background: linear-gradient(135deg, rgba(255,255,255,0.92), rgba(255,250,241,0.9));
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      position: relative;
     }
-    p.kicker {
-      margin: 0 0 10px;
-      color: var(--accent);
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: auto -10% -45% auto;
+      width: 260px;
+      height: 260px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(255,107,44,0.25), transparent 68%);
+      pointer-events: none;
+    }
+    .eyebrow {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 12px;
       text-transform: uppercase;
       letter-spacing: 0.08em;
-      font-size: 12px;
-      font-weight: 700;
+    }
+    h1, h2, h3 {
+      font-family: Georgia, "Times New Roman", serif;
+      letter-spacing: -0.02em;
     }
     h1 {
-      margin: 0 0 12px;
-      font: 700 clamp(2.2rem, 5vw, 4rem) / 0.95 Georgia, serif;
-      letter-spacing: -0.03em;
+      margin: 12px 0 8px;
+      font-size: clamp(2.5rem, 5vw, 4.6rem);
+      line-height: 0.95;
+      max-width: 12ch;
     }
-    p {
-      margin: 0;
+    .hero p {
+      max-width: 64ch;
       color: var(--muted);
-      line-height: 1.55;
-      max-width: 60ch;
+      font-size: 1.02rem;
     }
-    .meta {
+    .summary {
       display: flex;
-      gap: 10px;
+      gap: 12px;
       flex-wrap: wrap;
       margin-top: 18px;
     }
-    .meta span {
-      padding: 7px 11px;
+    .summary span,
+    .section-meta span,
+    .eyebrow span {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 6px 10px;
+      background: rgba(255,255,255,0.72);
+    }
+    .filters {
+      margin: 22px 0 18px;
+      display: grid;
+      grid-template-columns: minmax(180px, 1.5fr) minmax(150px, 0.8fr) minmax(150px, 0.8fr);
+      gap: 12px;
+    }
+    .filters input,
+    .filters select {
+      width: 100%;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+      padding: 14px 16px;
+      font: inherit;
+      background: rgba(255,255,255,0.88);
+      color: var(--ink);
+    }
+    .week-section {
+      margin-top: 28px;
+      padding-top: 10px;
+    }
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: end;
+      margin-bottom: 14px;
+    }
+    .kicker {
+      margin: 0 0 4px;
+      color: var(--accent-2);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 12px;
+    }
+    h2 {
+      margin: 0;
+      font-size: clamp(1.7rem, 3vw, 2.4rem);
+    }
+    .section-meta {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      color: var(--muted);
+      justify-content: flex-end;
+    }
+    .game-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 16px;
+    }
+    .game-card {
+      display: flex;
+      flex-direction: column;
+      min-height: 100%;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      overflow: hidden;
+      background: var(--card);
+      box-shadow: var(--shadow);
+      transition: transform 180ms ease, box-shadow 180ms ease;
+    }
+    .game-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 24px 48px rgba(23,32,51,0.16);
+    }
+    .thumb-link {
+      display: block;
+      aspect-ratio: 16 / 10;
+      background: linear-gradient(135deg, rgba(27,124,131,0.26), rgba(255,107,44,0.22));
+    }
+    .game-card img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      background: linear-gradient(135deg, rgba(27,124,131,0.18), rgba(255,107,44,0.18));
+    }
+    .card-body {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      padding: 16px;
+      flex: 1;
+    }
+    .card-body .eyebrow {
+      gap: 6px;
+      font-size: 11px;
+    }
+    h3 {
+      margin: 0;
+      font-size: 1.45rem;
+      line-height: 1;
+    }
+    h3 a,
+    .actions a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .card-body p {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.45;
+      flex: 1;
+    }
+    .trend {
+      color: var(--accent-2);
+      font-size: 0.95rem;
+      line-height: 1.35;
+    }
+    .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .actions a {
+      padding: 10px 12px;
       border-radius: 999px;
       border: 1px solid var(--line);
       background: #fff;
-      color: var(--ink);
-      font-size: 13px;
+    }
+    .actions a:first-child {
+      background: var(--ink);
+      border-color: var(--ink);
+      color: white;
+    }
+    .empty-state {
+      display: none;
+      margin-top: 26px;
+      padding: 20px;
+      border: 1px dashed var(--line);
+      border-radius: 18px;
+      color: var(--muted);
+      background: rgba(255,255,255,0.65);
+    }
+    footer {
+      margin-top: 36px;
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+    @media (max-width: 760px) {
+      .shell {
+        padding: 18px 14px 44px;
+      }
+      .hero {
+        padding: 20px;
+        border-radius: 22px;
+      }
+      .filters,
+      .section-head {
+        grid-template-columns: 1fr;
+        display: grid;
+      }
+      .section-meta {
+        justify-content: flex-start;
+      }
     }
   </style>
 </head>
 <body>
-  <main>
-    <section>
-      <p class="kicker">Gallery Reset</p>
-      <h1>No published games right now.</h1>
-      <p>
-        The previous generated games were removed. This gallery will stay empty until a new run produces games worth publishing.
-      </p>
-      <div class="meta">
-        <span>0 weeks</span>
-        <span>0 games</span>
-        <span>Waiting for next publish</span>
+  <main class="shell">
+    <section class="hero">
+      <div class="eyebrow">
+        <span>Static gallery</span>
+        <span>GitHub Pages ready</span>
+        <span>5 games</span>
+      </div>
+      <h1>Matrixy Web Games</h1>
+      <p>Browsable releases exported from <code>build/weeks</code>. Each card opens the self-contained game bundle exactly as the agent produced it, so the gallery doubles as a real deployment target.</p>
+      <div class="summary">
+        <span>1 weekly releases</span>
+        <span>Generated 2026-03-12T23:15:36.987Z</span>
+        <span>Relative links for project Pages or user Pages</span>
       </div>
     </section>
+
+    <section class="filters">
+      <input id="searchInput" type="search" placeholder="Search title, trend, genre, or week" />
+      <select id="weekFilter"><option value="">All weeks</option>
+<option value="2026-W11-8h">2026-W11-8h</option></select>
+      <select id="genreFilter"><option value="">All genres</option>
+<option value="action">action</option>
+<option value="arcade">arcade</option>
+<option value="puzzle">puzzle</option></select>
+    </section>
+
+    <div id="gallerySections"><section class="week-section" data-week-section="2026-W11-8h">
+      <div class="section-head">
+        <div>
+          <p class="kicker">trending build</p>
+          <h2>2026-W11-8h</h2>
+        </div>
+        <p class="section-meta">
+          <span>all</span>
+          
+          <span>5 games</span>
+        </p>
+      </div>
+      <div class="game-grid">
+        <article class="game-card" data-week="2026-W11-8h" data-genre="puzzle" data-search="2026-w11-8h difference line stand between 1775 and 2026, hear where their pulse codes disagree, and replay the differences before the border breaks. puzzle difference between 1775 2026 reddit_memes">
+        <a class="thumb-link" href="weeks/2026-W11-8h/difference-between-1775-2026-pulse-pattern-c1/index.html">
+          <img src="weeks/2026-W11-8h/difference-between-1775-2026-pulse-pattern-c1/preview.webp" alt="Difference Line preview" loading="lazy" />
+        </a>
+        <div class="card-body">
+          <div class="eyebrow">
+            <span>2026-W11-8h</span>
+            <span>puzzle</span>
+            <span>4 min</span>
+          </div>
+          <h3><a href="weeks/2026-W11-8h/difference-between-1775-2026-pulse-pattern-c1/index.html">Difference Line</a></h3>
+          <p>Stand between 1775 and 2026, hear where their pulse codes disagree, and replay the differences before the border breaks.</p>
+          <div class="trend">Difference between 1775 2026</div>
+          <div class="actions">
+            <a href="weeks/2026-W11-8h/difference-between-1775-2026-pulse-pattern-c1/index.html">Play</a>
+            <a href="weeks/2026-W11-8h/manifest.json">Week manifest</a>
+          </div>
+        </div>
+      </article>
+<article class="game-card" data-week="2026-W11-8h" data-genre="arcade" data-search="2026-w11-8h rosebud launch control tap rosebud rockets only when their launch petals open and the tower gives a clear go-signal, then hold your combo through sudden abort calls. arcade launch hn: rosebud (yc s19) – turn game descriptions into browser games hacker_news">
+        <a class="thumb-link" href="weeks/2026-W11-8h/launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g/index.html">
+          <img src="weeks/2026-W11-8h/launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g/preview.webp" alt="Rosebud Launch Control preview" loading="lazy" />
+        </a>
+        <div class="card-body">
+          <div class="eyebrow">
+            <span>2026-W11-8h</span>
+            <span>arcade</span>
+            <span>2 min</span>
+          </div>
+          <h3><a href="weeks/2026-W11-8h/launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g/index.html">Rosebud Launch Control</a></h3>
+          <p>Tap rosebud rockets only when their launch petals open and the tower gives a clear go-signal, then hold your combo through sudden abort calls.</p>
+          <div class="trend">Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games</div>
+          <div class="actions">
+            <a href="weeks/2026-W11-8h/launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g/index.html">Play</a>
+            <a href="weeks/2026-W11-8h/manifest.json">Week manifest</a>
+          </div>
+        </div>
+      </article>
+<article class="game-card" data-week="2026-W11-8h" data-genre="action" data-search="2026-w11-8h loot collapse run swipe through collapsing loot lanes, bait risky games boosts, and stretch your combo before the grid shuts down. action all games with loot boxes in them will be rated minimum pegi 16, starting this summer | meaning they can’t legally be sold to children 15 or under in the uk or any other european country which has adopted pegi ratings into its legislation reddit_gaming">
+        <a class="thumb-link" href="weeks/2026-W11-8h/all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1/index.html">
+          <img src="weeks/2026-W11-8h/all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1/preview.webp" alt="Loot Collapse Run preview" loading="lazy" />
+        </a>
+        <div class="card-body">
+          <div class="eyebrow">
+            <span>2026-W11-8h</span>
+            <span>action</span>
+            <span>3 min</span>
+          </div>
+          <h3><a href="weeks/2026-W11-8h/all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1/index.html">Loot Collapse Run</a></h3>
+          <p>Swipe through collapsing loot lanes, bait risky games boosts, and stretch your combo before the grid shuts down.</p>
+          <div class="trend">All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation</div>
+          <div class="actions">
+            <a href="weeks/2026-W11-8h/all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1/index.html">Play</a>
+            <a href="weeks/2026-W11-8h/manifest.json">Week manifest</a>
+          </div>
+        </div>
+      </article>
+<article class="game-card" data-week="2026-W11-8h" data-genre="puzzle" data-search="2026-w11-8h gamedevmind: shortcut sprint route the gamedevmind through flashing development paths by replaying pulse sequences and compressing familiar problems into risky shortcut swipes. puzzle gamedevmind 最全面的游戏开发技术图谱(game development map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。 github_games">
+        <a class="thumb-link" href="weeks/2026-W11-8h/gamedevmind-game-development-map-pulse-pattern-c3/index.html">
+          <img src="weeks/2026-W11-8h/gamedevmind-game-development-map-pulse-pattern-c3/preview.webp" alt="GameDevMind: Shortcut Sprint preview" loading="lazy" />
+        </a>
+        <div class="card-body">
+          <div class="eyebrow">
+            <span>2026-W11-8h</span>
+            <span>puzzle</span>
+            <span>4 min</span>
+          </div>
+          <h3><a href="weeks/2026-W11-8h/gamedevmind-game-development-map-pulse-pattern-c3/index.html">GameDevMind: Shortcut Sprint</a></h3>
+          <p>Route the GameDevMind through flashing development paths by replaying pulse sequences and compressing familiar problems into risky shortcut swipes.</p>
+          <div class="trend">GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。</div>
+          <div class="actions">
+            <a href="weeks/2026-W11-8h/gamedevmind-game-development-map-pulse-pattern-c3/index.html">Play</a>
+            <a href="weeks/2026-W11-8h/manifest.json">Week manifest</a>
+          </div>
+        </div>
+      </article>
+<article class="game-card" data-week="2026-W11-8h" data-genre="arcade" data-search="2026-w11-8h crimson triage tap true crimson calls, reject desert decoys, and hold a growing combo as the launch feed floods faster every wave. arcade crimson desert adds confirmation of denuvo drm to its steam page a week out from launch reddit_gaming">
+        <a class="thumb-link" href="weeks/2026-W11-8h/crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa/index.html">
+          <img src="weeks/2026-W11-8h/crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa/preview.webp" alt="Crimson Triage preview" loading="lazy" />
+        </a>
+        <div class="card-body">
+          <div class="eyebrow">
+            <span>2026-W11-8h</span>
+            <span>arcade</span>
+            <span>2 min</span>
+          </div>
+          <h3><a href="weeks/2026-W11-8h/crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa/index.html">Crimson Triage</a></h3>
+          <p>Tap true crimson calls, reject desert decoys, and hold a growing combo as the launch feed floods faster every wave.</p>
+          <div class="trend">Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch</div>
+          <div class="actions">
+            <a href="weeks/2026-W11-8h/crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa/index.html">Play</a>
+            <a href="weeks/2026-W11-8h/manifest.json">Week manifest</a>
+          </div>
+        </div>
+      </article>
+      </div>
+    </section></div>
+    <div id="emptyState" class="empty-state">No games match the current filters yet.</div>
+
+    <footer>
+      <p>Tip: push this repo to GitHub and enable Pages on the default branch to publish the gallery at <code>github.io</code>.</p>
+    </footer>
   </main>
+  <script>
+    const searchInput = document.getElementById("searchInput");
+    const weekFilter = document.getElementById("weekFilter");
+    const genreFilter = document.getElementById("genreFilter");
+    const cards = Array.from(document.querySelectorAll(".game-card"));
+    const sections = Array.from(document.querySelectorAll(".week-section"));
+    const emptyState = document.getElementById("emptyState");
+
+    function applyFilters() {
+      const query = String(searchInput.value || "").trim().toLowerCase();
+      const week = weekFilter.value;
+      const genre = genreFilter.value;
+      let visibleCards = 0;
+
+      cards.forEach((card) => {
+        const matchesQuery = !query || card.dataset.search.includes(query);
+        const matchesWeek = !week || card.dataset.week === week;
+        const matchesGenre = !genre || card.dataset.genre === genre;
+        const visible = matchesQuery && matchesWeek && matchesGenre;
+        card.style.display = visible ? "" : "none";
+        if (visible) visibleCards += 1;
+      });
+
+      sections.forEach((section) => {
+        const weekKey = section.dataset.weekSection;
+        const weekHasVisibleCards = cards.some((card) => card.dataset.week === weekKey && card.style.display !== "none");
+        section.style.display = weekHasVisibleCards ? "" : "none";
+      });
+
+      emptyState.style.display = visibleCards > 0 ? "none" : "block";
+    }
+
+    searchInput.addEventListener("input", applyFilters);
+    weekFilter.addEventListener("change", applyFilters);
+    genreFilter.addEventListener("change", applyFilters);
+    applyFilters();
+  </script>
 </body>
 </html>

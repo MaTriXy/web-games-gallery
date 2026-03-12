@@ -1,0 +1,32 @@
+{
+  "title": "Crimson Triage",
+  "objective": "Sort the live crimson feed under pressure, chasing multiplier windows without letting decoys or missed calls collapse the run.",
+  "controls": [
+    {
+      "action": "Tap a live call",
+      "input": "Touch / click",
+      "outcome": "Confirm a valid target and extend combo"
+    },
+    {
+      "action": "Ignore a decoy",
+      "input": "Hold position for the next wave",
+      "outcome": "Preserve the streak and avoid a timer penalty"
+    }
+  ],
+  "steps": [
+    "Three targets appear at once, but only one is the live crimson action worth taking.",
+    "Every correct tap shortens the next decision window and raises the multiplier ceiling.",
+    "Mistakes or hesitations trigger an launch penalty that eats time and resets the combo."
+  ],
+  "scoring": "Correct calls build combo tiers and unlock bigger point jumps. The highest scores come from surviving faster waves without cashing out the streak.",
+  "tips": [
+    "Read the full crimson label before tapping; decoys are designed to steal rushed fingers.",
+    "Tempo matters more than pure speed; one missed window hurts more than a calm half-second read.",
+    "Use early easy waves to build multiplier, then play cleaner once the board starts lying."
+  ],
+  "trendContext": {
+    "source": "reddit_gaming",
+    "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
+    "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/"
+  }
+}
