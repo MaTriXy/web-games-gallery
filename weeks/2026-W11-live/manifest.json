@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.0.0",
   "weekKey": "2026-W11-live",
-  "generatedAt": "2026-03-12T10:19:07.966Z",
+  "generatedAt": "2026-03-12T10:23:40.679Z",
   "games": [
     {
       "slug": "show-hn-airmash-multiplayer-missile-warfare-html5-game-r",
-      "title": "Airmash: Squadron Sync",
-      "description": "Tap incoming missile beats to keep your airmash squadron in sync and survive a 3-minute multiplayer sky raid.",
+      "title": "Airmash: Multiplayer Beat Barrage",
+      "description": "Tap incoming missile locks on the beat to keep a multiplayer squadron airborne and stack a rising combo.",
       "genre": "music",
       "sessionMinutes": 3,
       "capabilities": [

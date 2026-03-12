@@ -1,4 +1,4 @@
-const GAME_TITLE = `Airmash: Squadron Sync`;
+const GAME_TITLE = `Airmash: Multiplayer Beat Barrage`;
 const ACCENT = `#19C2FF`;
 const MODE = `tap_targets`;
 const THEME_LABEL = `Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game`;
@@ -131,6 +131,7 @@ function endGame() {
   if (timerId) clearInterval(timerId);
   if (animationId) cancelAnimationFrame(animationId);
   if (tapTimeoutId) clearTimeout(tapTimeoutId);
+  document.body.classList.remove("running");
   saveBoard(score);
   renderBoard();
   const duration = Math.max(1, Math.round((Date.now() - startedAt) / 1000));
@@ -160,6 +161,7 @@ function resetRound() {
   if (timerId) clearInterval(timerId);
   if (animationId) cancelAnimationFrame(animationId);
   if (tapTimeoutId) clearTimeout(tapTimeoutId);
+  document.body.classList.add("running");
   gameShellEl.classList.remove("hidden");
   introOverlayEl.classList.add("hidden");
   overlayEl.classList.add("hidden");
@@ -373,6 +375,7 @@ if ("serviceWorker" in navigator) {
 document.querySelector("h1").textContent = GAME_TITLE;
 themeEl.textContent = THEME_LABEL + " / " + OBJECTIVE_TAG;
 document.documentElement.style.setProperty("--accent", ACCENT);
+playfield.classList.add("mode-" + MODE);
 renderBoard();
 setStatus("Press Start");
 updateHud();

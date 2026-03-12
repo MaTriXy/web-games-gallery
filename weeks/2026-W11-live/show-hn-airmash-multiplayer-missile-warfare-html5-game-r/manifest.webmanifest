@@ -1,6 +1,6 @@
 {
-  "name": "Airmash: Squadron Sync",
-  "short_name": "airmash-squa",
+  "name": "Airmash: Multiplayer Beat Barrage",
+  "short_name": "airmash-mult",
   "display": "standalone",
   "start_url": "./index.html",
   "scope": "./",
