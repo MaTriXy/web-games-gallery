@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tap Blitz</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <header>
+      <h1>Tap Blitz</h1>
+      <p>Tap the moving target before the timer ends.</p>
+    </header>
+
+    <section class="hud">
+      <div>Time: <span id="time">30</span>s</div>
+      <div>Score: <span id="score">0</span></div>
+      <button id="toggle-audio" type="button">Audio: On</button>
+    </section>
+
+    <section id="arena" class="arena" aria-label="Game arena">
+      <button id="target" class="target" type="button" aria-label="Tap target"></button>
+    </section>
+
+    <section class="actions">
+      <button id="start" type="button">Start Round</button>
+      <p id="status">Press start to play.</p>
+    </section>
+
+    <section>
+      <h2>Leaderboard</h2>
+      <ol id="leaderboard"></ol>
+    </section>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

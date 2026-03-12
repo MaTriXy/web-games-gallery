@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Weekly Concept Neon Board</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="app">
+    <h1>Weekly Concept Neon Board</h1>
+    <p class="sub">Tap sprinting neon concept orbs on a glowing weekly planner before their countdown rings collapse.</p>
+    <p id="themeTag" class="theme-tag">Weekly concept 1: hyper-casual reflex challenge</p>
+    <div class="hud">
+      <span>Score <strong id="score">0</strong></span>
+      <span>Combo <strong id="combo">0</strong></span>
+      <span>Multiplier <strong id="multiplier">x1</strong></span>
+      <span>Best <strong id="bestCombo">0</strong></span>
+      <span>Time <strong id="timer">45</strong></span>
+      <button id="startBtn">Start</button>
+    </div>
+    <section class="briefing">
+      <div>
+        <h2>Objective</h2>
+        <p>Survive a 3-minute review rush by clearing as many moving concept orbs as possible, building combo multipliers, and avoiding 3 missed orbs.</p>
+      </div>
+      <div>
+        <h2>Controls</h2>
+        <ul><li><strong>Pop orb:</strong> Tap a moving neon orb -> Scores points and extends your combo if the orb is cleared before its ring closes.</li><li><strong>Claim streak bonus:</strong> Tap the highlighted weekly orb next -> Adds bonus points and increases the multiplier faster.</li><li><strong>Recover lane:</strong> Tap a flashing cracked lane marker -> Prevents a pending lane lock after a miss and buys a moment of breathing room.</li></ul>
+      </div>
+      <div>
+        <h2>How to Play</h2>
+        <ol><li>Neon concept orbs slide across a vertical weekly board in clearly marked lanes, each with a shrinking outer ring that telegraphs its vanish.</li><li>Tap normal blue orbs for base points, then prioritize the gold weekly orb when it appears because it boosts combo by 2 steps instead of 1.</li><li>Every 20 seconds the board speeds up, lane patterns widen, and pink decoy scribble-orbs start weaving between real targets.</li><li>Missing a real orb, tapping a decoy, or letting a lane crack fully removes combo and adds 1 strike.</li><li>At 3 strikes, the review session fails and your score is submitted to the local on-device weekly leaderboard.</li><li>A short synth loop accelerates with the game pace, while distinct chimes signal perfect taps, combo tier-ups, danger rings, and final-strike</li><li>scoreի? Let&#39;s fix invalid accidental text.</li></ol>
+      </div>
+      <div>
+        <h2>Tips</h2>
+        <ul><li>Watch the outer ring, not just the orb path; the ring gives the clearest vanish timing.</li><li>Use the center thumb zone and let side-lane orbs come to you when the speed ramps up.</li><li>Save focus for gold weekly orbs because they rebuild combo faster after a mistake.</li></ul>
+      </div>
+    </section>
+    <p id="status" class="status"></p>
+    <section id="playfield" class="playfield"></section>
+    <section class="sequence-grid">
+      <button class="pad hidden" data-pad="0"></button>
+      <button class="pad hidden" data-pad="1"></button>
+      <button class="pad hidden" data-pad="2"></button>
+      <button class="pad hidden" data-pad="3"></button>
+    </section>
+    <section id="resultOverlay" class="result-overlay hidden">
+      <div class="result-card">
+        <h2>Round Summary</h2>
+        <p id="summary" class="summary"></p>
+        <button id="restartBtn">Play again</button>
+      </div>
+    </section>
+    <h2>Leaderboard</h2>
+    <ol id="board"></ol>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>

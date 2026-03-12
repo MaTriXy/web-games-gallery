@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "2.0.0",
+  "weekKey": "2026-W11-diverse",
+  "generatedAt": "2026-03-12T09:06:32.209Z",
+  "games": [
+    {
+      "slug": "weekly-concept-1-brain-teaser-with-playful-pressure-pulse-patt",
+      "title": "Weekly Concept: Pulse Brief",
+      "description": "Memorize the weekly concept board's flashing pulse order, then replay it before the deadline siren hits.",
+      "genre": "puzzle",
+      "sessionMinutes": 4,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Weekly concept 1: brain teaser with playful pressure",
+      "trendSource": "static_seed",
+      "trendUrl": "",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "sourcePath": "./weekly-concept-1-brain-teaser-with-playful-pressure-pulse-patt/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "weekly-concept-2-hyper-casual-reflex-challenge-skyline-dodge-c",
+      "title": "Weekly Concept Deadline",
+      "description": "Swipe a rooftop editor between lanes to keep the latest weekly concept issue intact while chasing risky bonus notes for a bigger score.",
+      "genre": "action",
+      "sessionMinutes": 3,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Weekly concept 2: hyper-casual reflex challenge",
+      "trendSource": "static_seed",
+      "trendUrl": "",
+      "ideaSeedId": "skyline-dodge",
+      "ideaSeedName": "Skyline Dodge",
+      "sourcePath": "./weekly-concept-2-hyper-casual-reflex-challenge-skyline-dodge-c/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    }
+  ],
+  "sourceReferences": [
+    {
+      "id": "github-topic-children-games",
+      "label": "GitHub Topic: children-games",
+      "url": "https://github.com/topics/children-games?o=asc&s=updated",
+      "role": "broad_discovery"
+    },
+    {
+      "id": "readyready-awesome-programming-games",
+      "label": "readyready15728/awesome-programming-games",
+      "url": "https://github.com/readyready15728/awesome-programming-games",
+      "role": "curated_seed_list"
+    },
+    {
+      "id": "dargacode-logic-and-coding-games",
+      "label": "dargaCode/LogicAndCodingGames",
+      "url": "https://github.com/dargaCode/LogicAndCodingGames",
+      "role": "logic_game_reference"
+    },
+    {
+      "id": "lucaspiller-awesome-programming-games",
+      "label": "lucaspiller/awesome-programming-games",
+      "url": "https://github.com/lucaspiller/awesome-programming-games",
+      "role": "curated_cross_check"
+    }
+  ],
+  "buildMode": "static",
+  "sourceScope": "all",
+  "topic": null
+}

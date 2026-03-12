@@ -1,0 +1,10 @@
+{
+  "name": "Weekly Concept: Pulse Brief",
+  "short_name": "weekly-conce",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "scope": "./",
+  "background_color": "#0b1020",
+  "theme_color": "#FF6B3D",
+  "icons": []
+}

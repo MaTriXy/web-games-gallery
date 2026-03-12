@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lane Dodge</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <header>
+      <h1>Lane Dodge</h1>
+      <p>Move left/right and dodge incoming blocks.</p>
+    </header>
+
+    <section class="hud">
+      <div>Score: <span id="score">0</span></div>
+      <div>Best: <span id="best">0</span></div>
+      <button id="audio" type="button">Audio: On</button>
+      <button id="start" type="button">Start</button>
+    </section>
+
+    <canvas id="game" width="360" height="540" aria-label="Lane dodge game"></canvas>
+
+    <section class="controls">
+      <button id="left" type="button">Left</button>
+      <button id="right" type="button">Right</button>
+    </section>
+
+    <p id="status">Press Start to play.</p>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

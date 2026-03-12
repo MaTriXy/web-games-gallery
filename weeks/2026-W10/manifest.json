@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0.0",
+  "weekKey": "2026-W10",
+  "generatedAt": "2026-03-07T19:57:39.513Z",
+  "games": [
+    {
+      "id": "tap-blitz",
+      "name": "Tap Blitz",
+      "description": "Fast reaction tapping game with 30-second rounds.",
+      "genre": "arcade",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "sourcePath": "./tap-blitz/index.html"
+    },
+    {
+      "id": "lane-dodge",
+      "name": "Lane Dodge",
+      "description": "Swipe/tap lane dodging endless challenge.",
+      "genre": "action",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "sourcePath": "./lane-dodge/index.html"
+    }
+  ],
+  "sourceReferences": [
+    {
+      "id": "github-topic-children-games",
+      "label": "GitHub Topic: children-games",
+      "url": "https://github.com/topics/children-games?o=asc&s=updated",
+      "role": "broad_discovery"
+    },
+    {
+      "id": "readyready-awesome-programming-games",
+      "label": "readyready15728/awesome-programming-games",
+      "url": "https://github.com/readyready15728/awesome-programming-games",
+      "role": "curated_seed_list"
+    },
+    {
+      "id": "dargacode-logic-and-coding-games",
+      "label": "dargaCode/LogicAndCodingGames",
+      "url": "https://github.com/dargaCode/LogicAndCodingGames",
+      "role": "logic_game_reference"
+    },
+    {
+      "id": "lucaspiller-awesome-programming-games",
+      "label": "lucaspiller/awesome-programming-games",
+      "url": "https://github.com/lucaspiller/awesome-programming-games",
+      "role": "curated_cross_check"
+    }
+  ]
+}

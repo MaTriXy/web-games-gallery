@@ -1,0 +1,48 @@
+{
+  "title": "Weekly Concept: Pulse Brief",
+  "description": "Memorize the weekly concept board's flashing pulse order, then replay it before the deadline siren hits.",
+  "category": "Memory Rhythm",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#FF6B3D",
+  "starThresholds": [
+    1200,
+    2600,
+    4200
+  ],
+  "howToPlayJson": {
+    "title": "Weekly Concept: Pulse Brief",
+    "objective": "Tap the concept tiles in the exact pulse sequence to ship as many weekly briefs as possible before you run out of strikes.",
+    "controls": [
+      {
+        "action": "Replay sequence",
+        "input": "Tap concept tiles in order",
+        "outcome": "Correct taps lock in the brief and build combo"
+      },
+      {
+        "action": "Hold to preview",
+        "input": "Press and hold the preview button",
+        "outcome": "Spend a limited assist to hear and see the current sequence once more"
+      },
+      {
+        "action": "Start next brief",
+        "input": "Tap the ready stamp",
+        "outcome": "Begins the next faster, longer pulse round"
+      }
+    ],
+    "steps": [
+      "A new weekly board appears with 4 concept tiles such as Hook, Color, Shape, and Mood.",
+      "The tiles pulse with light and distinct audio tones in a short sequence.",
+      "After the preview ends, replay the exact order by tapping the tiles.",
+      "Each cleared brief adds one pulse to future rounds and slightly shortens preview time and input time.",
+      "A wrong tap or expired timer costs a strike; after 3 strikes, the session ends and your leaderboard score is submitted locally for later syn",
+      "Every few rounds, a bonus brief appears with a faster beat and doubled combo value."
+    ],
+    "scoring": "Score 100 points per correct tap and 300 bonus points for clearing a brief. Maintain a no-miss combo to raise a multiplier up to x5; bonus briefs add +1 temporary multiplier tier. Any mistake resets the combo, and the 3‑",
+    "tips": [
+      "Listen as much as you look; each tile has its own tone.",
+      "Short, fast taps are safer than hesitating near the timer.",
+      "Use the preview assist only on long sequences, because assists are limited.",
+      "Bonus briefs are the best way to push leaderboard scores if your combo is already high."
+    ]
+  }
+}

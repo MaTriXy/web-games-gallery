@@ -1,0 +1,41 @@
+{
+  "title": "Weekly Concept Neon Board",
+  "objective": "Survive a 3-minute review rush by clearing as many moving concept orbs as possible, building combo multipliers, and avoiding 3 missed orbs.",
+  "controls": [
+    {
+      "action": "Pop orb",
+      "input": "Tap a moving neon orb",
+      "outcome": "Scores points and extends your combo if the orb is cleared before its ring closes."
+    },
+    {
+      "action": "Claim streak bonus",
+      "input": "Tap the highlighted weekly orb next",
+      "outcome": "Adds bonus points and increases the multiplier faster."
+    },
+    {
+      "action": "Recover lane",
+      "input": "Tap a flashing cracked lane marker",
+      "outcome": "Prevents a pending lane lock after a miss and buys a moment of breathing room."
+    }
+  ],
+  "steps": [
+    "Neon concept orbs slide across a vertical weekly board in clearly marked lanes, each with a shrinking outer ring that telegraphs its vanish.",
+    "Tap normal blue orbs for base points, then prioritize the gold weekly orb when it appears because it boosts combo by 2 steps instead of 1.",
+    "Every 20 seconds the board speeds up, lane patterns widen, and pink decoy scribble-orbs start weaving between real targets.",
+    "Missing a real orb, tapping a decoy, or letting a lane crack fully removes combo and adds 1 strike.",
+    "At 3 strikes, the review session fails and your score is submitted to the local on-device weekly leaderboard.",
+    "A short synth loop accelerates with the game pace, while distinct chimes signal perfect taps, combo tier-ups, danger rings, and final-strike",
+    "scoreի? Let's fix invalid accidental text."
+  ],
+  "scoring": "Normal orb: 10 points. Weekly orb: 25 points. Combo multiplier starts at x1 and increases every 5 clean hits up to x5; weekly orbs count double toward the multiplier. Clearing 3 orbs in under 2 seconds triggers a Briefed",
+  "tips": [
+    "Watch the outer ring, not just the orb path; the ring gives the clearest vanish timing.",
+    "Use the center thumb zone and let side-lane orbs come to you when the speed ramps up.",
+    "Save focus for gold weekly orbs because they rebuild combo faster after a mistake."
+  ],
+  "trendContext": {
+    "source": "static_seed",
+    "title": "Weekly concept 1: hyper-casual reflex challenge",
+    "url": ""
+  }
+}

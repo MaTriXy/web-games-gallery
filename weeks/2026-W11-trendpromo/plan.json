@@ -1,0 +1,929 @@
+{
+  "weekKey": "2026-W11-trendpromo",
+  "mode": "trending",
+  "geo": "US",
+  "sourceScope": "all",
+  "ratingPolicy": "apple-9+",
+  "ratingEngineRequested": "rules",
+  "ratingEngineUsed": "rules",
+  "ratingModerationStatus": "disabled",
+  "ratingCodexStatus": "disabled",
+  "ratingBlockedCount": 2,
+  "requestedCount": 2,
+  "trendCandidates": [
+    {
+      "rank": 1,
+      "source": "reddit_memes",
+      "title": "Guess I'll just walk",
+      "rawScore": 68693,
+      "url": "https://www.reddit.com/r/memes/comments/1rqv2ll/guess_ill_just_walk/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 67448,
+        "comments": 415
+      },
+      "score": 484,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 2,
+      "source": "reddit_gaming",
+      "title": "Got Opus Magnum for my birthday. I can watch these mechanisms ALL DAY.",
+      "rawScore": 5030,
+      "url": "https://www.reddit.com/r/gaming/comments/1rqgp2k/got_opus_magnum_for_my_birthday_i_can_watch_these/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 4151,
+        "comments": 293
+      },
+      "score": 333,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 3,
+      "source": "google_trends",
+      "title": "weather forecast snow storm",
+      "rawScore": 5000,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 5000
+      },
+      "score": 203,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 4,
+      "source": "github_games",
+      "title": "GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+      "rawScore": 23759,
+      "url": "https://github.com/4ian/GDevelop",
+      "meta": {
+        "fullName": "4ian/GDevelop",
+        "stars": 21183,
+        "forks": 1288
+      },
+      "score": 328,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 5,
+      "source": "hacker_news",
+      "title": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
+      "rawScore": 2751,
+      "url": "https://airma.sh/",
+      "meta": {
+        "author": "fivesigma",
+        "score": 1535,
+        "comments": 304
+      },
+      "score": 275,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 6,
+      "source": "reddit_memes",
+      "title": "Or Some people getting accused of something they 100% did...",
+      "rawScore": 35541,
+      "url": "https://www.reddit.com/r/memes/comments/1rqml6z/or_some_people_getting_accused_of_something_they/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 34803,
+        "comments": 246
+      },
+      "score": 455,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 7,
+      "source": "reddit_gaming",
+      "title": "Valve says the Steam Machine targets 30 FPS/1080p for games to get verified on the machine, and input verification is the same as the Steam Deck; Performance is roughly 6 times that of the Deck",
+      "rawScore": 3775,
+      "url": "https://www.reddit.com/r/gaming/comments/1rr1brk/valve_says_the_steam_machine_targets_30_fps1080p/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 2296,
+        "comments": 493
+      },
+      "score": 322,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 8,
+      "source": "google_trends",
+      "title": "online lottery",
+      "rawScore": 1500,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 100
+      },
+      "score": 175,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 9,
+      "source": "github_games",
+      "title": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
+      "rawScore": 7480,
+      "url": "https://github.com/gonglei007/GameDevMind",
+      "meta": {
+        "fullName": "gonglei007/GameDevMind",
+        "stars": 6202,
+        "forks": 639
+      },
+      "score": 291,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 10,
+      "source": "hacker_news",
+      "title": "Tools we used to create a hit HTML5 game on Steam",
+      "rawScore": 1441,
+      "url": "https://www.codecks.io/blog/2019/creating-a-hit-steam-game-in-html5/",
+      "meta": {
+        "author": "riadd",
+        "score": 637,
+        "comments": 201
+      },
+      "score": 253,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 11,
+      "source": "reddit_memes",
+      "title": "If you insist...",
+      "rawScore": 9692,
+      "url": "https://www.reddit.com/r/memes/comments/1rquru8/if_you_insist/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 9425,
+        "comments": 89
+      },
+      "score": 399,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 12,
+      "source": "reddit_gaming",
+      "title": "My son turned 6 last weekend and is obsessed with Pokémon, so I tried to make something for him",
+      "rawScore": 3463,
+      "url": "https://www.reddit.com/r/gaming/comments/1rqtnwr/my_son_turned_6_last_weekend_and_is_obsessed_with/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 3034,
+        "comments": 143
+      },
+      "score": 319,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 13,
+      "source": "google_trends",
+      "title": "accident attorney",
+      "rawScore": 1400,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 100
+      },
+      "score": 173,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 14,
+      "source": "github_games",
+      "title": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
+      "rawScore": 6704,
+      "url": "https://github.com/pshenok/server-survival",
+      "meta": {
+        "fullName": "pshenok/server-survival",
+        "stars": 5436,
+        "forks": 634
+      },
+      "score": 287,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 15,
+      "source": "hacker_news",
+      "title": "Show HN: I spent two years working on an HTML5 game. I finally released it",
+      "rawScore": 1095,
+      "url": "http://ektomarch.com/blog/?p=48",
+      "meta": {
+        "author": "fiblye",
+        "score": 515,
+        "comments": 145
+      },
+      "score": 243,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 16,
+      "source": "reddit_memes",
+      "title": "ooops😀😁😁😀.",
+      "rawScore": 7620,
+      "url": "https://www.reddit.com/r/memes/comments/1rqn7yi/ooops/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 7539,
+        "comments": 27
+      },
+      "score": 388,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 17,
+      "source": "reddit_gaming",
+      "title": "Microsoft reveals early specs of Xbox's next console 'Project Helix' | With Helix, Microsoft says they are pivoting to \"future of play\" and player behaviors: \"The days of people defining themselves as (console/PC/mobile gamer) don't really exist anymore.\"",
+      "rawScore": 3374,
+      "url": "https://www.reddit.com/r/gaming/comments/1rr0qte/microsoft_reveals_early_specs_of_xboxs_next/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 1013,
+        "comments": 787
+      },
+      "score": 318,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 18,
+      "source": "google_trends",
+      "title": "atlanta weather",
+      "rawScore": 1300,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 200
+      },
+      "score": 171,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 19,
+      "source": "github_games",
+      "title": "sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.",
+      "rawScore": 4422,
+      "url": "https://github.com/hackclub/sprig",
+      "meta": {
+        "fullName": "hackclub/sprig",
+        "stars": 1068,
+        "forks": 1677
+      },
+      "score": 273,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 20,
+      "source": "hacker_news",
+      "title": "Show HN: I've been making one HTML5 game per week. Here's my 10th game",
+      "rawScore": 954,
+      "url": "http://www.lessmilk.com/10/",
+      "meta": {
+        "author": "lessmilk",
+        "score": 362,
+        "comments": 148
+      },
+      "score": 238,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 21,
+      "source": "reddit_memes",
+      "title": "It’s an endless cycle",
+      "rawScore": 5249,
+      "url": "https://www.reddit.com/r/memes/comments/1rrb14u/its_an_endless_cycle/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 5117,
+        "comments": 44
+      },
+      "score": 372,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 22,
+      "source": "reddit_gaming",
+      "title": "Global Sales of Pokémon Pokopia for Switch 2 surpass 2.2 Million in First Four Days",
+      "rawScore": 2506,
+      "url": "https://www.reddit.com/r/gaming/comments/1rrb9eo/global_sales_of_pokémon_pokopia_for_switch_2/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 1606,
+        "comments": 300
+      },
+      "score": 306,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 23,
+      "source": "google_trends",
+      "title": "bronny james",
+      "rawScore": 1200,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 200
+      },
+      "score": 169,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 24,
+      "source": "github_games",
+      "title": "vue-xiuxiangame 文字游戏: 我的文字修仙全靠刷",
+      "rawScore": 2272,
+      "url": "https://github.com/setube/vue-xiuxiangame",
+      "meta": {
+        "fullName": "setube/vue-xiuxiangame",
+        "stars": 1698,
+        "forks": 287
+      },
+      "score": 252,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 25,
+      "source": "hacker_news",
+      "title": "HTML5 game written in 0 lines of JS",
+      "rawScore": 894,
+      "url": "http://codepen.io/i0z/pen/mFLCw",
+      "meta": {
+        "author": "golergka",
+        "score": 418,
+        "comments": 119
+      },
+      "score": 236,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 26,
+      "source": "reddit_memes",
+      "title": "Tuff situation",
+      "rawScore": 4091,
+      "url": "https://www.reddit.com/r/memes/comments/1rr8oke/tuff_situation/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 3995,
+        "comments": 32
+      },
+      "score": 361,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 27,
+      "source": "reddit_gaming",
+      "title": "Microsoft's Xbox Backwards Compatibility program is coming back this year",
+      "rawScore": 1785,
+      "url": "https://www.reddit.com/r/gaming/comments/1rr6xba/microsofts_xbox_backwards_compatibility_program/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 891,
+        "comments": 298
+      },
+      "score": 293,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 28,
+      "source": "google_trends",
+      "title": "nyt connections hints",
+      "rawScore": 1100,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 100
+      },
+      "score": 167,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 29,
+      "source": "github_games",
+      "title": "networked-aframe A web framework for building multi-user virtual reality experiences.",
+      "rawScore": 1807,
+      "url": "https://github.com/networked-aframe/networked-aframe",
+      "meta": {
+        "fullName": "networked-aframe/networked-aframe",
+        "stars": 1203,
+        "forks": 302
+      },
+      "score": 244,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 30,
+      "source": "hacker_news",
+      "title": "Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games",
+      "rawScore": 697,
+      "url": "https://news.ycombinator.com/item?id=38868185",
+      "meta": {
+        "author": "lishali88",
+        "score": 293,
+        "comments": 101
+      },
+      "score": 227,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 31,
+      "source": "reddit_memes",
+      "title": "Hmm.......",
+      "rawScore": 3379,
+      "url": "https://www.reddit.com/r/memes/comments/1rqyvw4/hmm/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 3100,
+        "comments": 93
+      },
+      "score": 353,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 32,
+      "source": "reddit_gaming",
+      "title": "Valve: About the New York Attorney General lawsuit against Valve",
+      "rawScore": 1603,
+      "url": "https://www.reddit.com/r/gaming/comments/1rr1bb5/valve_about_the_new_york_attorney_general_lawsuit/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 802,
+        "comments": 267
+      },
+      "score": 288,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 33,
+      "source": "google_trends",
+      "title": "wsfa weather",
+      "rawScore": 1000,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 1000
+      },
+      "score": 165,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 34,
+      "source": "github_games",
+      "title": "kubeinvaders Gamified Chaos Engineering Tool for Kubernetes",
+      "rawScore": 1374,
+      "url": "https://github.com/lucky-sideburn/kubeinvaders",
+      "meta": {
+        "fullName": "lucky-sideburn/kubeinvaders",
+        "stars": 1088,
+        "forks": 143
+      },
+      "score": 235,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 35,
+      "source": "hacker_news",
+      "title": "Plink, a multiplayer HTML5 music game",
+      "rawScore": 625,
+      "url": "http://labs.dinahmoe.com/plink",
+      "meta": {
+        "author": "skimbrel",
+        "score": 329,
+        "comments": 74
+      },
+      "score": 224,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 36,
+      "source": "reddit_memes",
+      "title": "I’m not superstitious or anything",
+      "rawScore": 2411,
+      "url": "https://www.reddit.com/r/memes/comments/1rqthzp/im_not_superstitious_or_anything/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 2027,
+        "comments": 128
+      },
+      "score": 338,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 37,
+      "source": "reddit_gaming",
+      "title": "After 15 years of owning a DSi, I finally upgraded to a 3DS",
+      "rawScore": 680,
+      "url": "https://www.reddit.com/r/gaming/comments/1rr6qs0/after_15_years_of_owning_a_dsi_i_finally_upgraded/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 416,
+        "comments": 88
+      },
+      "score": 255,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 38,
+      "source": "google_trends",
+      "title": "hawaii news now",
+      "rawScore": 900,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 100
+      },
+      "score": 162,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 39,
+      "source": "github_games",
+      "title": "XStreaming Open source Xbox streaming(remote play) client that allows you stream Xbox and play xCloud anytime, supporting Android/iOS/HarmonyOS.",
+      "rawScore": 817,
+      "url": "https://github.com/Geocld/XStreaming",
+      "meta": {
+        "fullName": "Geocld/XStreaming",
+        "stars": 741,
+        "forks": 38
+      },
+      "score": 218,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 40,
+      "source": "hacker_news",
+      "title": "Show HN: I made a Mahjong browser game",
+      "rawScore": 592,
+      "url": "https://www.jongmah.com",
+      "meta": {
+        "author": "jessym",
+        "score": 252,
+        "comments": 85
+      },
+      "score": 222,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    }
+  ],
+  "selectedGames": [
+    {
+      "releaseSlot": 1,
+      "trend": {
+        "rank": 1,
+        "source": "reddit_memes",
+        "title": "Guess I'll just walk",
+        "rawScore": 68693,
+        "url": "https://www.reddit.com/r/memes/comments/1rqv2ll/guess_ill_just_walk/",
+        "meta": {
+          "subreddit": "memes",
+          "ups": 67448,
+          "comments": 415
+        },
+        "score": 484,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "guess-ill-just-walk-neon-orb-rush-c1",
+      "ideaSeedId": "neon-orb-rush",
+      "ideaSeedName": "Neon Orb Rush",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Guess I'll just walk\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "arcade",
+      "sessionMinutes": 2
+    },
+    {
+      "releaseSlot": 2,
+      "trend": {
+        "rank": 2,
+        "source": "reddit_gaming",
+        "title": "Got Opus Magnum for my birthday. I can watch these mechanisms ALL DAY.",
+        "rawScore": 5030,
+        "url": "https://www.reddit.com/r/gaming/comments/1rqgp2k/got_opus_magnum_for_my_birthday_i_can_watch_these/",
+        "meta": {
+          "subreddit": "gaming",
+          "ups": 4151,
+          "comments": 293
+        },
+        "score": 333,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "got-opus-magnum-for-my-birthday-i-can-watch-these-mechanisms-a",
+      "ideaSeedId": "skyline-dodge",
+      "ideaSeedName": "Skyline Dodge",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Got Opus Magnum for my birthday. I can watch these mechanisms ALL DAY.\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "action",
+      "sessionMinutes": 3
+    }
+  ],
+  "generatedAt": "2026-03-12T09:01:44.772Z",
+  "autoresearch": {
+    "runId": "20260312085917",
+    "cycles": 2,
+    "exploreCount": 2,
+    "publishCount": 2,
+    "codexFullFilesEnabled": false
+  }
+}

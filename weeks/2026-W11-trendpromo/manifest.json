@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "2.0.0",
+  "weekKey": "2026-W11-trendpromo",
+  "generatedAt": "2026-03-12T09:01:44.772Z",
+  "games": [
+    {
+      "slug": "guess-ill-just-walk-neon-orb-rush-c1",
+      "title": "Guess I'll just walk Rush",
+      "description": "React fast to guess-themed prompts and chain combos before time runs out.",
+      "genre": "arcade",
+      "sessionMinutes": 2,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Guess I'll just walk",
+      "trendSource": "reddit_memes",
+      "trendUrl": "https://www.reddit.com/r/memes/comments/1rqv2ll/guess_ill_just_walk/",
+      "ideaSeedId": "neon-orb-rush",
+      "ideaSeedName": "Neon Orb Rush",
+      "sourcePath": "./guess-ill-just-walk-neon-orb-rush-c1/index.html",
+      "generationEngine": "native_builder",
+      "generationReason": "timeout"
+    },
+    {
+      "slug": "got-opus-magnum-for-my-birthday-i-can-watch-these-mechanisms-a",
+      "title": "Magnum Opus Relay",
+      "description": "Swipe a glowing opus core between clockwork rails to dodge crushing machine arms, skim danger for bonus notes, and survive a 3-minute masterpiece run.",
+      "genre": "action",
+      "sessionMinutes": 3,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Got Opus Magnum for my birthday. I can watch these mechanisms ALL DAY.",
+      "trendSource": "reddit_gaming",
+      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rqgp2k/got_opus_magnum_for_my_birthday_i_can_watch_these/",
+      "ideaSeedId": "skyline-dodge",
+      "ideaSeedName": "Skyline Dodge",
+      "sourcePath": "./got-opus-magnum-for-my-birthday-i-can-watch-these-mechanisms-a/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    }
+  ],
+  "sourceReferences": [
+    {
+      "id": "github-topic-children-games",
+      "label": "GitHub Topic: children-games",
+      "url": "https://github.com/topics/children-games?o=asc&s=updated",
+      "role": "broad_discovery"
+    },
+    {
+      "id": "readyready-awesome-programming-games",
+      "label": "readyready15728/awesome-programming-games",
+      "url": "https://github.com/readyready15728/awesome-programming-games",
+      "role": "curated_seed_list"
+    },
+    {
+      "id": "dargacode-logic-and-coding-games",
+      "label": "dargaCode/LogicAndCodingGames",
+      "url": "https://github.com/dargaCode/LogicAndCodingGames",
+      "role": "logic_game_reference"
+    },
+    {
+      "id": "lucaspiller-awesome-programming-games",
+      "label": "lucaspiller/awesome-programming-games",
+      "url": "https://github.com/lucaspiller/awesome-programming-games",
+      "role": "curated_cross_check"
+    }
+  ],
+  "buildMode": "trending",
+  "sourceScope": "all",
+  "topic": null
+}

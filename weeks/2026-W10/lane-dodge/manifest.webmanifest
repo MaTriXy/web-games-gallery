@@ -1,0 +1,8 @@
+{
+  "name": "Lane Dodge",
+  "short_name": "LaneDodge",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff7ef",
+  "theme_color": "#ff8a00"
+}

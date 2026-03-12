@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Weekly Concept: Pulse Brief</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="app">
+    <h1>Weekly Concept: Pulse Brief</h1>
+    <p class="sub">Memorize the weekly concept board&#39;s flashing pulse order, then replay it before the deadline siren hits.</p>
+    <p id="themeTag" class="theme-tag">Weekly concept 1: brain teaser with playful pressure</p>
+    <div class="hud">
+      <span>Score <strong id="score">0</strong></span>
+      <span>Combo <strong id="combo">0</strong></span>
+      <span>Multiplier <strong id="multiplier">x1</strong></span>
+      <span>Best <strong id="bestCombo">0</strong></span>
+      <span>Time <strong id="timer">45</strong></span>
+      <button id="startBtn">Start</button>
+    </div>
+    <section class="briefing">
+      <div>
+        <h2>Objective</h2>
+        <p>Tap the concept tiles in the exact pulse sequence to ship as many weekly briefs as possible before you run out of strikes.</p>
+      </div>
+      <div>
+        <h2>Controls</h2>
+        <ul><li><strong>Replay sequence:</strong> Tap concept tiles in order -> Correct taps lock in the brief and build combo</li><li><strong>Hold to preview:</strong> Press and hold the preview button -> Spend a limited assist to hear and see the current sequence once more</li><li><strong>Start next brief:</strong> Tap the ready stamp -> Begins the next faster, longer pulse round</li></ul>
+      </div>
+      <div>
+        <h2>How to Play</h2>
+        <ol><li>A new weekly board appears with 4 concept tiles such as Hook, Color, Shape, and Mood.</li><li>The tiles pulse with light and distinct audio tones in a short sequence.</li><li>After the preview ends, replay the exact order by tapping the tiles.</li><li>Each cleared brief adds one pulse to future rounds and slightly shortens preview time and input time.</li><li>A wrong tap or expired timer costs a strike; after 3 strikes, the session ends and your leaderboard score is submitted locally for later syn</li><li>Every few rounds, a bonus brief appears with a faster beat and doubled combo value.</li></ol>
+      </div>
+      <div>
+        <h2>Tips</h2>
+        <ul><li>Listen as much as you look; each tile has its own tone.</li><li>Short, fast taps are safer than hesitating near the timer.</li><li>Use the preview assist only on long sequences, because assists are limited.</li><li>Bonus briefs are the best way to push leaderboard scores if your combo is already high.</li></ul>
+      </div>
+    </section>
+    <p id="status" class="status"></p>
+    <section id="playfield" class="playfield"></section>
+    <section class="sequence-grid">
+      <button class="pad hidden" data-pad="0"></button>
+      <button class="pad hidden" data-pad="1"></button>
+      <button class="pad hidden" data-pad="2"></button>
+      <button class="pad hidden" data-pad="3"></button>
+    </section>
+    <section id="resultOverlay" class="result-overlay hidden">
+      <div class="result-card">
+        <h2>Round Summary</h2>
+        <p id="summary" class="summary"></p>
+        <button id="restartBtn">Play again</button>
+      </div>
+    </section>
+    <h2>Leaderboard</h2>
+    <ol id="board"></ol>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>

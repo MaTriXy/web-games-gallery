@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Signal Sniper: Airmash Relay</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="app">
+    <h1>Signal Sniper: Airmash Relay</h1>
+    <p class="sub">Tap allied airmash pilots with flashing relay pings before enemy missile chatter floods the multiplayer sky.</p>
+    <p id="themeTag" class="theme-tag">Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game</p>
+    <div class="hud">
+      <span>Score <strong id="score">0</strong></span>
+      <span>Combo <strong id="combo">0</strong></span>
+      <span>Multiplier <strong id="multiplier">x1</strong></span>
+      <span>Best <strong id="bestCombo">0</strong></span>
+      <span>Time <strong id="timer">45</strong></span>
+      <button id="startBtn">Start</button>
+    </div>
+    <section class="briefing">
+      <div>
+        <h2>Objective</h2>
+        <p>In 2-4 minute rounds, scan a crowded top-down dogfight and tap only friendly aircraft broadcasting your team&#39;s relay signal while avoiding enemy decoys, jammed planes, and live missiles.</p>
+      </div>
+      <div>
+        <h2>Controls</h2>
+        <ul><li><strong>Tag relay target:</strong> Tap a blue aircraft with a pulsing ring -> Scores points, builds combo, and refreshes the signal timer</li><li><strong>Ignore false signal:</strong> Do not tap red decoy planes, gray jammed planes, or missiles -> Keeps lives intact and preserves multiplier</li><li><strong>Panic clear:</strong> Two-finger tap when the meter is full -> Briefly slows the airspace and reveals valid targets</li></ul>
+      </div>
+      <div>
+        <h2>How to Play</h2>
+        <ol><li>Friendly multiplayer pilots enter from all sides, weaving through an active airmash battle.</li><li>Only aircraft showing the current relay code pulse are valid targets; tap them before the pulse expires.</li><li>Each correct tag extends your combo and speeds up incoming traffic.</li><li>Enemy jets begin spoofing signals, missiles cross lanes, and weather static hides pulses.</li><li>A wrong tap or a missed valid pilot costs a life; lose all lives and the round ends.</li><li>Submit your score to the lightweight leaderboard and restart instantly offline or online.</li></ol>
+      </div>
+      <div>
+        <h2>Tips</h2>
+        <ul><li>Watch for ring color first, plane shape second; enemies mimic silhouettes before they mimic timing.</li><li>Save Panic Clear for missile-heavy waves when valid targets overlap.</li><li>Short, accurate streaks score better than frantic tapping in late waves.</li></ul>
+      </div>
+    </section>
+    <p id="status" class="status"></p>
+    <section id="playfield" class="playfield"></section>
+    <section class="sequence-grid">
+      <button class="pad hidden" data-pad="0"></button>
+      <button class="pad hidden" data-pad="1"></button>
+      <button class="pad hidden" data-pad="2"></button>
+      <button class="pad hidden" data-pad="3"></button>
+    </section>
+    <section id="resultOverlay" class="result-overlay hidden">
+      <div class="result-card">
+        <h2>Round Summary</h2>
+        <p id="summary" class="summary"></p>
+        <button id="restartBtn">Play again</button>
+      </div>
+    </section>
+    <h2>Leaderboard</h2>
+    <ol id="board"></ol>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>

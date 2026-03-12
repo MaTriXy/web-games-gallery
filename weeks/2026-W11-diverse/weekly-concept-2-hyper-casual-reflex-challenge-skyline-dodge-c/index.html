@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Weekly Concept Deadline</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="app">
+    <h1>Weekly Concept Deadline</h1>
+    <p class="sub">Swipe a rooftop editor between lanes to keep the latest weekly concept issue intact while chasing risky bonus notes for a bigger score.</p>
+    <p id="themeTag" class="theme-tag">Weekly concept 2: hyper-casual reflex challenge</p>
+    <div class="hud">
+      <span>Score <strong id="score">0</strong></span>
+      <span>Combo <strong id="combo">0</strong></span>
+      <span>Multiplier <strong id="multiplier">x1</strong></span>
+      <span>Best <strong id="bestCombo">0</strong></span>
+      <span>Time <strong id="timer">45</strong></span>
+      <button id="startBtn">Start</button>
+    </div>
+    <section class="briefing">
+      <div>
+        <h2>Objective</h2>
+        <p>Survive a 3-minute delivery run by dodging incoming rooftop hazards, grabbing glowing concept notes, and building the highest score before the paper stack is destroyed.</p>
+      </div>
+      <div>
+        <h2>Controls</h2>
+        <ul><li><strong>Dodge lanes:</strong> Swipe left or right -> The editor cart snaps to the next rooftop lane to avoid hazards.</li><li><strong>Cut through gaps:</strong> Swipe up -> A short burst moves the cart forward through tight hazard patterns.</li><li><strong>Cash in risk:</strong> Tap with two fingers -> Bank the current combo into a temporary score shield, but reset the multiplier.</li></ul>
+      </div>
+      <div>
+        <h2>How to Play</h2>
+        <ol><li>Start with three paper hearts and a x1 multiplier.</li><li>Hazards stream down the rooftop lanes: drones, billboards, loose vents, and red-ink storms.</li><li>Swipe between lanes to survive while collecting floating concept notes placed close to danger lines.</li><li>Every note collected without taking damage increases the multiplier; grazing hazards fills a risk meter faster.</li><li>Waves speed up every 30 seconds, mix patterns more aggressively, and end when all hearts are lost.</li></ol>
+      </div>
+      <div>
+        <h2>Tips</h2>
+        <ul><li>Stay near the center lane so late wave patterns leave you two escape routes.</li><li>Grab concept notes only when they extend an escape path, not when they trap you against a wall.</li><li>Bank a high multiplier right before dense waves if survival matters more than greed.</li><li>Use the upward burst sparingly; it saves runs, but mistiming it can place you inside the next pattern.</li></ul>
+      </div>
+    </section>
+    <p id="status" class="status"></p>
+    <section id="playfield" class="playfield"></section>
+    <section class="sequence-grid">
+      <button class="pad hidden" data-pad="0"></button>
+      <button class="pad hidden" data-pad="1"></button>
+      <button class="pad hidden" data-pad="2"></button>
+      <button class="pad hidden" data-pad="3"></button>
+    </section>
+    <section id="resultOverlay" class="result-overlay hidden">
+      <div class="result-card">
+        <h2>Round Summary</h2>
+        <p id="summary" class="summary"></p>
+        <button id="restartBtn">Play again</button>
+      </div>
+    </section>
+    <h2>Leaderboard</h2>
+    <ol id="board"></ol>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>

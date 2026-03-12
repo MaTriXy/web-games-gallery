@@ -1,0 +1,33 @@
+{
+  "title": "Guess I'll just walk Rush",
+  "description": "React fast to guess-themed prompts and chain combos before time runs out.",
+  "category": "Arcade",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#4f46e5",
+  "starThresholds": [
+    25,
+    55,
+    90
+  ],
+  "howToPlayJson": {
+    "title": "Guess I'll just walk Rush",
+    "objective": "Score as many points as possible by mastering the guess loop before the timer ends.",
+    "controls": [
+      {
+        "action": "Tap target",
+        "input": "Touch / click",
+        "outcome": "Gain score and extend combo"
+      }
+    ],
+    "steps": [
+      "Press Start.",
+      "Hit valid prompts quickly and avoid mistakes.",
+      "Finish and submit score."
+    ],
+    "scoring": "Build combo streaks for bigger points. Highest score wins.",
+    "tips": [
+      "Keep your finger close to the main action lane.",
+      "Use sound and color to maintain rhythm."
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "2.0.0",
+  "weekKey": "2026-W11-arpromote",
+  "generatedAt": "2026-03-12T06:04:13.972Z",
+  "games": [
+    {
+      "slug": "weekly-concept-1-hyper-casual-reflex-challenge-neon-orb-rush-c",
+      "title": "Weekly Concept Neon Board",
+      "description": "Tap sprinting neon concept orbs on a glowing weekly planner before their countdown rings collapse.",
+      "genre": "arcade",
+      "sessionMinutes": 2,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Weekly concept 1: hyper-casual reflex challenge",
+      "trendSource": "static_seed",
+      "trendUrl": "",
+      "ideaSeedId": "neon-orb-rush",
+      "ideaSeedName": "Neon Orb Rush",
+      "sourcePath": "./weekly-concept-1-hyper-casual-reflex-challenge-neon-orb-rush-c/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    }
+  ],
+  "sourceReferences": [
+    {
+      "id": "github-topic-children-games",
+      "label": "GitHub Topic: children-games",
+      "url": "https://github.com/topics/children-games?o=asc&s=updated",
+      "role": "broad_discovery"
+    },
+    {
+      "id": "readyready-awesome-programming-games",
+      "label": "readyready15728/awesome-programming-games",
+      "url": "https://github.com/readyready15728/awesome-programming-games",
+      "role": "curated_seed_list"
+    },
+    {
+      "id": "dargacode-logic-and-coding-games",
+      "label": "dargaCode/LogicAndCodingGames",
+      "url": "https://github.com/dargaCode/LogicAndCodingGames",
+      "role": "logic_game_reference"
+    },
+    {
+      "id": "lucaspiller-awesome-programming-games",
+      "label": "lucaspiller/awesome-programming-games",
+      "url": "https://github.com/lucaspiller/awesome-programming-games",
+      "role": "curated_cross_check"
+    }
+  ],
+  "buildMode": "static",
+  "sourceScope": "all",
+  "topic": null
+}

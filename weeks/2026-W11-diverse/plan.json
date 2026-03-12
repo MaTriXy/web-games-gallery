@@ -1,0 +1,58 @@
+{
+  "weekKey": "2026-W11-diverse",
+  "requestedCount": 2,
+  "selectedGames": [
+    {
+      "releaseSlot": 1,
+      "trend": {
+        "rank": 1,
+        "source": "static_seed",
+        "title": "Weekly concept 1: brain teaser with playful pressure",
+        "url": "",
+        "score": 99
+      },
+      "outputSlug": "weekly-concept-1-brain-teaser-with-playful-pressure-pulse-patt",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"Weekly concept 1: brain teaser with playful pressure\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "puzzle",
+      "sessionMinutes": 4
+    },
+    {
+      "releaseSlot": 2,
+      "trend": {
+        "rank": 2,
+        "source": "static_seed",
+        "title": "Weekly concept 2: hyper-casual reflex challenge",
+        "url": "",
+        "score": 98
+      },
+      "outputSlug": "weekly-concept-2-hyper-casual-reflex-challenge-skyline-dodge-c",
+      "ideaSeedId": "skyline-dodge",
+      "ideaSeedName": "Skyline Dodge",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Weekly concept 2: hyper-casual reflex challenge\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "action",
+      "sessionMinutes": 3
+    }
+  ],
+  "generatedAt": "2026-03-12T09:06:32.209Z",
+  "autoresearch": {
+    "runId": "20260312090439",
+    "cycles": 2,
+    "exploreCount": 2,
+    "publishCount": 2,
+    "codexFullFilesEnabled": false
+  }
+}
