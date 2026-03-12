@@ -1,6 +1,6 @@
 # Weekly Game Release - 2026-W11-live
 
-Generated at: 2026-03-12T10:23:40.679Z
+Generated at: 2026-03-12T10:32:58.488Z
 
 Mode: trending
 Source scope: hackernews

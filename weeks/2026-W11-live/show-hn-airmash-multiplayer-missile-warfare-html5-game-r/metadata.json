@@ -1,48 +1,47 @@
 {
-  "title": "Airmash: Multiplayer Beat Barrage",
-  "description": "Tap incoming missile locks on the beat to keep a multiplayer squadron airborne and stack a rising combo.",
+  "title": "Airmash Relay",
+  "description": "Tap missile beats on incoming flight lanes, sync your squadron, and outscore ghost rivals in a 3-minute sky skirmish.",
   "category": "Rhythm Arcade",
   "iconName": "gamecontroller.fill",
-  "accentColor": "#19C2FF",
+  "accentColor": "#1FB6FF",
   "starThresholds": [
     1200,
     2600,
     4200
   ],
   "howToPlayJson": {
-    "title": "Airmash: Multiplayer Beat Barrage",
-    "objective": "Survive a 3-minute airmash by tapping missile lock rings in rhythm before they hit your squad, building combo multipliers and posting the highest score on the leaderboard.",
+    "title": "Airmash Relay",
+    "objective": "Survive a 3-minute airmash round by tapping incoming missile markers on beat, preserving your combo, and building the highest score against cached multiplayer ghost scores.",
     "controls": [
       {
-        "action": "Deflect lock",
-        "input": "Tap a lane ring as its lock reticle closes on the beat",
-        "outcome": "Missile is jammed, beat continues, combo increases"
+        "action": "Hit beat",
+        "input": "Tap a glowing missile marker as it reaches the strike ring",
+        "outcome": "Destroys the missile, adds score, and builds combo"
       },
       {
-        "action": "Emergency dodge",
-        "input": "Swipe left or right when a red warning wave flashes",
-        "outcome": "Your squad shifts lanes and avoids an unblockable volley"
+        "action": "Lane swap",
+        "input": "Swipe left or right",
+        "outcome": "Shifts focus to the next air lane for denser patterns"
       },
       {
-        "action": "Charge burst",
-        "input": "Hold on a glowing center beacon through one full beat",
-        "outcome": "Releases a pulse that clears all current locks for bonus points"
+        "action": "Burst clear",
+        "input": "Two-finger tap when the burst meter is full",
+        "outcome": "Clears one crowded wave and saves a combo drop"
       }
     ],
     "steps": [
-      "Missile locks spawn in 3 lanes around your squadron, each synced to the music pulse.",
-      "Tap each lock exactly on the beat to jam it before impact.",
-      "Every 10 clean hits raises your score multiplier by 1x until you miss.",
-      "Red warning waves introduce swipe-only dodge moments between tap patterns.",
-      "The song speeds up, mixed patterns appear, and double-lock volleys start after the first minute.",
-      "The run ends after 3 squad hits or when the track finishes; your score goes to the local leaderboard."
+      "Missiles enter from the horizon in 3 air lanes, each synced to the music beat.",
+      "Tap each missile exactly as it crosses the strike ring to score perfect, good, or miss timing.",
+      "Every 10 clean hits increases the combo multiplier and adds extra ghost traffic from rival pilots.",
+      "As the track intensifies, lanes speed up, fake syncopated decoys appear, and multi-missile chords demand rapid taps.",
+      "A miss, late tap, or 3 missiles reaching the city breaks the run; final score posts to the simple leaderboard."
     ],
-    "scoring": "Perfect beat jams score the most, late or early jams score less, each uninterrupted streak increases a combo multiplier, burst clears grant bonus points per lock destroyed, and surviving to the end grants a finish bonus.",
+    "scoring": "Perfect hits grant 100 points, good hits grant 50, and the combo multiplier rises from 1x to 8x. Consecutive perfect bars fill a burst meter for bonus clears and end-of-run survival points.",
     "tips": [
-      "Watch the shrinking lock ring, not just the missile sprite.",
-      "Save the burst hold for crowded double-lock sections.",
-      "Swipe early on red waves; they cannot be tapped away.",
-      "Short accurate taps are better than mashing because misses break multiplier."
+      "Watch the strike ring, not the missile spawn.",
+      "Swipe early before chorus sections add two-lane patterns.",
+      "Use burst clear to protect a high multiplier, not on easy waves.",
+      "Ghost rivals are score targets only, so the game stays fully offline-friendly after first load."
     ]
   }
 }
