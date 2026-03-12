@@ -1,29 +1,29 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-03-12T10:14:11.605Z",
+  "generatedAt": "2026-03-12T10:19:30.543Z",
   "weekCount": 6,
   "gameCount": 9,
   "weeks": [
     {
       "weekKey": "2026-W11-live",
-      "generatedAt": "2026-03-12T10:14:11.576Z",
+      "generatedAt": "2026-03-12T10:19:07.966Z",
       "buildMode": "trending",
       "sourceScope": "hackernews",
       "topic": null,
       "games": [
         {
-          "slug": "show-hn-airmash-multiplayer-missile-warfare-html5-game-neon-or",
-          "title": "Neon Orb Rush: Airmash Relay",
-          "description": "Tap neon relay orbs zipping through a crowded airmash arena before enemy missiles lock onto your multiplayer squad.",
-          "genre": "arcade",
-          "sessionMinutes": 2,
+          "slug": "show-hn-airmash-multiplayer-missile-warfare-html5-game-r",
+          "title": "Airmash: Squadron Sync",
+          "description": "Tap incoming missile beats to keep your airmash squadron in sync and survive a 3-minute multiplayer sky raid.",
+          "genre": "music",
+          "sessionMinutes": 3,
           "trendTitle": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
           "trendSource": "hacker_news",
           "trendUrl": "https://airma.sh/",
-          "playPath": "weeks/2026-W11-live/show-hn-airmash-multiplayer-missile-warfare-html5-game-neon-or/index.html",
-          "previewPath": "weeks/2026-W11-live/show-hn-airmash-multiplayer-missile-warfare-html5-game-neon-or/preview.webp",
-          "metadataPath": "weeks/2026-W11-live/show-hn-airmash-multiplayer-missile-warfare-html5-game-neon-or/metadata.json",
-          "sourcePath": "weeks/2026-W11-live/show-hn-airmash-multiplayer-missile-warfare-html5-game-neon-or/index.html"
+          "playPath": "weeks/2026-W11-live/show-hn-airmash-multiplayer-missile-warfare-html5-game-r/index.html",
+          "previewPath": "weeks/2026-W11-live/show-hn-airmash-multiplayer-missile-warfare-html5-game-r/preview.webp",
+          "metadataPath": "weeks/2026-W11-live/show-hn-airmash-multiplayer-missile-warfare-html5-game-r/metadata.json",
+          "sourcePath": "weeks/2026-W11-live/show-hn-airmash-multiplayer-missile-warfare-html5-game-r/index.html"
         }
       ]
     },

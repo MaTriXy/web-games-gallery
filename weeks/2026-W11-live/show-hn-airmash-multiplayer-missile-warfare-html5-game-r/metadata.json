@@ -1,0 +1,47 @@
+{
+  "title": "Airmash: Squadron Sync",
+  "description": "Tap incoming missile beats to keep your airmash squadron in sync and survive a 3-minute multiplayer sky raid.",
+  "category": "Rhythm Arcade",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#19C2FF",
+  "starThresholds": [
+    1200,
+    2600,
+    4200
+  ],
+  "howToPlayJson": {
+    "title": "Airmash: Squadron Sync",
+    "objective": "Defend your tiny multiplayer air squad by tapping missile pings on-beat, chaining perfect interceptions, and keeping the formation alive until the timer ends.",
+    "controls": [
+      {
+        "action": "Intercept missile",
+        "input": "Tap a falling missile ring as it closes over your squad marker",
+        "outcome": "Destroys the missile and adds to combo if timed on-beat"
+      },
+      {
+        "action": "Swap lane",
+        "input": "Tap and hold, then slide left or right across the three sky lanes",
+        "outcome": "Moves your squad marker to the busiest lane for the next beat"
+      },
+      {
+        "action": "Burst cancel",
+        "input": "Two-finger tap when the meter is full",
+        "outcome": "Clears all current missiles on screen and preserves combo through a dense wave"
+      }
+    ],
+    "steps": [
+      "Missiles descend in three air lanes toward your multiplayer squad formation at the center of the screen.",
+      "Each missile has a shrinking beat ring; tap exactly as the ring meets the squad marker to score a Perfect, Good, or Miss.",
+      "Perfect taps build combo and raise a score multiplier; missed beats break combo and remove one shield plane from the formation.",
+      "Every 20 seconds the song intensifies, missile patterns get denser, and fake off-beat decoy drones start appearing.",
+      "Survive until the 2-4 minute track ends, or fail early if all shield planes are destroyed."
+    ],
+    "scoring": "Perfect interceptions score the most and increase a combo multiplier up to x8. Good hits score base points without boosting as fast. Each full 25-hit streak grants a temporary 'multiplayer link' bonus where both side squ",
+    "tips": [
+      "Watch the shrinking ring, not the missile sprite.",
+      "Slide lanes early during quieter bars so you are set for dense choruses.",
+      "Save Burst Cancel for mixed real-missile and decoy patterns.",
+      "Long perfect streaks matter more than frantic tapping."
+    ]
+  }
+}

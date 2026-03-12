@@ -1,5 +1,5 @@
-const GAME_TITLE = `Neon Orb Rush: Airmash Relay`;
-const ACCENT = `#00F5D4`;
+const GAME_TITLE = `Airmash: Squadron Sync`;
+const ACCENT = `#19C2FF`;
 const MODE = `tap_targets`;
 const THEME_LABEL = `Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game`;
 const MOTIF_A = `airmash`;
@@ -20,6 +20,8 @@ const playfield = document.getElementById("playfield");
 const sequencePads = [...document.querySelectorAll(".pad")];
 const themeEl = document.getElementById("themeTag");
 const summaryEl = document.getElementById("summary");
+const introOverlayEl = document.getElementById("introOverlay");
+const gameShellEl = document.getElementById("gameShell");
 const overlayEl = document.getElementById("resultOverlay");
 
 let score = 0;
@@ -158,6 +160,8 @@ function resetRound() {
   if (timerId) clearInterval(timerId);
   if (animationId) cancelAnimationFrame(animationId);
   if (tapTimeoutId) clearTimeout(tapTimeoutId);
+  gameShellEl.classList.remove("hidden");
+  introOverlayEl.classList.add("hidden");
   overlayEl.classList.add("hidden");
   updateHud();
 }
@@ -308,7 +312,7 @@ function setupSequence() {
           addPoints(sequence.length * 2);
           sequence.push(Math.floor(Math.random() * 4));
           setStatus(`Sequence clear. Follow the next ${MOTIF_A} pulse.`);
-    setTimeout(playSequence, 350);
+          setTimeout(playSequence, 350);
         }
       } else {
         seconds = Math.max(0, seconds - 4);

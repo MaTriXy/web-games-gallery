@@ -372,26 +372,19 @@
           "matches": []
         }
       },
-      "outputSlug": "show-hn-airmash-multiplayer-missile-warfare-html5-game-neon-or",
-      "ideaSeedId": "neon-orb-rush",
-      "ideaSeedName": "Neon Orb Rush",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
+      "outputSlug": "show-hn-airmash-multiplayer-missile-warfare-html5-game-r",
+      "ideaSeedId": "rhythm-react",
+      "ideaSeedName": "Rhythm React",
+      "ideaPrompt": "Design a fresh, non-template casual game around: Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game. Core direction: Tap in rhythm to incoming beats and keep combo streaks alive.",
       "capabilities": [
         "touch",
         "audio",
         "offline",
         "leaderboard"
       ],
-      "genre": "arcade",
-      "sessionMinutes": 2
+      "genre": "music",
+      "sessionMinutes": 3
     }
   ],
-  "generatedAt": "2026-03-12T10:14:11.576Z",
-  "autoresearch": {
-    "runId": "20260312101348",
-    "cycles": 1,
-    "exploreCount": 1,
-    "publishCount": 1,
-    "codexFullFilesEnabled": false
-  }
+  "generatedAt": "2026-03-12T10:19:07.966Z"
 }

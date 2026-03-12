@@ -1,30 +1,32 @@
-# Autoresearch Build Promotion - 2026-W11-live
+# Weekly Build - 2026-W11-live
 
 ## Context
 
-Promote 1 autoresearch winners into build/weeks/2026-W11-live.
-Source run: 20260312101348. Mode: trending.
+Build a weekly release for 2026-W11-live.
+Selected plan mode: trending.
+Generate 1 self-contained games under the build output root.
 
 ## Constraints
 
-- Keep the promoted release self-contained under build/weeks/<weekKey>/.
-- Prune stale game folders so the release directory matches the promoted manifest.
-- Do not regenerate promoted winners; copy the selected candidate artifacts as-is.
+- Keep the weekly release self-contained under build/weeks/<weekKey>/.
+- Do not rely on external templates or remote runtime dependencies.
+- Write manifest and human-readable release summary artifacts for downstream integration.
 
 ## Plan
 
-1. Select top autoresearch candidates after scoring.
-2. Copy winners into the weekly build folder.
-3. Write manifest.json, plan.json, README.md, and execution-plan.md for the promoted release.
+1. Resolve the requested weekly plan.
+2. If mode is trending or topic, fetch and map live signals before generation.
+3. Generate each selected game into its weekly build folder.
+4. Write manifest.json, plan.json, README.md, and execution-plan.md for the release.
 
 ## Status
 
-- `done`: 1 candidates promoted from autoresearch run 20260312101348
-- `done`: build release folder refreshed for 2026-W11-live
-- `done`: build artifacts written
+- `done`: trending plan resolved for 2026-W11-live
+- `done`: 1 games generated
+- `done`: release metadata written
 
 ## Verification
 
 - inspect `/Users/matrixy/Dev/web_games_agent/build/weeks/2026-W11-live/manifest.json`
 - inspect `/Users/matrixy/Dev/web_games_agent/build/weeks/2026-W11-live/plan.json`
-- inspect `/Users/matrixy/Dev/web_games_agent/build/weeks/2026-W11-live/execution-plan.md`
+- inspect `/Users/matrixy/Dev/web_games_agent/build/weeks/2026-W11-live/README.md`

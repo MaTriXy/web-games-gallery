@@ -1,12 +1,12 @@
 # Weekly Game Release - 2026-W11-live
 
-Generated at: 2026-03-12T10:14:11.576Z
+Generated at: 2026-03-12T10:19:07.966Z
 
 Mode: trending
 Source scope: hackernews
 
 ## Included games
-- slot 1: show-hn-airmash-multiplayer-missile-warfare-html5-game-neon-or (arcade, 2 min) <- Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game
+- slot 1: show-hn-airmash-multiplayer-missile-warfare-html5-game-r (music, 3 min) <- Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated
