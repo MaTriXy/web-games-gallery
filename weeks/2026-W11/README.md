@@ -1,6 +1,6 @@
 # Weekly Game Release - 2026-W11
 
-Generated at: 2026-03-12T21:54:22.019Z
+Generated at: 2026-03-12T22:18:42.444Z
 
 Mode: trending
 Source scope: all

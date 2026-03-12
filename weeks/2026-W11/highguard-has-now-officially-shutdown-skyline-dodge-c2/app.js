@@ -1,11 +1,11 @@
-const GAME_TITLE = `Highguard: Officially Closed`;
-const ACCENT = `#D94F2A`;
+const GAME_TITLE = `Highguard: Official Shutdown`;
+const ACCENT = `#FF6B3D`;
 const MODE = `dodge_stream`;
 const THEME_LABEL = `Highguard has now officially shutdown`;
 const MOTIF_A = `highguard`;
 const MOTIF_B = `officially`;
 const OBJECTIVE_TAG = `highguard vs officially`;
-const STAR_THRESHOLDS = [1200,2600,4200];
+const STAR_THRESHOLDS = [900,2200,4000];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

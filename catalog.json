@@ -1,20 +1,20 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-03-12T21:54:22.069Z",
+  "generatedAt": "2026-03-12T22:18:42.491Z",
   "weekCount": 6,
   "gameCount": 10,
   "weeks": [
     {
       "weekKey": "2026-W11",
-      "generatedAt": "2026-03-12T21:54:22.019Z",
+      "generatedAt": "2026-03-12T22:18:42.444Z",
       "buildMode": "trending",
       "sourceScope": "all",
       "topic": null,
       "games": [
         {
           "slug": "shut-it-keith-neon-orb-rush-c1",
-          "title": "Shut it Keith Rush",
-          "description": "React fast to shut-themed prompts and chain combos before time runs out.",
+          "title": "Shut It, Keith!",
+          "description": "Tap Keith's glowing mouth-orbs before they hit the SHUT meter and blow the room.",
           "genre": "arcade",
           "sessionMinutes": 2,
           "trendTitle": "Shut it Keith",
@@ -27,8 +27,8 @@
         },
         {
           "slug": "highguard-has-now-officially-shutdown-skyline-dodge-c2",
-          "title": "Highguard: Officially Closed",
-          "description": "Swipe the last Highguard courier through collapsing sky-bridge traffic, dodging shutdown hazards while grabbing official seals for risky score boosts.",
+          "title": "Highguard: Official Shutdown",
+          "description": "Swipe the last Highguard courier across a collapsing skybridge, dodging shutdown hazards and snatching official seals to keep a score multiplier alive.",
           "genre": "action",
           "sessionMinutes": 3,
           "trendTitle": "Highguard has now officially shutdown",

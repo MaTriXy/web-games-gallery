@@ -3,7 +3,7 @@
 ## Context
 
 Promote 2 autoresearch winners into build/weeks/2026-W11.
-Source run: 20260312215112. Mode: trending.
+Source run: 20260312221531. Mode: trending.
 
 ## Constraints
 
@@ -19,7 +19,7 @@ Source run: 20260312215112. Mode: trending.
 
 ## Status
 
-- `done`: 2 candidates promoted from autoresearch run 20260312215112
+- `done`: 2 candidates promoted from autoresearch run 20260312221531
 - `done`: build release folder refreshed for 2026-W11
 - `done`: build artifacts written
 

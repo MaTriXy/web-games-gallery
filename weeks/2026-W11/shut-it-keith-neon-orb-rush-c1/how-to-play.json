@@ -1,22 +1,36 @@
 {
-  "title": "Shut it Keith Rush",
-  "objective": "Score as many points as possible by mastering the shut loop before the timer ends.",
+  "title": "Shut It, Keith!",
+  "objective": "Survive a 3-minute set by silencing Keith's neon chatter: tap every word-orb he spits out before it vanishes or reaches the SHUT bar, build combos, and chase a leaderboard score.",
   "controls": [
     {
-      "action": "Tap target",
-      "input": "Touch / click",
-      "outcome": "Gain score and extend combo"
+      "action": "Pop a word-orb",
+      "input": "Tap a moving neon orb",
+      "outcome": "The orb bursts, the SHUT bar cools, and your combo increases."
+    },
+    {
+      "action": "Silence a rush lane",
+      "input": "Double-tap a flashing red orb",
+      "outcome": "Stops a dangerous fast orb worth bonus points."
+    },
+    {
+      "action": "Use mute pulse",
+      "input": "Tap and hold the SHUT button when charged",
+      "outcome": "Briefly freezes all active orbs for cleanup."
     }
   ],
   "steps": [
-    "Press Start.",
-    "Hit valid prompts quickly and avoid mistakes.",
-    "Finish and submit score."
+    "Keith stands center stage and telegraphs each spit pattern with a mouth glow and lane highlight 0.5 seconds before launch.",
+    "Neon word-orbs arc toward the SHUT bar at the bottom; tap them before they fade out or cross the bar.",
+    "Every clean hit adds score and combo; every 10-hit combo raises the multiplier by 1x up to 5x.",
+    "Missing 3 orbs, letting the SHUT bar fill completely, or tapping a fake decoy orb ends the run.",
+    "Every 30 seconds Keith gets louder: more lanes activate, orb speed rises, and red rush orbs appear more often.",
+    "A looping synth beat speeds up with the round, with sharp pop sounds for hits, a record-scratch miss cue, and a crowd cheer on combo tiers."
   ],
-  "scoring": "Build combo streaks for bigger points. Highest score wins.",
+  "scoring": "Score 100 points per normal orb, 250 per red rush orb, and apply the current combo multiplier. End-of-run score goes to a simple top-10 leaderboard stored locally offline and synced later if online.",
   "tips": [
-    "Keep your finger close to the main action lane.",
-    "Use sound and color to maintain rhythm."
+    "Watch Keith's mouth color: blue means wide spread, orange means straight rush, red means a fast danger orb.",
+    "Protect your combo first; missing is worse than skipping a low-value edge orb.",
+    "Save the mute pulse for overlapping red rush waves after the 90-second mark."
   ],
   "trendContext": {
     "source": "reddit_memes",
