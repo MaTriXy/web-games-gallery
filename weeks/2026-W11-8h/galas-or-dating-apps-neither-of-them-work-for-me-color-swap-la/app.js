@@ -1,11 +1,11 @@
-const GAME_TITLE = `First $1500: Skyline Dodge`;
-const ACCENT = `#ff6b1a`;
+const GAME_TITLE = `Velvet Rope & Read Receipts`;
+const ACCENT = `#E6B84A`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `I made my first 1500$ from my free mobile game: here is what worked, and what di`;
-const MOTIF_A = `first`;
-const MOTIF_B = `1500`;
-const OBJECTIVE_TAG = `first vs 1500`;
-const STAR_THRESHOLDS = [300,900,1500];
+const THEME_LABEL = `Galas or dating apps, neither of them work for me 🥹🥹`;
+const MOTIF_A = `galas`;
+const MOTIF_B = `dating`;
+const OBJECTIVE_TAG = `galas vs dating`;
+const STAR_THRESHOLDS = [600,1200,2000];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

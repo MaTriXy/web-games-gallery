@@ -1,10 +1,10 @@
-const GAME_TITLE = `Everytime Attempt`;
-const ACCENT = `#FF6B35`;
+const GAME_TITLE = `Server Survival: Swap Tower`;
+const ACCENT = `#FF6B3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Everytime I attempt to fill up my tank lately I experience a small emotional cri`;
-const MOTIF_A = `everytime`;
-const MOTIF_B = `attempt`;
-const OBJECTIVE_TAG = `everytime vs attempt`;
+const THEME_LABEL = `server-survival Tower defense game that teaches cloud architecture. Build infras`;
+const MOTIF_A = `server-survival`;
+const MOTIF_B = `tower`;
+const OBJECTIVE_TAG = `server-survival vs tower`;
 const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");

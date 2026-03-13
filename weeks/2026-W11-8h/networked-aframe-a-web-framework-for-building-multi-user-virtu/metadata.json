@@ -1,0 +1,47 @@
+{
+  "title": "Framework Sync Rush",
+  "description": "You stabilize a failing networked-aframe framework by memorizing and replaying linked pulse routes before the whole structure desyncs.",
+  "category": "Casual memory rhythm",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#19c2ff",
+  "starThresholds": [
+    1200,
+    3200,
+    6500
+  ],
+  "howToPlayJson": {
+    "title": "Framework Sync Rush",
+    "objective": "Replay the glowing pulse path across a small stack of connected A-Frames, keep the framework online for a 2-4 minute run, and bank the highest sync score on the leaderboard.",
+    "controls": [
+      {
+        "action": "Replay pulse",
+        "input": "Tap the lit A-Frame nodes in the exact order shown",
+        "outcome": "Confirms each beat, advances the sequence, and builds combo"
+      },
+      {
+        "action": "Take the risky route",
+        "input": "Tap the flashing link brace before replay starts",
+        "outcome": "Switches the next pattern into Mirror Mode, reversing the sequence for a score multiplier"
+      },
+      {
+        "action": "Recover from drift",
+        "input": "Hold a desynced node for a short press-and-hold when it crackles red",
+        "outcome": "Clears the jammed node but costs a beat of timer pressure"
+      }
+    ],
+    "steps": [
+      "A short audiovisual pulse sequence travels through 3 connected A-Frame nodes.",
+      "The sequence ends and the player must tap the same nodes back in order.",
+      "Each clear adds one new beat, speeds up playback slightly, and raises the combo multiplier.",
+      "Every few rounds, one link brace flashes and offers Mirror Mode: replay the whole next sequence in reverse for bonus points.",
+      "Later rounds introduce desynced red nodes that mute their sound cue, forcing the player to rely on visual memory unless they spend time to",
+      "A missed tap, wrong order input, or timeout breaks the framework and ends the run immediately."
+    ],
+    "scoring": "Score comes from correct beats, end-of-sequence clears, and a rising combo multiplier that grows with consecutive perfect replays; Mirror Mode and muted-node clears award extra bonus, and the best run posts to a simple.1",
+    "tips": [
+      "Listen for pitch steps as much as light position; audio tells you the route faster than visuals alone.",
+      "Use Mirror Mode only when the pattern feels chunked into pairs or symmetric shapes.",
+      "If a red desynced node appears late in the chain, repair only if the timer margin is safe; otherwise trust visual memory and protect the run"
+    ]
+  }
+}

@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T03:21:14.245Z
+Generated at: 2026-03-13T03:41:32.449Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: 9-months-ago-we-started-our-hobby-game-project-how-can-we-impr (arcade, 2 min) <- 9 Months ago we started our hobby game project. How can we improve?
-- slot 2: everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s (action, 3 min) <- Everytime I attempt to fill up my tank lately I experience a small emotional crisis
-- slot 3: show-hn-a-game-that-tests-how-well-you-know-your-local-area-pu (puzzle, 4 min) <- Show HN: A game that tests how well you know your local area
-- slot 4: i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor (action, 3 min) <- I made my first 1500$ from my free mobile game: here is what worked, and what didn't
-- slot 5: sprig-learn-to-code-by-making-games-in-a-javascript-web-based- (arcade, 2 min) <- sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.
+- slot 1: networked-aframe-a-web-framework-for-building-multi-user-virtu (puzzle, 4 min) <- networked-aframe A web framework for building multi-user virtual reality experiences.
+- slot 2: galas-or-dating-apps-neither-of-them-work-for-me-color-swap-la (action, 3 min) <- Galas or dating apps, neither of them work for me 🥹🥹
+- slot 3: show-hn-balancing-game-for-the-mobile-browser-with-increasing- (arcade, 2 min) <- Show HN: Balancing game for the mobile browser with increasing difficulty
+- slot 4: server-survival-tower-defense-game-that-teaches-cloud-architec (action, 3 min) <- server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
+- slot 5: indie-devs-is-it-really-that-hard-to-get-steam-wishlists-hones (action, 3 min) <- Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated
