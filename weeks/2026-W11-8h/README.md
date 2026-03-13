@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T03:01:56.180Z
+Generated at: 2026-03-13T03:21:14.245Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: show-hn-i-built-a-multiplayer-voxel-browser-game-engine-skylin (action, 3 min) <- Show HN: I built a multiplayer voxel browser game engine
-- slot 2: gamedevmind-game-development-map-signal-sniper-c4 (arcade, 2 min) <- GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
-- slot 3: far-reach-single-file-browser-4x-strategy-game-no-install-offl (puzzle, 4 min) <- Far Reach – Single-file browser 4X strategy game (no install, offline playable) – Medieval to space empires on three planets
-- slot 4: please-check-my-quantum-physics-browser-game-for-accuracy-neon (arcade, 2 min) <- Please check my quantum physics browser game for accuracy
-- slot 5: official-launch-trailer-crimson-desert-color-swap-lanes-c4 (action, 3 min) <- Official Launch Trailer | Crimson Desert
+- slot 1: 9-months-ago-we-started-our-hobby-game-project-how-can-we-impr (arcade, 2 min) <- 9 Months ago we started our hobby game project. How can we improve?
+- slot 2: everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s (action, 3 min) <- Everytime I attempt to fill up my tank lately I experience a small emotional crisis
+- slot 3: show-hn-a-game-that-tests-how-well-you-know-your-local-area-pu (puzzle, 4 min) <- Show HN: A game that tests how well you know your local area
+- slot 4: i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor (action, 3 min) <- I made my first 1500$ from my free mobile game: here is what worked, and what didn't
+- slot 5: sprig-learn-to-code-by-making-games-in-a-javascript-web-based- (arcade, 2 min) <- sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated

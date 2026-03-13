@@ -1,0 +1,48 @@
+{
+  "title": "Everytime Attempt",
+  "description": "Swipe your car around a chaotic gas station and keep each fill attempt alive long enough to squeeze out gallons before panic and prices wipe you out.",
+  "category": "Arcade Dodger",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#FF6B35",
+  "starThresholds": [
+    1200,
+    2600,
+    4200
+  ],
+  "howToPlayJson": {
+    "title": "Everytime Attempt",
+    "objective": "Survive a 2-4 minute run by dodging incoming forecourt hazards, staying under active pump streams to fill your tank, and choosing when to risk high-price boost zones for bigger score multipliers.",
+    "controls": [
+      {
+        "action": "Dodge lanes",
+        "input": "Swipe left or right",
+        "outcome": "Move the car between pump lanes and avoid incoming hazards like sliding price boards, honking cars, and flying receipts."
+      },
+      {
+        "action": "Cut through danger",
+        "input": "Swipe up",
+        "outcome": "Dash forward into the current pump stream to collect fuel faster but with less reaction time."
+      },
+      {
+        "action": "Bail out",
+        "input": "Swipe down",
+        "outcome": "Retreat to the back row to clear immediate pressure, but the pump pauses and your combo starts draining."
+      }
+    ],
+    "steps": [
+      "Start each run with an almost-empty tank and one active pump lane.",
+      "Hazards stream across the station in escalating waves while the pump only fills when your car stays aligned with the nozzle.",
+      "Every few seconds a new 'attempt' begins: pump lanes reshuffle, hazard patterns change, and a glowing surge-price zone appears on one lane.",
+      "Driving through the surge-price zone boosts fill speed and score multiplier, but it also spikes the crisis meter and spawns denser hazards.",
+      "Miss too many fills or max out the crisis meter and the run ends with your final gallons turned into leaderboard score."
+    ],
+    "scoring": "Score comes from gallons pumped, near-miss dodges, and maintaining an 'Attempt Chain' multiplier. The multiplier rises when you survive consecutive attempt phases without bailing out, and rises faster inside surge-price",
+    "tips": [
+      "Stay near the active nozzle; pure survival scores badly if the tank is not filling.",
+      "Use back-row bailouts sparingly because they protect you but bleed combo.",
+      "Take surge-price zones only when a hazard wave has a clear gap.",
+      "Short lateral swipes are safer than repeated forward dashes once the crisis meter is high.",
+      "Audio helps: pump clicks signal safe fill time, rising strings warn that an attempt reshuffle is about to hit."
+    ]
+  }
+}

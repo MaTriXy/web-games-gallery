@@ -1,0 +1,42 @@
+{
+  "title": "Sprig Signal School",
+  "objective": "Keep the classroom sprig growing through a 3-minute lesson by tapping only the currently valid symbols in a crowded garden of drifting code leaves, while surviving rule flips between teaching and debugging.",
+  "controls": [
+    {
+      "action": "Select valid target",
+      "input": "Tap a glowing lesson leaf or bug weed",
+      "outcome": "Scores points, grows the sprig, and builds combo if it matches the current lesson rule."
+    },
+    {
+      "action": "Ignore invalid clutter",
+      "input": "Do not tap decoy leaves, stale lessons, or neutral petals",
+      "outcome": "Avoids strikes and preserves your multiplier."
+    },
+    {
+      "action": "React to rule flip",
+      "input": "Watch the top lesson banner and listen for the mode cue",
+      "outcome": "Switches your priority instantly between teaching symbols and debugging weeds."
+    }
+  ],
+  "steps": [
+    "A large lesson card at the top clearly shows the current goal, such as 'TEACH: LOOP leaf' or 'DEBUG: broken JUMP weed'.",
+    "Crowded waves of leaves, weeds, and petals drift inward from the edges, but only valid targets get a bright outline and matching sound ping.",
+    "Tap correct targets in a row to raise a Focus multiplier from 1x to 4x as the sprig glows and the music layers up.",
+    "Every few seconds the Lesson Bell rings and flips the rule: teaching mode wants healthy code leaves, debugging mode wants red bug weeds tied",
+    "to the same concept.",
+    "Later waves mix near-matches, mirrored symbols, and double lessons, forcing faster reads without changing the tap-only control scheme.",
+    "Three mistakes or missed critical targets wilt the sprig and end the run."
+  ],
+  "scoring": "Correct taps score base points plus a Focus multiplier that increases with streaks; rule-flip targets are worth bonus points for quick reaction. Final score is saved locally for an offline-friendly best-score leaderboard",
+  "tips": [
+    "Read the giant lesson card first; the scene is noise, the banner is truth.",
+    "Use audio: a bright bell means teach mode, a harsh buzz means debug mode.",
+    "Protect the combo by skipping doubtful targets; one bad tap is worse than one missed small target.",
+    "Rule flips happen often, so recenter on the sprig after every bell instead of chasing the last cluster."
+  ],
+  "trendContext": {
+    "source": "github_games",
+    "title": "sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.",
+    "url": "https://github.com/hackclub/sprig"
+  }
+}

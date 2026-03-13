@@ -1,11 +1,11 @@
-const GAME_TITLE = `Official Launch Caravan`;
-const ACCENT = `#C84B31`;
+const GAME_TITLE = `Everytime Attempt`;
+const ACCENT = `#FF6B35`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Official Launch Trailer | Crimson Desert`;
-const MOTIF_A = `official`;
-const MOTIF_B = `launch`;
-const OBJECTIVE_TAG = `official vs launch`;
-const STAR_THRESHOLDS = [120,260,420];
+const THEME_LABEL = `Everytime I attempt to fill up my tank lately I experience a small emotional cri`;
+const MOTIF_A = `everytime`;
+const MOTIF_B = `attempt`;
+const OBJECTIVE_TAG = `everytime vs attempt`;
+const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

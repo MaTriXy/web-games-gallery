@@ -1,0 +1,42 @@
+{
+  "title": "First $1500: Skyline Dodge",
+  "objective": "Survive long enough to build your first $1500 run by dodging incoming hazards, chaining close calls, and choosing when to cut through payout gates for bigger rewards.",
+  "controls": [
+    {
+      "action": "Move",
+      "input": "Swipe left or right",
+      "outcome": "Dash between rooftop lanes to avoid hazards and line up bonus paths."
+    },
+    {
+      "action": "Risk dive",
+      "input": "Swipe into a glowing $1500 gate",
+      "outcome": "Bank a higher multiplier chunk, but trigger a denser hazard wave for a few seconds."
+    },
+    {
+      "action": "Thread near-miss",
+      "input": "Brush past hazard edges without contact",
+      "outcome": "Extend the combo meter and raise score gain."
+    }
+  ],
+  "steps": [
+    "Start with 3 lanes across a scrolling skyline and a fresh x1 combo.",
+    "Dodge incoming hazards like bug swarms, refund storms, and red 'Didn't Work' billboards.",
+    "Pass close to hazards to fill the 'First Hit' combo meter; repeated near-misses increase the multiplier.",
+    "Every few seconds, a glowing '$1500 gate' appears in one lane.",
+    "Entering the gate cashes out bonus score and upgrades the multiplier, but the next wave speeds up and adds mixed hazard patterns.",
+    "Miss a dodge once and the run ends immediately.",
+    "Last 2-4 minutes as waves escalate until the screen becomes too dense to survive."
+  ],
+  "scoring": "Score rises from survival time, near-miss chains, and successful $1500 gate dives. Each gate taken boosts the active multiplier, but only if you survive the harder follow-up wave. Leaderboards rank total score from a run",
+  "tips": [
+    "Take early near-misses to build multiplier before the first $1500 gate appears.",
+    "Skip a gate if your lane options are collapsing; greedy dives usually cause the fail state.",
+    "Audio warning chirps signal incoming mixed waves before they enter the screen.",
+    "Use short swipes instead of long drags so you can correct during dense patterns."
+  ],
+  "trendContext": {
+    "source": "reddit_gamedev",
+    "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
+    "url": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/"
+  }
+}

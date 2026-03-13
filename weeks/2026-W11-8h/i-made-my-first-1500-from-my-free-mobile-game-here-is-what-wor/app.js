@@ -1,11 +1,11 @@
-const GAME_TITLE = `Skyline Host Shift`;
-const ACCENT = `#FF6A3D`;
+const GAME_TITLE = `First $1500: Skyline Dodge`;
+const ACCENT = `#ff6b1a`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Show HN: I built a multiplayer voxel browser game engine`;
-const MOTIF_A = `multiplayer`;
-const MOTIF_B = `voxel`;
-const OBJECTIVE_TAG = `multiplayer vs voxel`;
-const STAR_THRESHOLDS = [900,2100,3800];
+const THEME_LABEL = `I made my first 1500$ from my free mobile game: here is what worked, and what di`;
+const MOTIF_A = `first`;
+const MOTIF_B = `1500`;
+const OBJECTIVE_TAG = `first vs 1500`;
+const STAR_THRESHOLDS = [300,900,1500];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

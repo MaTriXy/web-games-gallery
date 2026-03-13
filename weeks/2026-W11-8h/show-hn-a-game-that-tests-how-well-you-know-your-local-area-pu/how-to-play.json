@@ -1,0 +1,41 @@
+{
+  "title": "Well Test",
+  "objective": "Replay increasingly complex water-pulse sequences on a ring of four touch pipeheads, react to rotating test rules, and build the highest combo before three failed inspections end the run.",
+  "controls": [
+    {
+      "action": "Replay pulse",
+      "input": "Tap a glowing pipehead",
+      "outcome": "Inputs that pipehead into the current sequence"
+    },
+    {
+      "action": "Hold for heavy pulse",
+      "input": "Press and hold a pipehead briefly",
+      "outcome": "Matches rare long-tone beats later in the run for bonus score"
+    },
+    {
+      "action": "Use test hint",
+      "input": "Tap the center well cap once per run",
+      "outcome": "Replays the last two beats but halves the current multiplier"
+    }
+  ],
+  "steps": [
+    "A round starts with the center well thumping a short musical pulse pattern through 4 pipeheads: north, east, south, west.",
+    "The player watches and listens, then taps the same pipeheads back in order on a mobile-first circular layout.",
+    "Every 2 rounds, the well announces a test condition with a sharp audio sting and icon flash: replay in reverse, ignore the cracked pipe, or",
+    "If the player adapts correctly, the sequence length grows by 1 beat and the tempo tightens slightly.",
+    "Perfect rounds add to a pressure combo that multiplies score; using the wrong pipe, missing a hold note, or obeying the wrong test rule rupt",
+    "After 3 ruptures, the pump fails, the session ends, and the score can be posted to a simple daily/offline-best leaderboard."
+  ],
+  "scoring": "Score 100 points per correct beat, +50 per perfect round, and apply a pressure multiplier that starts at x1 and rises by +0.5 every two flawless rounds up to x5. Any mistake breaks the combo. Reverse-rule and cracked-pip",
+  "tips": [
+    "Make each pipehead a distinct instrument tone so players can learn by ear as much as by sight.",
+    "Keep runs to about 3 minutes by starting at 3 beats and capping most sessions around 10-12 beats.",
+    "Use strong haptic taps and bassy pump sounds for success, and a sharp dry clank for failures.",
+    "Store daily best and local-device all-time best so the leaderboard works offline and sync can stay optional."
+  ],
+  "trendContext": {
+    "source": "hacker_news",
+    "title": "Show HN: A game that tests how well you know your local area",
+    "url": "https://backofyourhand.com/51.89863,-8.47039"
+  }
+}

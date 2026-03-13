@@ -1,0 +1,41 @@
+{
+  "title": "Monthstarter Orbit",
+  "objective": "Survive a 3-minute run by correctly starting glowing month tasks as they orbit outward from the center, building combo through all nine months without letting the project stall.",
+  "controls": [
+    {
+      "action": "Tap a neon orb",
+      "input": "Single finger tap",
+      "outcome": "Scores if the orb belongs to the currently highlighted month lane before it reaches the vanish ring."
+    },
+    {
+      "action": "Ignore a bad lane orb",
+      "input": "Do not tap",
+      "outcome": "Avoids a mistake when a non-active month sends decoy orbs across the screen."
+    },
+    {
+      "action": "Hit a Start Bell orb",
+      "input": "Fast tap on the bell icon orb",
+      "outcome": "Instantly shifts the active month early, saving a threatened combo but changing priorities."
+    }
+  ],
+  "steps": [
+    "A bright month wedge around the arena is always highlighted, clearly showing which lane is live now.",
+    "Neon orbs launch from the center 'Started' core and travel along month lanes toward outer deadline rings.",
+    "Tap only the orbs in the active month lane before they cross the outer ring; each clean hit raises combo and score multiplier.",
+    "Every few seconds a telegraphed pulse sweeps to the next month, and the active lane changes, forcing the player to abandon some targets and",
+    "Special Start Bell orbs appear during lane shifts; tapping one skips the timer and advances the month immediately for a risky combo route.",
+    "The run ends after three missed active-lane orbs or three wrong taps, creating a clear fail state."
+  ],
+  "scoring": "Each correct tap gives base points; every 5 clean starts increases the multiplier up to x6. Missing an active orb or tapping a wrong lane breaks combo. Final score feeds a simple offline local leaderboard for best single",
+  "tips": [
+    "Watch the glowing month wedge first; it is the only lane that matters right now.",
+    "The sweep pulse warns the next lane change a beat early, so stop chasing late orbs.",
+    "Use Start Bell orbs only when the current lane is overcrowded or a combo is about to break.",
+    "Audio helps: active-lane hits ring high, wrong taps buzz low, and month shifts land on a strong synth beat."
+  ],
+  "trendContext": {
+    "source": "reddit_indiegaming",
+    "title": "9 Months ago we started our hobby game project. How can we improve?",
+    "url": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/"
+  }
+}
