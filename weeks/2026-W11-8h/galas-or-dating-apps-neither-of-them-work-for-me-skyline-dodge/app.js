@@ -1,11 +1,11 @@
-const GAME_TITLE = `First 1500: Worked / Didn't`;
-const ACCENT = `#ff6a3d`;
+const GAME_TITLE = `Galas Collapse Run`;
+const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `I made my first 1500$ from my free mobile game: here is what worked, and what di`;
-const MOTIF_A = `first`;
-const MOTIF_B = `1500`;
-const OBJECTIVE_TAG = `first vs 1500`;
-const STAR_THRESHOLDS = [500,1500,3000];
+const THEME_LABEL = `Galas or dating apps, neither of them work for me 🥹🥹`;
+const MOTIF_A = `galas`;
+const MOTIF_B = `dating`;
+const OBJECTIVE_TAG = `galas vs dating`;
+const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

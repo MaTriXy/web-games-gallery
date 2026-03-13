@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-12T23:54:51.047Z
+Generated at: 2026-03-13T00:15:18.778Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: 9-months-ago-we-started-our-hobby-game-project-how-can-we-impr (arcade, 2 min) <- 9 Months ago we started our hobby game project. How can we improve?
-- slot 2: everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s (puzzle, 4 min) <- Everytime I attempt to fill up my tank lately I experience a small emotional crisis
-- slot 3: i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor (action, 3 min) <- I made my first 1500$ from my free mobile game: here is what worked, and what didn't
-- slot 4: show-hn-a-game-that-tests-how-well-you-know-your-local-area-pu (puzzle, 4 min) <- Show HN: A game that tests how well you know your local area
-- slot 5: according-to-valve-5863-games-earned-over-100-000-dollars-on-s (puzzle, 4 min) <- According to Valve 5863 games earned over 100 000 dollars on Steam in 2025.
+- slot 1: sprig-learn-to-code-by-making-games-in-a-javascript-web-based- (arcade, 2 min) <- sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.
+- slot 2: show-hn-balancing-game-for-the-mobile-browser-with-increasing- (puzzle, 4 min) <- Show HN: Balancing game for the mobile browser with increasing difficulty
+- slot 3: galas-or-dating-apps-neither-of-them-work-for-me-skyline-dodge (action, 3 min) <- Galas or dating apps, neither of them work for me 🥹🥹
+- slot 4: indie-devs-is-it-really-that-hard-to-get-steam-wishlists-hones (puzzle, 4 min) <- Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences
+- slot 5: networked-aframe-a-web-framework-for-building-multi-user-virtu (arcade, 3 min) <- networked-aframe A web framework for building multi-user virtual reality experiences.
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated

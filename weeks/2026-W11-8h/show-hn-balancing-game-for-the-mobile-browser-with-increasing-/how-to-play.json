@@ -1,0 +1,38 @@
+{
+  "title": "Pocket Balance Pulse",
+  "objective": "Keep a hanging phone-charms mobile steady for a 2-4 minute run by memorizing and replaying ever-longer pulse sequences on the correct dangling weights.",
+  "controls": [
+    {
+      "action": "Replay pulse",
+      "input": "Tap the glowing hanging weight in the heard order",
+      "outcome": "Matches the rhythm, steadies the mobile, and extends the combo"
+    },
+    {
+      "action": "Brace balance",
+      "input": "Press and hold the center knot with one thumb during replay",
+      "outcome": "Slows the tilt for 1 second but halves points earned on that beat"
+    },
+    {
+      "action": "Flip read",
+      "input": "Tap the flashing arrow between rounds",
+      "outcome": "Accepts the current wind-shift rule so you can start the next sequence"
+    }
+  ],
+  "steps": [
+    "A short melody plays across 3-5 hanging weights around a central knot, each weight lighting and chiming in order.",
+    "The player repeats the sequence by tapping the same weights before the balance meter fully leans left or right.",
+    "Each cleared round adds one beat, increases playback speed, and makes the mobile sway harder between taps.",
+    "Every few seconds a Wind Shift twist changes the rule: either heavy-side beats must be mirrored to the opposite side, or center beats mustbe"
+  ],
+  "scoring": "Each correct beat is worth 10 points times the current combo multiplier. The multiplier rises by +1 every 5 perfect beats up to x8. Using Brace balance preserves the run but scores only half for those beats. Missing a be",
+  "tips": [
+    "Listen for pitch as well as position; each weight keeps the same note all run.",
+    "Use Brace only when the mobile is near red tilt; overusing it kills high-score pace.",
+    "When Wind Shift appears, read the icon first: mirror arrows mean opposite side, pulse ring means repeat center twice."
+  ],
+  "trendContext": {
+    "source": "hacker_news",
+    "title": "Show HN: Balancing game for the mobile browser with increasing difficulty",
+    "url": "https://www.balanc3dgame.com/"
+  }
+}
