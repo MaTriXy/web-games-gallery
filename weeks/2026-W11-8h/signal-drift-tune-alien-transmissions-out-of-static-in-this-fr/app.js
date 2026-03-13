@@ -1,11 +1,11 @@
-const GAME_TITLE = `Indie Rethink Run`;
-const ACCENT = `#FF6B2C`;
+const GAME_TITLE = `Signal Drift: Rooftop Relay`;
+const ACCENT = `#5EE6C6`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Indie games that made me rethink what gaming could be`;
-const MOTIF_A = `indie`;
-const MOTIF_B = `rethink`;
-const OBJECTIVE_TAG = `indie vs rethink`;
-const STAR_THRESHOLDS = [1500,4000,8000];
+const THEME_LABEL = `Signal Drift - tune alien transmissions out of static in this free browser puzzl`;
+const MOTIF_A = `signal`;
+const MOTIF_B = `drift`;
+const OBJECTIVE_TAG = `signal vs drift`;
+const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

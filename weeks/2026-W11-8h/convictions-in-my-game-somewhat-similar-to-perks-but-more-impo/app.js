@@ -1,11 +1,11 @@
-const GAME_TITLE = `Loot Box Lockdown`;
-const ACCENT = `#FF6B2C`;
+const GAME_TITLE = `Convictions Collapse Run`;
+const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `All games with loot boxes in them will be rated minimum PEGI 16, starting this s`;
-const MOTIF_A = `loot`;
-const MOTIF_B = `boxes`;
-const OBJECTIVE_TAG = `loot vs boxes`;
-const STAR_THRESHOLDS = [1200,2600,4800];
+const THEME_LABEL = `Convictions in my game (somewhat similar to perks, but more important.) What do `;
+const MOTIF_A = `convictions`;
+const MOTIF_B = `somewhat`;
+const OBJECTIVE_TAG = `convictions vs somewhat`;
+const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

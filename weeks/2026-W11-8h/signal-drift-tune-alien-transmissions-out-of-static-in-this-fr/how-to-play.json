@@ -1,0 +1,42 @@
+{
+  "title": "Signal Drift: Rooftop Relay",
+  "objective": "Survive a 3-minute transmission run by dodging static hazards, riding the moving signal lane, and banking the highest decode score before three signal breaks end the run.",
+  "controls": [
+    {
+      "action": "Shift receiver",
+      "input": "Swipe left or right",
+      "outcome": "Move the dish between skyline lanes to dodge incoming static, birds, and power surges."
+    },
+    {
+      "action": "Hold the lock",
+      "input": "Keep your finger down while inside the glowing signal lane",
+      "outcome": "Decode the drifting transmission, build combo, and charge the score multiplier."
+    },
+    {
+      "action": "Bank the streak",
+      "input": "Lift your finger before a Drift Flip hits",
+      "outcome": "Cash out the current multiplier safely instead of risking a full combo break."
+    }
+  ],
+  "steps": [
+    "Start on a rooftop with four lanes and a faint alien broadcast drifting between them.",
+    "Swipe to dodge incoming static bursts and skyline hazards streaming downward in faster waves.",
+    "When the glowing signal lane passes under your dish, stay inside it to decode packets and raise your multiplier.",
+    "Every few seconds a Drift Flip retunes the broadcast to a new lane and reverses which pulse color is safe, forcing a fast route change.",
+    "If you stay locked through a Drift Flip, your multiplier jumps harder, but clipping any hazard or wrong-color pulse shatters the whole combo",
+    "Survive until the timer ends or lose after three signal breaks."
+  ],
+  "scoring": "Score rises from time survived plus decoded packets. Staying inside the signal lane increases a combo multiplier up to 8x. Banking before a Drift Flip preserves the multiplier as points; riding through the flip risks a 2",
+  "tips": [
+    "Watch the audio pitch: the signal hum rises as the lane is about to drift.",
+    "Wrong-color pulses become dangerous only after each Drift Flip, so read the sky before committing.",
+    "Short swipes are safer early; long greedy locks win leaderboard runs.",
+    "Banking a 5x combo is often better than losing an 8x chase.",
+    "Play with sound on: hazard clicks and retune stingers give earlier warning than the visuals."
+  ],
+  "trendContext": {
+    "source": "reddit_webgames",
+    "title": "Signal Drift - tune alien transmissions out of static in this free browser puzzle game",
+    "url": "https://www.reddit.com/r/WebGames/comments/1rs4ju9/signal_drift_tune_alien_transmissions_out_of/"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "WHAT / SOMETHING",
+  "objective": "Memorize and replay escalating pulse sequences on the WHAT and SOMETHING pads, preserving your combo while stripping out sudden overbuilt fake beats.",
+  "controls": [
+    {
+      "action": "Replay a pulse",
+      "input": "Tap the glowing WHAT or SOMETHING pad",
+      "outcome": "Plays that beat back in sequence and scores if correct"
+    },
+    {
+      "action": "Simplify a noisy pulse",
+      "input": "Tap and hold a pad on a beat wrapped in extra rings, then release on the flash",
+      "outcome": "Converts an overbuilt pulse into its clean version for bonus points"
+    },
+    {
+      "action": "Bank your streak",
+      "input": "Hit the center meter after a full correct sequence",
+      "outcome": "Locks in your current multiplier before the next faster round starts"
+    }
+  ],
+  "steps": [
+    "A round begins with 3-5 pulses alternating between the WHAT and SOMETHING pads, each with distinct tones.",
+    "The sequence replays once at full speed, then the player must repeat it from memory.",
+    "Every few seconds, one beat becomes an overbuilt pulse: it looks louder, adds visual clutter, and must be held then released instead of just",
+    "correct replays raise the combo multiplier and add one new pulse to the next round.",
+    "After each successful round, the player chooses speed implicitly by banking now for safety or letting the streak roll for a bigger next-se",
+    "quence bonus.",
+    "One wrong input, a missed hold-release, or failing to bank before the overload meter fills ends the run instantly."
+  ],
+  "scoring": "Score comes from correct beats, perfect timing, and simplified overbuilt pulses. Consecutive perfect rounds raise a 1x to 8x multiplier. Banked streaks post to a simple offline local leaderboard of highest single-run lab",
+  "tips": [
+    "Use the tone as much as the color; WHAT is lower and SOMETHING is higher.",
+    "Overbuilt pulses are worth more, but they also speed up the overload meter if you hesitate.",
+    "Bank early in the last minute if you want a leaderboard-safe run; greedier streaks win bigger scores."
+  ],
+  "trendContext": {
+    "source": "reddit_gamedev",
+    "title": "What’s something new game devs over-engineer that experienced teams keep simple?",
+    "url": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/"
+  }
+}
