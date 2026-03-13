@@ -1,11 +1,11 @@
-const GAME_TITLE = `Velvet Rope & Read Receipts`;
-const ACCENT = `#E6B84A`;
+const GAME_TITLE = `Indie Rethink Run`;
+const ACCENT = `#FF6B2C`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Galas or dating apps, neither of them work for me 🥹🥹`;
-const MOTIF_A = `galas`;
-const MOTIF_B = `dating`;
-const OBJECTIVE_TAG = `galas vs dating`;
-const STAR_THRESHOLDS = [600,1200,2000];
+const THEME_LABEL = `Indie games that made me rethink what gaming could be`;
+const MOTIF_A = `indie`;
+const MOTIF_B = `rethink`;
+const OBJECTIVE_TAG = `indie vs rethink`;
+const STAR_THRESHOLDS = [1500,4000,8000];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

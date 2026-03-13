@@ -1,56 +1,12 @@
 {
   "schemaVersion": "2.0.0",
   "weekKey": "2026-W11-8h",
-  "generatedAt": "2026-03-13T03:41:32.449Z",
+  "generatedAt": "2026-03-13T04:00:25.833Z",
   "games": [
     {
-      "slug": "networked-aframe-a-web-framework-for-building-multi-user-virtu",
-      "title": "Framework Sync Rush",
-      "description": "You stabilize a failing networked-aframe framework by memorizing and replaying linked pulse routes before the whole structure desyncs.",
-      "genre": "puzzle",
-      "sessionMinutes": 4,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "networked-aframe A web framework for building multi-user virtual reality experiences.",
-      "trendSource": "github_games",
-      "trendUrl": "https://github.com/networked-aframe/networked-aframe",
-      "ideaSeedId": "pulse-pattern",
-      "ideaSeedName": "Pulse Pattern",
-      "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./networked-aframe-a-web-framework-for-building-multi-user-virtu/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "galas-or-dating-apps-neither-of-them-work-for-me-color-swap-la",
-      "title": "Velvet Rope & Read Receipts",
-      "description": "Juggle a gold-tie gala and a glitchy dating app by swiping between lanes and matching your vibe color to the only openings before both scenes shut you out.",
-      "genre": "action",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "Galas or dating apps, neither of them work for me 🥹🥹",
-      "trendSource": "reddit_memes",
-      "trendUrl": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
-      "ideaSeedId": "color-swap-lanes",
-      "ideaSeedName": "Color Swap Lanes",
-      "buildStrategyId": "split_runtime",
-      "sourcePath": "./galas-or-dating-apps-neither-of-them-work-for-me-color-swap-la/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "show-hn-balancing-game-for-the-mobile-browser-with-increasing-",
-      "title": "Balancing Triage",
-      "description": "Tap true balancing calls, reject mobile decoys, and hold a growing combo as the show feed floods faster every wave.",
+      "slug": "real-business-neon-orb-rush-c1",
+      "title": "Real Business: Neon Audit",
+      "description": "Run a flashing late-night company and tap real deal orbs while swatting fake hype before your business reputation collapses.",
       "genre": "arcade",
       "sessionMinutes": 2,
       "capabilities": [
@@ -59,42 +15,42 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Show HN: Balancing game for the mobile browser with increasing difficulty",
-      "trendSource": "hacker_news",
-      "trendUrl": "https://www.balanc3dgame.com/",
+      "trendTitle": "Real business",
+      "trendSource": "reddit_memes",
+      "trendUrl": "https://www.reddit.com/r/memes/comments/1rrq1vx/real_business/",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
       "buildStrategyId": "single_file",
-      "sourcePath": "./show-hn-balancing-game-for-the-mobile-browser-with-increasing-/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
-    },
-    {
-      "slug": "server-survival-tower-defense-game-that-teaches-cloud-architec",
-      "title": "Server Survival: Swap Tower",
-      "description": "Slide a glowing server tower across three traffic lanes and swap its stack color to absorb matching request gates before surge waves crash your system.",
-      "genre": "action",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
-      "trendSource": "github_games",
-      "trendUrl": "https://github.com/pshenok/server-survival",
-      "ideaSeedId": "color-swap-lanes",
-      "ideaSeedName": "Color Swap Lanes",
-      "buildStrategyId": "split_runtime",
-      "sourcePath": "./server-survival-tower-defense-game-that-teaches-cloud-architec/index.html",
+      "sourcePath": "./real-business-neon-orb-rush-c1/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "indie-devs-is-it-really-that-hard-to-get-steam-wishlists-hones",
-      "title": "Indie Collapse Run",
-      "description": "Swipe through collapsing indie lanes, bait risky devs boosts, and stretch your combo before the grid shuts down.",
+      "slug": "what-is-considered-too-big-for-an-indie-project-pulse-pattern-",
+      "title": "What Considered",
+      "description": "You are the restless What, replaying pulse patterns through shifting Considered gates before your idea is judged too big to survive.",
+      "genre": "puzzle",
+      "sessionMinutes": 4,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "What is considered too big for an indie project?",
+      "trendSource": "reddit_gamedev",
+      "trendUrl": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "buildStrategyId": "cabinet_arcade",
+      "sourcePath": "./what-is-considered-too-big-for-an-indie-project-pulse-pattern-/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "indie-games-that-made-me-rethink-what-gaming-could-be-skyline-",
+      "title": "Indie Rethink Run",
+      "description": "Swipe an indie spark through collapsing idea-lanes, dodging stale genre blocks and diving into Rethink Gates to flip danger into points.",
       "genre": "action",
       "sessionMinutes": 3,
       "capabilities": [
@@ -103,15 +59,59 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences",
+      "trendTitle": "Indie games that made me rethink what gaming could be",
       "trendSource": "reddit_indiegaming",
-      "trendUrl": "https://www.reddit.com/r/IndieGaming/comments/1rryewg/indie_devs_is_it_really_that_hard_to_get_steam/",
+      "trendUrl": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
       "ideaSeedId": "skyline-dodge",
       "ideaSeedName": "Skyline Dodge",
       "buildStrategyId": "split_runtime",
-      "sourcePath": "./indie-devs-is-it-really-that-hard-to-get-steam-wishlists-hones/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
+      "sourcePath": "./indie-games-that-made-me-rethink-what-gaming-could-be-skyline-/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1",
+      "title": "Loot Box Lockdown",
+      "description": "Guide rolling loot boxes through matching color gates by swiping lanes and tapping to seal any crate that suddenly gets stamped 16+.",
+      "genre": "action",
+      "sessionMinutes": 3,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
+      "trendSource": "reddit_gaming",
+      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
+      "ideaSeedId": "color-swap-lanes",
+      "ideaSeedName": "Color Swap Lanes",
+      "buildStrategyId": "split_runtime",
+      "sourcePath": "./all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "9-months-ago-we-started-our-hobby-game-project-how-can-we-impr",
+      "title": "Monthstarter: Signal Sniper",
+      "description": "Guide a scrappy hobby studio through nine chaotic months by tapping only the true start signals before bad launches drain your run.",
+      "genre": "arcade",
+      "sessionMinutes": 2,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "9 Months ago we started our hobby game project. How can we improve?",
+      "trendSource": "reddit_indiegaming",
+      "trendUrl": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/",
+      "ideaSeedId": "signal-sniper",
+      "ideaSeedName": "Signal Sniper",
+      "buildStrategyId": "cabinet_arcade",
+      "sourcePath": "./9-months-ago-we-started-our-hobby-game-project-how-can-we-impr/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
     }
   ],
   "sourceReferences": [

@@ -1,0 +1,52 @@
+{
+  "title": "What Considered",
+  "description": "You are the restless What, replaying pulse patterns through shifting Considered gates before your idea is judged too big to survive.",
+  "category": "Music Memory",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#FF6B3D",
+  "starThresholds": [
+    600,
+    1400,
+    2600
+  ],
+  "howToPlayJson": {
+    "title": "What Considered",
+    "objective": "Memorize the shown pulse sequence, then replay only the beats that pass the current Considered rule while building combo before three mistakes end the run.",
+    "controls": [
+      {
+        "action": "Listen and watch",
+        "input": "Hold the phone normally and observe the pads pulsing in sequence",
+        "outcome": "You learn the full pattern and hear each pad's musical cue"
+      },
+      {
+        "action": "Replay a beat",
+        "input": "Tap a pulsing pad",
+        "outcome": "Inputs that match the valid next beat score and extend combo"
+      },
+      {
+        "action": "Skip a rejected beat",
+        "input": "Do not tap when the next memorized beat is currently disallowed by the rule",
+        "outcome": "The sequence advances safely and preserves your run"
+      },
+      {
+        "action": "Use the flip window",
+        "input": "Tap the glowing Considered badge during its brief flash",
+        "outcome": "You reveal the next rule change early, helping plan the rest of the replay"
+      }
+    ],
+    "steps": [
+      "A short sequence of 3-4 pads is performed with bold audio pulses and screen shake.",
+      "The Considered badge declares a live filter such as 'replay only cool colors,' 'replay only outer ring beats,' or 'replay only sounds above",
+      "During replay, every few beats the Considered rule flips, forcing you to continue the remembered sequence but instantly decide which beats",
+      "Correct taps chain combo and fill a multiplier meter; wrong taps or tapping a rejected beat costs a life.",
+      "Each round adds one beat, speeds the tempo slightly, and introduces tighter rule-flip timing until the 2-4 minute run collapses."
+    ],
+    "scoring": "Score 10 points per correct beat, plus combo-based multipliers at x2, x3, and x5 every 6 clean decisions. Perfectly handling a rule flip grants a 'Considered' bonus. Highest single-run score feeds a simple offline local/",
+    "tips": [
+      "Memorize rhythm groups, not single pads.",
+      "When the badge is about to flip, stop chasing speed and prepare for the new filter.",
+      "Skipping correctly is as important as tapping correctly.",
+      "Use sound color and pad position together; late rounds are too fast for visual memory alone."
+    ]
+  }
+}

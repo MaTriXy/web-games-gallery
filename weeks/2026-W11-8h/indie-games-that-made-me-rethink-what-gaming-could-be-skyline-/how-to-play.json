@@ -1,0 +1,42 @@
+{
+  "title": "Indie Rethink Run",
+  "objective": "Survive a 2-4 minute run through escalating hazard waves, cashing in risky Rethink flips to post the highest leaderboard score before your three Hearts are gone.",
+  "controls": [
+    {
+      "action": "Dodge lanes",
+      "input": "Swipe left or right",
+      "outcome": "Your spark snaps into a neighboring lane to avoid incoming blocks, walls, and shockwaves."
+    },
+    {
+      "action": "Hold the center line",
+      "input": "No input",
+      "outcome": "You stay steady, useful for threading narrow gaps and setting up multiplier routes."
+    },
+    {
+      "action": "Trigger risk window",
+      "input": "Swipe into a glowing Rethink Gate",
+      "outcome": "For a few seconds the rules invert: marked hazards become bonus targets to graze, while empty lanes become dangerous."
+    }
+  ],
+  "steps": [
+    "Start with three Hearts, a x1 multiplier, and slow descending waves of 'stale idea' blocks.",
+    "Swipe between three to five vertical lanes as hazards fall faster and patterns get tighter every 20 seconds.",
+    "Graze near hazards to build the Indie meter; close calls are worth more but a direct hit costs one Heart.",
+    "When the Indie meter fills, a Rethink Gate appears in a risky lane.",
+    "Enter the gate to start Rethink Mode for 4 seconds: bright icon hazards are now score-rich graze targets, but unmarked space and old safe-hh",
+    "Exit Rethink Mode back into normal dodging as wave speed, lane count, and mixed patterns escalate.",
+    "The run ends when all Hearts are lost or a full collapse wave pins you with no legal lane."
+  ],
+  "scoring": "Score rises from survival time, near-miss grazes, and chained Rethink Mode bonuses. Each clean graze adds combo; entering a gate at high combo boosts the multiplier, but taking a hit resets it. Local offline leaderboard:",
+  "tips": [
+    "Build Indie meter with controlled near-misses instead of playing fully safe.",
+    "Do not auto-take every gate; a bad entry angle can turn the flip into a trap.",
+    "Use Rethink Mode to harvest marked hazards, then reposition before normal rules return.",
+    "Audio helps: a rising synth warns of gate spawn, and a filter-swap signals the rule inversion instantly."
+  ],
+  "trendContext": {
+    "source": "reddit_indiegaming",
+    "title": "Indie games that made me rethink what gaming could be",
+    "url": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/"
+  }
+}
