@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T04:42:02.770Z
+Generated at: 2026-03-13T05:01:26.206Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: after-3-years-of-work-my-indie-tower-defense-bean-beasts-just- (action, 3 min) <- After 3 years of work, my indie tower defense Bean Beasts just launched today on Switch! 🫘
-- slot 2: playable-snake-game-in-the-browser-no-downloads-works-on-mobil (puzzle, 4 min) <- Playable Snake game in the browser – no downloads, works on mobile
-- slot 3: what-is-the-most-annoying-habit-of-your-wife-neon-orb-rush-c1 (arcade, 2 min) <- What is the most annoying habit of your wife?
-- slot 4: gdevelop-open-source-cross-platform-2d3dmultiplayer-game-engin (arcade, 3 min) <- GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
-- slot 5: crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa (arcade, 2 min) <- Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch
+- slot 1: his-cardiologist-was-definitely-watching-him-skyline-dodge-c1 (action, 3 min) <- His Cardiologist was definitely watching him
+- slot 2: launching-a-steam-page-how-many-wishlists-do-you-expect-pulse- (puzzle, 4 min) <- Launching a Steam page, how many wishlists do YOU expect?
+- slot 3: all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1 (arcade, 2 min) <- All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation
+- slot 4: gridbadger-a-live-multiplayer-pixel-grid-where-every-pixel-can (action, 3 min) <- GridBadger - A live multiplayer pixel grid where every pixel can be flipped, prices rise with each takeover, and you can see everyone's cursors
+- slot 5: fuel-prices-are-crazy-though-neon-orb-rush-c1 (arcade, 2 min) <- Fuel prices are crazy though
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated

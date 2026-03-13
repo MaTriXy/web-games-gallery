@@ -1,11 +1,11 @@
-const GAME_TITLE = `After Work Launch`;
-const ACCENT = `#FF6B35`;
+const GAME_TITLE = `Definitely Under Observation`;
+const ACCENT = `#E94B5B`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `After 3 years of work, my indie tower defense Bean Beasts just launched today on`;
-const MOTIF_A = `after`;
-const MOTIF_B = `work`;
-const OBJECTIVE_TAG = `after vs work`;
-const STAR_THRESHOLDS = [1200,2600,4800];
+const THEME_LABEL = `His Cardiologist was definitely watching him`;
+const MOTIF_A = `cardiologist`;
+const MOTIF_B = `definitely`;
+const OBJECTIVE_TAG = `cardiologist vs definitely`;
+const STAR_THRESHOLDS = [1200,2600,4500];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

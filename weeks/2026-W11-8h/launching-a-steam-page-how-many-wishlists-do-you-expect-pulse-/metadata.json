@@ -1,0 +1,47 @@
+{
+  "title": "Steam Page Launch",
+  "description": "Memorize and fire back steam-valve pulse sequences to launch your page before the boiler hype collapses.",
+  "category": "casual",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#C96F2D",
+  "starThresholds": [
+    1200,
+    2600,
+    4800
+  ],
+  "howToPlayJson": {
+    "title": "Steam Page Launch",
+    "objective": "Replay rising whistle-and-pressure patterns on four brass launch valves, then decide whether to launch now and bank your wishlist combo or risk one more pulse for a bigger score.",
+    "controls": [
+      {
+        "action": "Replay pulse",
+        "input": "Tap a glowing valve",
+        "outcome": "Inputs that valve's steam tone in sequence order."
+      },
+      {
+        "action": "Overpressure pulse",
+        "input": "Press and hold a valve with a red ring",
+        "outcome": "Completes a long-note pulse worth extra combo."
+      },
+      {
+        "action": "Launch early",
+        "input": "Tap the central LAUNCH gauge after a correct round",
+        "outcome": "Banks current combo into score before the next pattern adds risk."
+      }
+    ],
+    "steps": [
+      "A short steam-whistle pattern plays across 4 valves.",
+      "The player replays the exact pattern by tapping the matching valves.",
+      "Every 2 rounds, a launch event mutates the rules for the next pattern: one pulse may need a hold, one valve may be blocked by steam, or the",
+      "After a correct replay, the player chooses to launch immediately for safe points or continue for a higher multiplier.",
+      "A wrong input, missed hold, or full overpressure meter ends the run."
+    ],
+    "scoring": "Each correct pulse adds points; flawless rounds raise a wishlist multiplier. Launching banks the multiplier, while pushing to the next round increases it further. Bonus points come from surviving twist rounds and perfect",
+    "tips": [
+      "Listen first; each valve has a distinct whistle pitch.",
+      "Launch before a crowded pattern if your overpressure meter is high.",
+      "Blocked valves force route changes, so watch the steam clouds before replaying.",
+      "Held red-ring pulses are the fastest way to spike combo if you nail them."
+    ]
+  }
+}

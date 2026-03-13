@@ -1,0 +1,48 @@
+{
+  "title": "Definitely Under Observation",
+  "description": "Swipe your patient between lanes to dodge stress-test hazards while baiting the cardiologist's \"Definitely\" scans for bigger scores.",
+  "category": "Arcade",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#E94B5B",
+  "starThresholds": [
+    1200,
+    2600,
+    4500
+  ],
+  "howToPlayJson": {
+    "title": "Definitely Under Observation",
+    "objective": "Survive a 2-4 minute cardiac stress test by swiping through incoming hazards, passing periodic cardiologist inspections, and cashing out a growing score multiplier before your heart meter flatlines.",
+    "controls": [
+      {
+        "action": "Change lane",
+        "input": "Swipe left or right",
+        "outcome": "Move the patient across three treadmill lanes to avoid incoming hazards."
+      },
+      {
+        "action": "Commit to risk",
+        "input": "Swipe into a flashing red lane during a Definitely scan",
+        "outcome": "Charge the score multiplier faster, but spawn speed and hazard density increase until the scan ends."
+      },
+      {
+        "action": "Stabilize",
+        "input": "Hold your lane during a green monitor pulse",
+        "outcome": "Bank the current multiplier and recover a small amount of heart meter if you stayed clean through the pulse."
+      }
+    ],
+    "steps": [
+      "Start on a monitored treadmill with a low heartbeat and a x1 multiplier.",
+      "Dodge incoming hazards such as falling energy drinks, flying stair steps, panic alerts, and rolling office chairs.",
+      "Every few seconds, the cardiologist triggers a big \"DEFINITELY?\" scan that marks one lane green and one lane red.",
+      "Staying in the green lane safely banks your multiplier; cutting through the red lane during the scan spikes your multiplier but also speeds,",
+      "waves, and audio tempo for the next few seconds.",
+      "A hit removes heart meter; a second hit during an unbanked risky streak causes an immediate flatline fail state.",
+      "Last as long as possible, post the final score to a simple local leaderboard, and chase a higher best run offline."
+    ],
+    "scoring": "Score rises from survival time, near-miss dodges, and scan decisions. Each hazard avoided during an unbanked red-lane \"Definitely\" streak increases the multiplier, but the multiplier is only secured when the next green-p",
+    "tips": [
+      "Use short swipes; overcorrecting into the red lane is the main way runs end.",
+      "Treat each Definitely scan as a decision point: cash out safely or push for one more boosted wave.",
+      "Audio matters: the faster heartbeat loop warns that risky streak speed is peaking."
+    ]
+  }
+}
