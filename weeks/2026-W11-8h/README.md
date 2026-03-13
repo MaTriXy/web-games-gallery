@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T06:26:39.858Z
+Generated at: 2026-03-13T06:46:47.382Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: gamedevmind-game-development-map-neon-orb-rush-c1 (arcade, 2 min) <- GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
-- slot 2: greys-anatomy-is-still-going-skyline-dodge-c2 (action, 3 min) <- Grey's Anatomy is STILL going
-- slot 3: i-finished-gamedev-university-and-the-job-market-crashed-2-yea (puzzle, 4 min) <- I finished Gamedev University and the job market crashed. 2 years later and I'm soon done with my Necromancer Roguelite
-- slot 4: please-check-my-quantum-physics-browser-game-for-accuracy-skyl (action, 3 min) <- Please check my quantum physics browser game for accuracy
-- slot 5: show-hn-i-built-a-multiplayer-voxel-browser-game-engine-pulse- (puzzle, 4 min) <- Show HN: I built a multiplayer voxel browser game engine
+- slot 1: i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor (arcade, 2 min) <- I made my first 1500$ from my free mobile game: here is what worked, and what didn't
+- slot 2: far-reach-single-file-browser-4x-strategy-game-no-install-offl (puzzle, 4 min) <- Far Reach – Single-file browser 4X strategy game (no install, offline playable) – Medieval to space empires on three planets
+- slot 3: avatar-the-last-airbender-skyline-dodge-c2 (action, 3 min) <- avatar the last airbender
+- slot 4: official-launch-trailer-crimson-desert-gravity-basket-c3 (arcade, 3 min) <- Official Launch Trailer | Crimson Desert
+- slot 5: tilia-lite-a-daily-logic-grid-puzzle-built-entirely-inside-a-r (puzzle, 4 min) <- Tilia-Lite - A daily logic grid puzzle built entirely inside a Reddit post [HTML5]
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated

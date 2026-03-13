@@ -1,11 +1,11 @@
-const GAME_TITLE = `Grey Anatomy: Endless Chart`;
-const ACCENT = `#7FA6A3`;
+const GAME_TITLE = `Last Avatar Drift`;
+const ACCENT = `#7FD6FF`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Grey's Anatomy is STILL going`;
-const MOTIF_A = `grey`;
-const MOTIF_B = `anatomy`;
-const OBJECTIVE_TAG = `grey vs anatomy`;
-const STAR_THRESHOLDS = [1200,3200,6500];
+const THEME_LABEL = `avatar the last airbender`;
+const MOTIF_A = `avatar`;
+const MOTIF_B = `last`;
+const OBJECTIVE_TAG = `avatar vs last`;
+const STAR_THRESHOLDS = [1200,3600,8200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

@@ -1,0 +1,40 @@
+{
+  "title": "Launch Seal Drop",
+  "objective": "Survive a 3-minute launch window by catching only the currently authorized falling launch items, building combo score, and avoiding enough bad pickups to keep the launch from being canceled.",
+  "controls": [
+    {
+      "action": "Move cradle",
+      "input": "Drag left or right with one thumb along the bottom lane",
+      "outcome": "Repositions the catcher under falling items"
+    },
+    {
+      "action": "Flip authorization",
+      "input": "Tap anywhere with the other thumb or quick-tap above the cradle",
+      "outcome": "Switches the cradle between two permit modes shown by a large icon"
+    },
+    {
+      "action": "Panic clear",
+      "input": "Double-tap when the siren meter is full",
+      "outcome": "Blasts away nearby decoys but resets combo"
+    }
+  ],
+  "steps": [
+    "Approved launch parts, fuel seals, and command stamps fall from the top of the screen in curved desert wind patterns.",
+    "Match the cradle's current permit mode to the item type you want to catch; wrong catches count as security breaches.",
+    "Every few seconds Control issues a new 'Official Launch Order' that flips which item type is valid and which one becomes contraband.",
+    "Counterfeit posters, leaked crates, and dud flares begin mixing into the stream and must be dodged entirely.",
+    "Miss too many valid items or catch three contraband drops and the launch is scrubbed."
+  ],
+  "scoring": "Each valid catch scores points; consecutive valid catches increase a launch multiplier up to x8. Catching the exact next item named in the current order grants bonus points and extends combo time. Local offline leaderb o",
+  "tips": [
+    "Stay near center so thumb travel stays short when the order flips.",
+    "Watch the large order banner, not the item art; the twist is about authorization, not rarity.",
+    "Use panic clear only when contraband is stacked over a valid cluster.",
+    "Combo is safer than greed: one bad catch hurts more than one missed catch late game."
+  ],
+  "trendContext": {
+    "source": "reddit_gaming",
+    "title": "Official Launch Trailer | Crimson Desert",
+    "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "First $1500: Neon Postmortem",
+  "description": "Race to bank your first $1500 by tapping the right neon revenue orbs before they fade and dodging the costly mistakes that suddenly flip the board.",
+  "category": "Casual Arcade",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#19F0FF",
+  "starThresholds": [
+    800,
+    1200,
+    1500
+  ],
+  "howToPlayJson": {
+    "title": "First $1500: Neon Postmortem",
+    "objective": "Reach exactly $1500 as fast as possible by tapping glowing money orbs marked as what worked, while avoiding what didn't, refunds, and over-target penalties.",
+    "controls": [
+      {
+        "action": "Collect revenue orb",
+        "input": "Tap a glowing orb before its ring closes",
+        "outcome": "Adds its dollar value to your total and builds combo"
+      },
+      {
+        "action": "Ignore bad orb",
+        "input": "Do not tap red or cracked orbs",
+        "outcome": "Avoids losing combo or taking a penalty"
+      },
+      {
+        "action": "Use twist window",
+        "input": "Quickly switch targets when the screen banner and chime announce a rule flip",
+        "outcome": "Lets you exploit the current bonus rule before it expires"
+      }
+    ],
+    "steps": [
+      "Neon orbs drift in from screen edges with large, readable dollar values like $5, $15, $50 and clear color labels: WORKED or DIDN'T.",
+      "You tap only the active profitable set before each orb's countdown ring empties; every correct tap raises your combo multiplier.",
+      "Every few seconds, a loud cue and full-screen banner trigger a Postmortem Flip: either WORKED orbs pay double, DIDN'T orbs temporarily turnm"
+    ],
+    "scoring": "Score is based on speed to hit $1500, final combo multiplier, and leftover lives. Hitting profitable orbs adds their value; missing them breaks combo. Tapping a bad orb subtracts money and one life. Going over $1500 by $",
+    "tips": [
+      "Watch the top banner, not just the orbs; the active rule changes often and is always telegraphed early.",
+      "Small fast orbs are safer for keeping combo alive, but larger values are how you finish a run.",
+      "If you are close to $1500, stop chasing big payouts and snipe exact-value orbs to avoid busting."
+    ]
+  }
+}

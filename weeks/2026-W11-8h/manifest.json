@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.0.0",
   "weekKey": "2026-W11-8h",
-  "generatedAt": "2026-03-13T06:26:39.858Z",
+  "generatedAt": "2026-03-13T06:46:47.382Z",
   "games": [
     {
-      "slug": "gamedevmind-game-development-map-neon-orb-rush-c1",
-      "title": "GameDevMind: Development Map Rush",
-      "description": "You defend the glowing GameDevMind by tapping known development problems off a live neon map before they erase your creative lanes.",
+      "slug": "i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor",
+      "title": "First $1500: Neon Postmortem",
+      "description": "Race to bank your first $1500 by tapping the right neon revenue orbs before they fade and dodging the costly mistakes that suddenly flip the board.",
       "genre": "arcade",
       "sessionMinutes": 2,
       "capabilities": [
@@ -15,42 +15,20 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
-      "trendSource": "github_games",
-      "trendUrl": "https://github.com/gonglei007/GameDevMind",
+      "trendTitle": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
+      "trendSource": "reddit_gamedev",
+      "trendUrl": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
       "buildStrategyId": "single_file",
-      "sourcePath": "./gamedevmind-game-development-map-neon-orb-rush-c1/index.html",
+      "sourcePath": "./i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "greys-anatomy-is-still-going-skyline-dodge-c2",
-      "title": "Grey Anatomy: Endless Chart",
-      "description": "Swipe a living heartbeat through a greyscale anatomy chart, dodging surgical hazards while diving into flashing organs to keep your combo alive.",
-      "genre": "action",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "Grey's Anatomy is STILL going",
-      "trendSource": "reddit_memes",
-      "trendUrl": "https://www.reddit.com/r/memes/comments/1rsdgrq/greys_anatomy_is_still_going/",
-      "ideaSeedId": "skyline-dodge",
-      "ideaSeedName": "Skyline Dodge",
-      "buildStrategyId": "split_runtime",
-      "sourcePath": "./greys-anatomy-is-still-going-skyline-dodge-c2/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "i-finished-gamedev-university-and-the-job-market-crashed-2-yea",
-      "title": "Final Build Necrolab",
-      "description": "Play as a freshly finished gamedev graduate and tap back increasingly dense build-beat sequences to resurrect dead game prototypes before the market collapses again.",
+      "slug": "far-reach-single-file-browser-4x-strategy-game-no-install-offl",
+      "title": "Single-File Reach",
+      "description": "Thread one growing pulse file through the Reach by replaying frontier commands before the line collapses.",
       "genre": "puzzle",
       "sessionMinutes": 4,
       "capabilities": [
@@ -59,20 +37,20 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "I finished Gamedev University and the job market crashed. 2 years later and I'm soon done with my Necromancer Roguelite",
-      "trendSource": "reddit_indiegaming",
-      "trendUrl": "https://www.reddit.com/r/IndieGaming/comments/1rrmwog/i_finished_gamedev_university_and_the_job_market/",
+      "trendTitle": "Far Reach – Single-file browser 4X strategy game (no install, offline playable) – Medieval to space empires on three planets",
+      "trendSource": "reddit_webgames",
+      "trendUrl": "https://www.reddit.com/r/WebGames/comments/1rs97wp/far_reach_singlefile_browser_4x_strategy_game_no/",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
       "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./i-finished-gamedev-university-and-the-job-market-crashed-2-yea/index.html",
+      "sourcePath": "./far-reach-single-file-browser-4x-strategy-game-no-install-offl/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "please-check-my-quantum-physics-browser-game-for-accuracy-skyl",
-      "title": "Please Collapse Run",
-      "description": "Swipe through collapsing please lanes, bait risky check boosts, and stretch your combo before the grid shuts down.",
+      "slug": "avatar-the-last-airbender-skyline-dodge-c2",
+      "title": "Last Avatar Drift",
+      "description": "Swipe the last Avatar across shifting air lanes to dodge elemental barrages and steal risky form-shifts for bigger combos.",
       "genre": "action",
       "sessionMinutes": 3,
       "capabilities": [
@@ -81,20 +59,42 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Please check my quantum physics browser game for accuracy",
-      "trendSource": "hacker_news",
-      "trendUrl": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/",
+      "trendTitle": "avatar the last airbender",
+      "trendSource": "google_trends",
+      "trendUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "ideaSeedId": "skyline-dodge",
       "ideaSeedName": "Skyline Dodge",
       "buildStrategyId": "split_runtime",
-      "sourcePath": "./please-check-my-quantum-physics-browser-game-for-accuracy-skyl/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
+      "sourcePath": "./avatar-the-last-airbender-skyline-dodge-c2/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "show-hn-i-built-a-multiplayer-voxel-browser-game-engine-pulse-",
-      "title": "Multiplayer Pattern Lock",
-      "description": "Rebuild broken multiplayer sequences under pressure by replaying unstable patterns before the show surge wipes your combo.",
+      "slug": "official-launch-trailer-crimson-desert-gravity-basket-c3",
+      "title": "Launch Seal Drop",
+      "description": "Slide an official launch cradle with one thumb to catch approved payloads and reject fake drops before the desert countdown burns out.",
+      "genre": "arcade",
+      "sessionMinutes": 3,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Official Launch Trailer | Crimson Desert",
+      "trendSource": "reddit_gaming",
+      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
+      "ideaSeedId": "gravity-basket",
+      "ideaSeedName": "Gravity Basket",
+      "buildStrategyId": "single_file",
+      "sourcePath": "./official-launch-trailer-crimson-desert-gravity-basket-c3/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "tilia-lite-a-daily-logic-grid-puzzle-built-entirely-inside-a-r",
+      "title": "Tilia-Lite: Daily Pulse Ledger",
+      "description": "You relight the daily Tilia-Lite lattice by memorizing and replaying leaf-beat sequences before the pattern fades.",
       "genre": "puzzle",
       "sessionMinutes": 4,
       "capabilities": [
@@ -103,15 +103,15 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Show HN: I built a multiplayer voxel browser game engine",
-      "trendSource": "hacker_news",
-      "trendUrl": "https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/",
+      "trendTitle": "Tilia-Lite - A daily logic grid puzzle built entirely inside a Reddit post [HTML5]",
+      "trendSource": "reddit_webgames",
+      "trendUrl": "https://www.reddit.com/r/WebGames/comments/1rsapn5/tilialite_a_daily_logic_grid_puzzle_built/",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
       "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./show-hn-i-built-a-multiplayer-voxel-browser-game-engine-pulse-/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
+      "sourcePath": "./tilia-lite-a-daily-logic-grid-puzzle-built-entirely-inside-a-r/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
     }
   ],
   "sourceReferences": [

@@ -1,0 +1,52 @@
+{
+  "title": "Single-File Reach",
+  "description": "Thread one growing pulse file through the Reach by replaying frontier commands before the line collapses.",
+  "category": "Casual Memory Rhythm",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#FF6B3D",
+  "starThresholds": [
+    1200,
+    2600,
+    4200
+  ],
+  "howToPlayJson": {
+    "title": "Single-File Reach",
+    "objective": "Survive a 2-4 minute frontier relay by memorizing and replaying pulse commands for three far worlds, building combo score while keeping the single-file transmission from breaking.",
+    "controls": [
+      {
+        "action": "Play pulse",
+        "input": "Tap the next glowing pulse node in order",
+        "outcome": "Confirms that command and advances the single-file relay"
+      },
+      {
+        "action": "Reach switch",
+        "input": "Swipe left or right when the file forks",
+        "outcome": "Routes the next chunk of the sequence to a different world lane for bonus or safety"
+      },
+      {
+        "action": "Hold pulse",
+        "input": "Press and hold on a long-tone node",
+        "outcome": "Stabilizes heavy commands and preserves combo"
+      },
+      {
+        "action": "Panic seal",
+        "input": "Two-finger tap once per run",
+        "outcome": "Skips one pulse at half multiplier instead of failing instantly"
+      }
+    ],
+    "steps": [
+      "A short pulse sequence scrolls up a single vertical file, with each beat tied to one of three frontier worlds.",
+      "The player replays the exact order by tapping and holding matching pulse nodes as they rise into the reach zone.",
+      "Every few seconds the file hits a fork: the player must swipe toward one world lane, causing upcoming beats there to score double while the",
+      "Unchosen lanes become unstable and may mutate one pulse, forcing a fast adaptation instead of pure repetition.",
+      "Sequences lengthen, tempo increases, and mixed tap plus hold commands appear until the player misses twice or the file overload meter fills."
+    ],
+    "scoring": "Score comes from each correct pulse, with a combo multiplier that climbs every 5 perfect inputs. Forking into a risky unstable lane gives higher base points. A mistake breaks the combo, and a second unresolved mistake in",
+    "tips": [
+      "Listen first: each world has its own instrument, so audio helps separate similar-looking beats.",
+      "Take risky forks early when sequences are short; late-game stability is worth more than greed.",
+      "Use the panic seal only to protect a high multiplier from a mutated pulse.",
+      "Hold notes are the usual combo killers, so commit your finger early."
+    ]
+  }
+}

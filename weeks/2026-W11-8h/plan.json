@@ -12,18 +12,18 @@
   "requestedCount": 5,
   "trendCandidates": [
     {
-      "rank": 22,
-      "source": "github_games",
-      "title": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
-      "rawScore": 7484,
-      "url": "https://github.com/gonglei007/GameDevMind",
+      "rank": 5,
+      "source": "reddit_gamedev",
+      "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
+      "rawScore": 329,
+      "url": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
       "meta": {
-        "fullName": "gonglei007/GameDevMind",
-        "stars": 6206,
-        "forks": 639
+        "subreddit": "gamedev",
+        "ups": 194,
+        "comments": 45
       },
-      "signalQuality": 54,
-      "score": 345,
+      "signalQuality": 72,
+      "score": 278,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -34,84 +34,17 @@
       }
     },
     {
-      "rank": 31,
-      "source": "hacker_news",
-      "title": "Please check my quantum physics browser game for accuracy",
-      "rawScore": 553,
-      "url": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/",
+      "rank": 8,
+      "source": "google_trends",
+      "title": "weather winter storm warning",
+      "rawScore": 2000,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
-        "author": "sideshowb",
-        "score": 133,
-        "comments": 105
+        "geo": "US",
+        "approxTraffic": 2000
       },
-      "signalQuality": 84,
-      "score": 303,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 39,
-      "source": "hacker_news",
-      "title": "Show HN: I built a multiplayer voxel browser game engine",
-      "rawScore": 488,
-      "url": "https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/",
-      "meta": {
-        "author": "Vekz",
-        "score": 236,
-        "comments": 63
-      },
-      "signalQuality": 84,
-      "score": 299,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 36,
-      "source": "reddit_memes",
-      "title": "Grey's Anatomy is STILL going",
-      "rawScore": 1705,
-      "url": "https://www.reddit.com/r/memes/comments/1rsdgrq/greys_anatomy_is_still_going/",
-      "meta": {
-        "subreddit": "memes",
-        "ups": 1555,
-        "comments": 50
-      },
-      "signalQuality": -28,
-      "score": 295,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 34,
-      "source": "reddit_indiegaming",
-      "title": "I finished Gamedev University and the job market crashed. 2 years later and I'm soon done with my Necromancer Roguelite",
-      "rawScore": 158,
-      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrmwog/i_finished_gamedev_university_and_the_job_market/",
-      "meta": {
-        "subreddit": "IndieGaming",
-        "ups": 134,
-        "comments": 8
-      },
-      "signalQuality": 36,
-      "score": 245,
+      "signalQuality": 10,
+      "score": 192,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -144,17 +77,17 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 16,
       "source": "google_trends",
       "title": "avatar the last airbender",
-      "rawScore": 1500,
+      "rawScore": 1400,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
         "approxTraffic": 100
       },
       "signalQuality": 0,
-      "score": 175,
+      "score": 173,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -187,17 +120,17 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 24,
       "source": "google_trends",
       "title": "john carpenter&apos;s toxic commando",
-      "rawScore": 1000,
+      "rawScore": 900,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
         "approxTraffic": 200
       },
       "signalQuality": 0,
-      "score": 165,
+      "score": 162,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -208,7 +141,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 40,
       "source": "google_trends",
       "title": "seattle weather",
       "rawScore": 5000,
@@ -229,35 +162,14 @@
       }
     },
     {
-      "rank": 40,
-      "source": "google_trends",
-      "title": "auto accident attorneys",
-      "rawScore": 1600,
-      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
-      "meta": {
-        "geo": "US",
-        "approxTraffic": 200
-      },
-      "signalQuality": -42,
-      "score": 134,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 35,
       "source": "reddit_gaming",
       "title": "Official Launch Trailer | Crimson Desert",
-      "rawScore": 3000,
+      "rawScore": 3009,
       "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 1128,
+        "ups": 1137,
         "comments": 624
       },
       "signalQuality": 40,
@@ -272,18 +184,150 @@
       }
     },
     {
+      "rank": 22,
+      "source": "github_games",
+      "title": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
+      "rawScore": 7484,
+      "url": "https://github.com/gonglei007/GameDevMind",
+      "meta": {
+        "fullName": "gonglei007/GameDevMind",
+        "stars": 6206,
+        "forks": 639
+      },
+      "signalQuality": 54,
+      "score": 345,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 2,
+      "source": "reddit_indiegaming",
+      "title": "9 Months ago we started our hobby game project. How can we improve?",
+      "rawScore": 590,
+      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/",
+      "meta": {
+        "subreddit": "IndieGaming",
+        "ups": 83,
+        "comments": 169
+      },
+      "signalQuality": 80,
+      "score": 343,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 30,
+      "source": "github_games",
+      "title": "sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.",
+      "rawScore": 4424,
+      "url": "https://github.com/hackclub/sprig",
+      "meta": {
+        "fullName": "hackclub/sprig",
+        "stars": 1068,
+        "forks": 1678
+      },
+      "signalQuality": 66,
+      "score": 339,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
       "rank": 4,
       "source": "reddit_memes",
       "title": "Shut it Keith",
-      "rawScore": 44660,
+      "rawScore": 44880,
       "url": "https://www.reddit.com/r/memes/comments/1rro7xi/shut_it_keith/",
       "meta": {
         "subreddit": "memes",
-        "ups": 43673,
+        "ups": 43893,
         "comments": 329
       },
       "signalQuality": -140,
       "score": 325,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 12,
+      "source": "reddit_memes",
+      "title": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
+      "rawScore": 2234,
+      "url": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 1355,
+        "comments": 293
+      },
+      "signalQuality": -16,
+      "score": 319,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 20,
+      "source": "reddit_memes",
+      "title": "Grey's Anatomy is STILL going",
+      "rawScore": 2823,
+      "url": "https://www.reddit.com/r/memes/comments/1rsdgrq/greys_anatomy_is_still_going/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 2625,
+        "comments": 66
+      },
+      "signalQuality": -28,
+      "score": 317,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 7,
+      "source": "hacker_news",
+      "title": "Show HN: A game that tests how well you know your local area",
+      "rawScore": 1682,
+      "url": "https://backofyourhand.com/51.89863,-8.47039",
+      "meta": {
+        "author": "adamlynch",
+        "score": 654,
+        "comments": 257
+      },
+      "signalQuality": 56,
+      "score": 314,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -338,18 +382,18 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 28,
       "source": "reddit_memes",
       "title": "Fuel prices are crazy though",
-      "rawScore": 2815,
+      "rawScore": 3064,
       "url": "https://www.reddit.com/r/memes/comments/1rs6r4g/fuel_prices_are_crazy_though/",
       "meta": {
         "subreddit": "memes",
-        "ups": 1996,
-        "comments": 273
+        "ups": 2203,
+        "comments": 287
       },
       "signalQuality": -38,
-      "score": 307,
+      "score": 311,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -360,15 +404,37 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 31,
+      "source": "hacker_news",
+      "title": "Please check my quantum physics browser game for accuracy",
+      "rawScore": 553,
+      "url": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/",
+      "meta": {
+        "author": "sideshowb",
+        "score": 133,
+        "comments": 105
+      },
+      "signalQuality": 84,
+      "score": 303,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 36,
       "source": "reddit_memes",
       "title": "it really do be like that",
-      "rawScore": 3636,
+      "rawScore": 3657,
       "url": "https://www.reddit.com/r/memes/comments/1rrpkn4/it_really_do_be_like_that/",
       "meta": {
         "subreddit": "memes",
-        "ups": 3195,
-        "comments": 147
+        "ups": 3213,
+        "comments": 148
       },
       "signalQuality": -56,
       "score": 300,
@@ -382,18 +448,18 @@
       }
     },
     {
-      "rank": 5,
-      "source": "reddit_gamedev",
-      "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
-      "rawScore": 329,
-      "url": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
+      "rank": 39,
+      "source": "hacker_news",
+      "title": "Show HN: I built a multiplayer voxel browser game engine",
+      "rawScore": 488,
+      "url": "https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/",
       "meta": {
-        "subreddit": "gamedev",
-        "ups": 194,
-        "comments": 45
+        "author": "Vekz",
+        "score": 236,
+        "comments": 63
       },
-      "signalQuality": 72,
-      "score": 278,
+      "signalQuality": 84,
+      "score": 299,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -451,15 +517,15 @@
       "rank": 18,
       "source": "reddit_indiegaming",
       "title": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
-      "rawScore": 115,
+      "rawScore": 113,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrwm3j/convictions_in_my_game_somewhat_similar_to_perks/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 28,
+        "ups": 26,
         "comments": 29
       },
       "signalQuality": 62,
-      "score": 258,
+      "score": 257,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -473,12 +539,12 @@
       "rank": 13,
       "source": "reddit_gamedev",
       "title": "What is considered too big for an indie project?",
-      "rawScore": 184,
+      "rawScore": 187,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
       "meta": {
         "subreddit": "gamedev",
         "ups": 16,
-        "comments": 56
+        "comments": 57
       },
       "signalQuality": 70,
       "score": 256,
@@ -492,14 +558,36 @@
       }
     },
     {
+      "rank": 26,
+      "source": "reddit_indiegaming",
+      "title": "After 3 years of work, my indie tower defense Bean Beasts just launched today on Switch! 🫘",
+      "rawScore": 68,
+      "url": "https://www.reddit.com/r/IndieGaming/comments/1rs2ed1/after_3_years_of_work_my_indie_tower_defense_bean/",
+      "meta": {
+        "subreddit": "IndieGaming",
+        "ups": 44,
+        "comments": 8
+      },
+      "signalQuality": 72,
+      "score": 246,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
       "rank": 21,
       "source": "reddit_gamedev",
       "title": "What’s something new game devs over-engineer that experienced teams keep simple?",
-      "rawScore": 169,
+      "rawScore": 170,
       "url": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 40,
+        "ups": 41,
         "comments": 43
       },
       "signalQuality": 62,
@@ -514,17 +602,17 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 34,
       "source": "reddit_indiegaming",
-      "title": "After 3 years of work, my indie tower defense Bean Beasts just launched today on Switch! 🫘",
-      "rawScore": 66,
-      "url": "https://www.reddit.com/r/IndieGaming/comments/1rs2ed1/after_3_years_of_work_my_indie_tower_defense_bean/",
+      "title": "I finished Gamedev University and the job market crashed. 2 years later and I'm soon done with my Necromancer Roguelite",
+      "rawScore": 158,
+      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrmwog/i_finished_gamedev_university_and_the_job_market/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 42,
+        "ups": 134,
         "comments": 8
       },
-      "signalQuality": 72,
+      "signalQuality": 36,
       "score": 245,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
@@ -539,15 +627,15 @@
       "rank": 29,
       "source": "reddit_gamedev",
       "title": "I decided to quit game developement, what should i do with my steam page?",
-      "rawScore": 83,
+      "rawScore": 86,
       "url": "https://www.reddit.com/r/gamedev/comments/1rs5cox/i_decided_to_quit_game_developement_what_should_i/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 8,
+        "ups": 11,
         "comments": 25
       },
       "signalQuality": 80,
-      "score": 237,
+      "score": 239,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -561,11 +649,11 @@
       "rank": 37,
       "source": "reddit_gamedev",
       "title": "Launching a Steam page, how many wishlists do YOU expect?",
-      "rawScore": 172,
+      "rawScore": 170,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrlhcc/launching_a_steam_page_how_many_wishlists_do_you/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 25,
+        "ups": 23,
         "comments": 49
       },
       "signalQuality": 44,
@@ -646,17 +734,17 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 32,
       "source": "google_trends",
       "title": "one piece season 3",
-      "rawScore": 1100,
+      "rawScore": 1000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
         "approxTraffic": 200
       },
       "signalQuality": -24,
-      "score": 143,
+      "score": 141,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -670,11 +758,11 @@
       "rank": 6,
       "source": "github_games",
       "title": "GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
-      "rawScore": 23794,
+      "rawScore": 23795,
       "url": "https://github.com/4ian/GDevelop",
       "meta": {
         "fullName": "4ian/GDevelop",
-        "stars": 21208,
+        "stars": 21209,
         "forks": 1293
       },
       "signalQuality": 84,
@@ -692,12 +780,12 @@
       "rank": 3,
       "source": "reddit_gaming",
       "title": "Highguard has now officially shutdown",
-      "rawScore": 17642,
+      "rawScore": 17759,
       "url": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 12953,
-        "comments": 1563
+        "ups": 13055,
+        "comments": 1568
       },
       "signalQuality": 18,
       "score": 400,
@@ -714,12 +802,12 @@
       "rank": 11,
       "source": "reddit_gaming",
       "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
-      "rawScore": 7264,
+      "rawScore": 7288,
       "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 3886,
-        "comments": 1126
+        "ups": 3895,
+        "comments": 1131
       },
       "signalQuality": 40,
       "score": 388,
@@ -736,15 +824,15 @@
       "rank": 19,
       "source": "reddit_gaming",
       "title": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
-      "rawScore": 4284,
+      "rawScore": 4421,
       "url": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 2511,
-        "comments": 591
+        "ups": 2618,
+        "comments": 601
       },
       "signalQuality": 48,
-      "score": 375,
+      "score": 376,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -758,15 +846,15 @@
       "rank": 27,
       "source": "reddit_gaming",
       "title": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
-      "rawScore": 6869,
+      "rawScore": 6950,
       "url": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 5564,
-        "comments": 435
+        "ups": 5639,
+        "comments": 437
       },
       "signalQuality": 22,
-      "score": 367,
+      "score": 368,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -797,112 +885,24 @@
         "highestSeverity": 0,
         "matches": []
       }
-    },
-    {
-      "rank": 2,
-      "source": "reddit_indiegaming",
-      "title": "9 Months ago we started our hobby game project. How can we improve?",
-      "rawScore": 584,
-      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/",
-      "meta": {
-        "subreddit": "IndieGaming",
-        "ups": 80,
-        "comments": 168
-      },
-      "signalQuality": 80,
-      "score": 343,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 30,
-      "source": "github_games",
-      "title": "sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.",
-      "rawScore": 4424,
-      "url": "https://github.com/hackclub/sprig",
-      "meta": {
-        "fullName": "hackclub/sprig",
-        "stars": 1068,
-        "forks": 1678
-      },
-      "signalQuality": 66,
-      "score": 339,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 12,
-      "source": "reddit_memes",
-      "title": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
-      "rawScore": 2230,
-      "url": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
-      "meta": {
-        "subreddit": "memes",
-        "ups": 1351,
-        "comments": 293
-      },
-      "signalQuality": -16,
-      "score": 319,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 7,
-      "source": "hacker_news",
-      "title": "Show HN: A game that tests how well you know your local area",
-      "rawScore": 1682,
-      "url": "https://backofyourhand.com/51.89863,-8.47039",
-      "meta": {
-        "author": "adamlynch",
-        "score": 654,
-        "comments": 257
-      },
-      "signalQuality": 56,
-      "score": 314,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
     }
   ],
   "selectedGames": [
     {
       "releaseSlot": 1,
       "trend": {
-        "rank": 22,
-        "source": "github_games",
-        "title": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
-        "rawScore": 7484,
-        "url": "https://github.com/gonglei007/GameDevMind",
+        "rank": 5,
+        "source": "reddit_gamedev",
+        "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
+        "rawScore": 329,
+        "url": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
         "meta": {
-          "fullName": "gonglei007/GameDevMind",
-          "stars": 6206,
-          "forks": 639
+          "subreddit": "gamedev",
+          "ups": 194,
+          "comments": 45
         },
-        "signalQuality": 54,
-        "score": 345,
+        "signalQuality": 72,
+        "score": 278,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -912,10 +912,10 @@
           "matches": []
         }
       },
-      "outputSlug": "gamedevmind-game-development-map-neon-orb-rush-c1",
+      "outputSlug": "i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"I made my first 1500$ from my free mobile game: here is what worked, and what didn't\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
       "buildStrategyId": "single_file",
       "capabilities": [
         "touch",
@@ -929,18 +929,18 @@
     {
       "releaseSlot": 2,
       "trend": {
-        "rank": 36,
-        "source": "reddit_memes",
-        "title": "Grey's Anatomy is STILL going",
-        "rawScore": 1705,
-        "url": "https://www.reddit.com/r/memes/comments/1rsdgrq/greys_anatomy_is_still_going/",
+        "rank": 17,
+        "source": "reddit_webgames",
+        "title": "Far Reach – Single-file browser 4X strategy game (no install, offline playable) – Medieval to space empires on three planets",
+        "rawScore": 6,
+        "url": "https://www.reddit.com/r/WebGames/comments/1rs97wp/far_reach_singlefile_browser_4x_strategy_game_no/",
         "meta": {
-          "subreddit": "memes",
-          "ups": 1555,
-          "comments": 50
+          "subreddit": "webgames",
+          "ups": 0,
+          "comments": 2
         },
-        "signalQuality": -28,
-        "score": 295,
+        "signalQuality": 90,
+        "score": 188,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -950,48 +950,10 @@
           "matches": []
         }
       },
-      "outputSlug": "greys-anatomy-is-still-going-skyline-dodge-c2",
-      "ideaSeedId": "skyline-dodge",
-      "ideaSeedName": "Skyline Dodge",
-      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"Grey's Anatomy is STILL going\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
-      "buildStrategyId": "split_runtime",
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "genre": "action",
-      "sessionMinutes": 3
-    },
-    {
-      "releaseSlot": 3,
-      "trend": {
-        "rank": 34,
-        "source": "reddit_indiegaming",
-        "title": "I finished Gamedev University and the job market crashed. 2 years later and I'm soon done with my Necromancer Roguelite",
-        "rawScore": 158,
-        "url": "https://www.reddit.com/r/IndieGaming/comments/1rrmwog/i_finished_gamedev_university_and_the_job_market/",
-        "meta": {
-          "subreddit": "IndieGaming",
-          "ups": 134,
-          "comments": 8
-        },
-        "signalQuality": 36,
-        "score": 245,
-        "ratingAudit": {
-          "ratingPolicy": "apple-9+",
-          "ratingLabel": "Apple 9+",
-          "engine": "rules",
-          "allowed": true,
-          "highestSeverity": 0,
-          "matches": []
-        }
-      },
-      "outputSlug": "i-finished-gamedev-university-and-the-job-market-crashed-2-yea",
+      "outputSlug": "far-reach-single-file-browser-4x-strategy-game-no-install-offl",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
-      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"I finished Gamedev University and the job market crashed. 2 years later and I'm soon done with my Necromancer Roguelite\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Far Reach – Single-file browser 4X strategy game (no install, offline playable) – Medieval to space empires on three planets\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
       "buildStrategyId": "cabinet_arcade",
       "capabilities": [
         "touch",
@@ -1003,20 +965,19 @@
       "sessionMinutes": 4
     },
     {
-      "releaseSlot": 4,
+      "releaseSlot": 3,
       "trend": {
-        "rank": 31,
-        "source": "hacker_news",
-        "title": "Please check my quantum physics browser game for accuracy",
-        "rawScore": 553,
-        "url": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/",
+        "rank": 16,
+        "source": "google_trends",
+        "title": "avatar the last airbender",
+        "rawScore": 1400,
+        "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
         "meta": {
-          "author": "sideshowb",
-          "score": 133,
-          "comments": 105
+          "geo": "US",
+          "approxTraffic": 100
         },
-        "signalQuality": 84,
-        "score": 303,
+        "signalQuality": 0,
+        "score": 173,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1026,10 +987,10 @@
           "matches": []
         }
       },
-      "outputSlug": "please-check-my-quantum-physics-browser-game-for-accuracy-skyl",
+      "outputSlug": "avatar-the-last-airbender-skyline-dodge-c2",
       "ideaSeedId": "skyline-dodge",
       "ideaSeedName": "Skyline Dodge",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Please check my quantum physics browser game for accuracy\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
+      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"avatar the last airbender\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
       "buildStrategyId": "split_runtime",
       "capabilities": [
         "touch",
@@ -1041,20 +1002,20 @@
       "sessionMinutes": 3
     },
     {
-      "releaseSlot": 5,
+      "releaseSlot": 4,
       "trend": {
-        "rank": 39,
-        "source": "hacker_news",
-        "title": "Show HN: I built a multiplayer voxel browser game engine",
-        "rawScore": 488,
-        "url": "https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/",
+        "rank": 35,
+        "source": "reddit_gaming",
+        "title": "Official Launch Trailer | Crimson Desert",
+        "rawScore": 3009,
+        "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
         "meta": {
-          "author": "Vekz",
-          "score": 236,
-          "comments": 63
+          "subreddit": "gaming",
+          "ups": 1137,
+          "comments": 624
         },
-        "signalQuality": 84,
-        "score": 299,
+        "signalQuality": 40,
+        "score": 353,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1064,10 +1025,48 @@
           "matches": []
         }
       },
-      "outputSlug": "show-hn-i-built-a-multiplayer-voxel-browser-game-engine-pulse-",
+      "outputSlug": "official-launch-trailer-crimson-desert-gravity-basket-c3",
+      "ideaSeedId": "gravity-basket",
+      "ideaSeedName": "Gravity Basket",
+      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"Official Launch Trailer | Crimson Desert\" using \"Move a catcher to collect falling items while avoiding decoys.\". Extra twist: bias toward mobile thumb ergonomics.",
+      "buildStrategyId": "single_file",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "arcade",
+      "sessionMinutes": 3
+    },
+    {
+      "releaseSlot": 5,
+      "trend": {
+        "rank": 33,
+        "source": "reddit_webgames",
+        "title": "Tilia-Lite - A daily logic grid puzzle built entirely inside a Reddit post [HTML5]",
+        "rawScore": 5,
+        "url": "https://www.reddit.com/r/WebGames/comments/1rsapn5/tilialite_a_daily_logic_grid_puzzle_built/",
+        "meta": {
+          "subreddit": "webgames",
+          "ups": 2,
+          "comments": 1
+        },
+        "signalQuality": 72,
+        "score": 170,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "tilia-lite-a-daily-logic-grid-puzzle-built-entirely-inside-a-r",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Show HN: I built a multiplayer voxel browser game engine\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"Tilia-Lite - A daily logic grid puzzle built entirely inside a Reddit post [HTML5]\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
       "buildStrategyId": "cabinet_arcade",
       "capabilities": [
         "touch",
@@ -1079,9 +1078,9 @@
       "sessionMinutes": 4
     }
   ],
-  "generatedAt": "2026-03-13T06:26:39.858Z",
+  "generatedAt": "2026-03-13T06:46:47.382Z",
   "autoresearch": {
-    "runId": "20260313061548",
+    "runId": "20260313063643",
     "cycles": 4,
     "exploreCount": 3,
     "publishCount": 5,
