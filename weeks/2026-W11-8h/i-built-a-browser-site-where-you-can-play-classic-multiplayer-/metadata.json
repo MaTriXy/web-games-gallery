@@ -1,0 +1,48 @@
+{
+  "title": "Where on the Site?",
+  "description": "Sprint across a buzzing game site by memorizing pulse routes and tapping the room where each friend-signal belongs before the page drops.",
+  "category": "Memory Arcade",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#19E3A5",
+  "starThresholds": [
+    900,
+    2200,
+    4000
+  ],
+  "howToPlayJson": {
+    "title": "Where on the Site?",
+    "objective": "Survive a 3-minute run by replaying increasingly dense pulse sequences across room tabs, building combo while adapting to rule shifts that change where the sequence must be sent.",
+    "controls": [
+      {
+        "action": "Replay pulse",
+        "input": "Tap room tabs in sequence",
+        "outcome": "Sends the memorized signal to the correct place and keeps combo alive"
+      },
+      {
+        "action": "Use twist rule",
+        "input": "Watch the center banner and audio cue, then tap forward, reverse, or muted-skip",
+        "outcome": "Applies the current 'where' condition for bonus scoring"
+      },
+      {
+        "action": "Recover after error",
+        "input": "Tap the flashing safe tab before the beat expires",
+        "outcome": "Prevents an immediate page crash but breaks multiplier"
+      }
+    ],
+    "steps": [
+      "Four room tabs sit on a phone-sized 'site' map: Lobby, Board, Sketch, and Match.",
+      "A short pulse pattern plays as light, vibration, and pitch steps hopping between tabs.",
+      "The player replays the exact route by tapping the tabs in order before a fast timeout ring closes.",
+      "Every few rounds, a 'Where Shift' changes the rule for the next pattern: replay backward, ignore dim pulses, or send only pulses that landed",
+      "Correct replays add one pulse to the next pattern, increase tempo, and raise the combo multiplier.",
+      "A wrong tap, late tap, or forbidden tap costs one of three signal bars; losing all bars crashes the page and ends the run."
+    ],
+    "scoring": "Score comes from correct taps plus end-of-pattern bonuses. Consecutive perfect patterns raise a multiplier up to x8. Clearing a pattern during a Where Shift grants a punchy 'Hot Route' bonus. Local best score and fastest",
+    "tips": [
+      "Listen first: each tab has its own tone, so audio helps more than color alone.",
+      "During reverse rounds, track the final pulse location because it becomes your first tap.",
+      "If a tab dims, it is muted for skip rounds; tapping it breaks combo instantly.",
+      "Short perfect streaks matter more than greedy recovery because multiplier drives leaderboard score."
+    ]
+  }
+}

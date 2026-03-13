@@ -1,11 +1,11 @@
-const GAME_TITLE = `Official Launch Run`;
-const ACCENT = `#C8442D`;
+const GAME_TITLE = `Anyone Collapse Run`;
+const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Official Launch Trailer | Crimson Desert`;
-const MOTIF_A = `official`;
-const MOTIF_B = `launch`;
-const OBJECTIVE_TAG = `official vs launch`;
-const STAR_THRESHOLDS = [800,1600,2600];
+const THEME_LABEL = `Anyone find themselves opening up their game libraries, staring at it for a coup`;
+const MOTIF_A = `anyone`;
+const MOTIF_B = `find`;
+const OBJECTIVE_TAG = `anyone vs find`;
+const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");
