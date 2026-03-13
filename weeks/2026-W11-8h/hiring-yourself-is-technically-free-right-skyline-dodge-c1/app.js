@@ -1,11 +1,11 @@
-const GAME_TITLE = `Dad's Drift Lesson`;
-const ACCENT = `#C86B2A`;
+const GAME_TITLE = `Hire Yourself, Inc.`;
+const ACCENT = `#ff6b2c`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `My dad taught me to drive tractors 20 years ago. I don’t think this is quite wha`;
-const MOTIF_A = `taught`;
-const MOTIF_B = `drive`;
-const OBJECTIVE_TAG = `taught vs drive`;
-const STAR_THRESHOLDS = [120,260,420];
+const THEME_LABEL = `Hiring yourself is technically free, right?`;
+const MOTIF_A = `hiring`;
+const MOTIF_B = `yourself`;
+const OBJECTIVE_TAG = `hiring vs yourself`;
+const STAR_THRESHOLDS = [1200,2600,4800];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

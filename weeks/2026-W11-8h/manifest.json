@@ -1,100 +1,12 @@
 {
   "schemaVersion": "2.0.0",
   "weekKey": "2026-W11-8h",
-  "generatedAt": "2026-03-13T00:36:08.372Z",
+  "generatedAt": "2026-03-13T00:56:46.766Z",
   "games": [
     {
-      "slug": "what-is-considered-too-big-for-an-indie-project-pulse-pattern-",
-      "title": "What's Considered",
-      "description": "You replay a shrinking studio's pulse pitches by tapping only the beats the producer considers shippable before the project scope bursts.",
-      "genre": "puzzle",
-      "sessionMinutes": 4,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "What is considered too big for an indie project?",
-      "trendSource": "reddit_gamedev",
-      "trendUrl": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
-      "ideaSeedId": "pulse-pattern",
-      "ideaSeedName": "Pulse Pattern",
-      "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./what-is-considered-too-big-for-an-indie-project-pulse-pattern-/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "signal-drift-tune-alien-transmissions-out-of-static-in-this-fr",
-      "title": "Signal Drift Basket",
-      "description": "Slide a thumb-controlled receiver basket to catch drifting signal drops and dodge static debris while alien broadcasts keep slipping off-frequency.",
-      "genre": "arcade",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "Signal Drift - tune alien transmissions out of static in this free browser puzzle game",
-      "trendSource": "reddit_webgames",
-      "trendUrl": "https://www.reddit.com/r/WebGames/comments/1rs4ju9/signal_drift_tune_alien_transmissions_out_of/",
-      "ideaSeedId": "gravity-basket",
-      "ideaSeedName": "Gravity Basket",
-      "buildStrategyId": "single_file",
-      "sourcePath": "./signal-drift-tune-alien-transmissions-out-of-static-in-this-fr/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "indie-games-that-made-me-rethink-what-gaming-could-be-skyline-",
-      "title": "Indie Collapse Run",
-      "description": "Swipe through collapsing indie lanes, bait risky rethink boosts, and stretch your combo before the grid shuts down.",
-      "genre": "action",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "Indie games that made me rethink what gaming could be",
-      "trendSource": "reddit_indiegaming",
-      "trendUrl": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
-      "ideaSeedId": "skyline-dodge",
-      "ideaSeedName": "Skyline Dodge",
-      "buildStrategyId": "split_runtime",
-      "sourcePath": "./indie-games-that-made-me-rethink-what-gaming-could-be-skyline-/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
-    },
-    {
-      "slug": "my-dad-taught-me-to-drive-tractors-20-years-ago-i-dont-think-t",
-      "title": "Dad's Drift Lesson",
-      "description": "Learn your dad's rough tractor-driving lessons by swiping between crop lanes, drifting to repaint your tractor, and threading matching farm gates.",
-      "genre": "action",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "My dad taught me to drive tractors 20 years ago. I don’t think this is quite what he had in mind... 🚜💨 Testing the drift physics for my browser game. What do you guys think? #TractorDrift #IndieDev #Gaming #WebDev",
-      "trendSource": "reddit_webgames",
-      "trendUrl": "https://www.reddit.com/r/WebGames/comments/1rs1m00/my_dad_taught_me_to_drive_tractors_20_years_ago_i/",
-      "ideaSeedId": "color-swap-lanes",
-      "ideaSeedName": "Color Swap Lanes",
-      "buildStrategyId": "split_runtime",
-      "sourcePath": "./my-dad-taught-me-to-drive-tractors-20-years-ago-i-dont-think-t/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "real-business-neon-orb-rush-c1",
-      "title": "Real Triage",
-      "description": "Tap true real calls, reject business decoys, and hold a growing combo as the business feed floods faster every wave.",
+      "slug": "convictions-in-my-game-somewhat-similar-to-perks-but-more-impo",
+      "title": "Convictions, Somewhat",
+      "description": "Defend your neon convictions by tapping true-belief orbs on sight and timing the somewhat-belief orbs only at the last safe moment.",
       "genre": "arcade",
       "sessionMinutes": 2,
       "capabilities": [
@@ -103,15 +15,103 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Real business",
-      "trendSource": "reddit_memes",
-      "trendUrl": "https://www.reddit.com/r/memes/comments/1rrq1vx/real_business/",
+      "trendTitle": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
+      "trendSource": "reddit_indiegaming",
+      "trendUrl": "https://www.reddit.com/r/IndieGaming/comments/1rrwm3j/convictions_in_my_game_somewhat_similar_to_perks/",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
       "buildStrategyId": "single_file",
-      "sourcePath": "./real-business-neon-orb-rush-c1/index.html",
+      "sourcePath": "./convictions-in-my-game-somewhat-similar-to-perks-but-more-impo/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "playable-snake-game-in-the-browser-no-downloads-works-on-mobil",
+      "title": "Playable Snake: Pulse Coil",
+      "description": "Wake a coiled neon snake by tapping its glowing scales in the exact pulse order before the beat outruns you.",
+      "genre": "puzzle",
+      "sessionMinutes": 4,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Playable Snake game in the browser – no downloads, works on mobile",
+      "trendSource": "reddit_webgames",
+      "trendUrl": "https://www.reddit.com/r/WebGames/comments/1rs6qd2/playable_snake_game_in_the_browser_no_downloads/",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "buildStrategyId": "cabinet_arcade",
+      "sourcePath": "./playable-snake-game-in-the-browser-no-downloads-works-on-mobil/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "whats-something-new-game-devs-over-engineer-that-experienced-t",
+      "title": "What Collapse Run",
+      "description": "Swipe through collapsing what lanes, bait risky something boosts, and stretch your combo before the grid shuts down.",
+      "genre": "action",
+      "sessionMinutes": 3,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "What’s something new game devs over-engineer that experienced teams keep simple?",
+      "trendSource": "reddit_gamedev",
+      "trendUrl": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/",
+      "ideaSeedId": "skyline-dodge",
+      "ideaSeedName": "Skyline Dodge",
+      "buildStrategyId": "split_runtime",
+      "sourcePath": "./whats-something-new-game-devs-over-engineer-that-experienced-t/index.html",
       "generationEngine": "native_builder",
       "generationReason": "timeout"
+    },
+    {
+      "slug": "hiring-yourself-is-technically-free-right-skyline-dodge-c1",
+      "title": "Hire Yourself, Inc.",
+      "description": "Swipe your tiny CEO-self across a rooftop hiring lane, dodging incoming costs while stamping yourself into risky contracts for bigger scores.",
+      "genre": "action",
+      "sessionMinutes": 3,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Hiring yourself is technically free, right?",
+      "trendSource": "reddit_indiegaming",
+      "trendUrl": "https://www.reddit.com/r/IndieGaming/comments/1rs4sr2/hiring_yourself_is_technically_free_right/",
+      "ideaSeedId": "skyline-dodge",
+      "ideaSeedName": "Skyline Dodge",
+      "buildStrategyId": "split_runtime",
+      "sourcePath": "./hiring-yourself-is-technically-free-right-skyline-dodge-c1/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "elitemobb-mafia-strategy-browser-game-beta-pulse-pattern-c3",
+      "title": "EliteMobb: Omerta Pulse",
+      "description": "Play the elitemobb s street boss by memorizing and replaying mafia hit-order pulses while deciding when to obey, mute, or fake a wired command.",
+      "genre": "puzzle",
+      "sessionMinutes": 4,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "EliteMobb — Mafia Strategy Browser Game (Beta)",
+      "trendSource": "reddit_webgames",
+      "trendUrl": "https://www.reddit.com/r/WebGames/comments/1rrwxqd/elitemobb_mafia_strategy_browser_game_beta/",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "buildStrategyId": "cabinet_arcade",
+      "sourcePath": "./elitemobb-mafia-strategy-browser-game-beta-pulse-pattern-c3/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
     }
   ],
   "sourceReferences": [

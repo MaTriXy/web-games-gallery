@@ -12,84 +12,18 @@
   "requestedCount": 5,
   "trendCandidates": [
     {
-      "rank": 36,
-      "source": "reddit_memes",
-      "title": "Real business",
-      "rawScore": 21032,
-      "url": "https://www.reddit.com/r/memes/comments/1rrq1vx/real_business/",
-      "meta": {
-        "subreddit": "memes",
-        "ups": 20771,
-        "comments": 87
-      },
-      "signalQuality": -134,
-      "score": 298,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 18,
-      "source": "reddit_indiegaming",
-      "title": "Indie games that made me rethink what gaming could be",
-      "rawScore": 130,
-      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
-      "meta": {
-        "subreddit": "IndieGaming",
-        "ups": 64,
-        "comments": 22
-      },
-      "signalQuality": 72,
-      "score": 273,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 21,
-      "source": "reddit_gamedev",
-      "title": "What is considered too big for an indie project?",
-      "rawScore": 176,
-      "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
-      "meta": {
-        "subreddit": "gamedev",
-        "ups": 17,
-        "comments": 53
-      },
-      "signalQuality": 70,
-      "score": 254,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 26,
       "source": "reddit_indiegaming",
       "title": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
-      "rawScore": 102,
+      "rawScore": 108,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrwm3j/convictions_in_my_game_somewhat_similar_to_perks/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 21,
-        "comments": 27
+        "ups": 24,
+        "comments": 28
       },
       "signalQuality": 62,
-      "score": 253,
+      "score": 255,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -103,15 +37,15 @@
       "rank": 34,
       "source": "reddit_indiegaming",
       "title": "Hiring yourself is technically free, right?",
-      "rawScore": 180,
+      "rawScore": 214,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rs4sr2/hiring_yourself_is_technically_free_right/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 90,
-        "comments": 30
+        "ups": 97,
+        "comments": 39
       },
       "signalQuality": 26,
-      "score": 240,
+      "score": 247,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -147,37 +81,15 @@
       "rank": 37,
       "source": "reddit_gamedev",
       "title": "What’s something new game devs over-engineer that experienced teams keep simple?",
-      "rawScore": 79,
+      "rawScore": 83,
       "url": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 10,
+        "ups": 14,
         "comments": 23
       },
       "signalQuality": 62,
-      "score": 218,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 1,
-      "source": "reddit_webgames",
-      "title": "Signal Drift - tune alien transmissions out of static in this free browser puzzle game",
-      "rawScore": 8,
-      "url": "https://www.reddit.com/r/WebGames/comments/1rs4ju9/signal_drift_tune_alien_transmissions_out_of/",
-      "meta": {
-        "subreddit": "webgames",
-        "ups": 2,
-        "comments": 2
-      },
-      "signalQuality": 90,
-      "score": 188,
+      "score": 219,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -232,28 +144,6 @@
       }
     },
     {
-      "rank": 25,
-      "source": "reddit_webgames",
-      "title": "My dad taught me to drive tractors 20 years ago. I don’t think this is quite what he had in mind... 🚜💨 Testing the drift physics for my browser game. What do you guys think? #TractorDrift #IndieDev #Gaming #WebDev",
-      "rawScore": 1,
-      "url": "https://www.reddit.com/r/WebGames/comments/1rs1m00/my_dad_taught_me_to_drive_tractors_20_years_ago_i/",
-      "meta": {
-        "subreddit": "webgames",
-        "ups": 1,
-        "comments": 0
-      },
-      "signalQuality": 90,
-      "score": 188,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 33,
       "source": "reddit_webgames",
       "title": "EliteMobb — Mafia Strategy Browser Game (Beta)",
@@ -278,15 +168,15 @@
     {
       "rank": 8,
       "source": "google_trends",
-      "title": "braden smith assist tracker",
-      "rawScore": 1500,
+      "title": "indian wells tennis 2026",
+      "rawScore": 2000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 500
+        "approxTraffic": 2000
       },
-      "signalQuality": 10,
-      "score": 185,
+      "signalQuality": 0,
+      "score": 182,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -299,15 +189,15 @@
     {
       "rank": 16,
       "source": "google_trends",
-      "title": "what time does the pitt come out",
-      "rawScore": 1000,
+      "title": "indian wells",
+      "rawScore": 20000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 1000
+        "approxTraffic": 20000
       },
-      "signalQuality": -18,
-      "score": 147,
+      "signalQuality": -66,
+      "score": 171,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -320,14 +210,14 @@
     {
       "rank": 24,
       "source": "google_trends",
-      "title": "age of attraction cast",
-      "rawScore": 1300,
+      "title": "huracán - river plate",
+      "rawScore": 1000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 500
+        "approxTraffic": 1000
       },
-      "signalQuality": -30,
+      "signalQuality": -24,
       "score": 141,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
@@ -341,15 +231,15 @@
     {
       "rank": 32,
       "source": "google_trends",
-      "title": "nuggets vs spurs",
-      "rawScore": 2000,
+      "title": "cincinnati - tigres",
+      "rawScore": 5000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 2000
+        "approxTraffic": 5000
       },
       "signalQuality": -66,
-      "score": 116,
+      "score": 137,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -362,15 +252,15 @@
     {
       "rank": 40,
       "source": "google_trends",
-      "title": "jonathan jones",
-      "rawScore": 2000,
+      "title": "tigres uanl",
+      "rawScore": 10000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 2000
+        "approxTraffic": 10000
       },
-      "signalQuality": -66,
-      "score": 116,
+      "signalQuality": -96,
+      "score": 124,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -384,11 +274,11 @@
       "rank": 6,
       "source": "github_games",
       "title": "GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
-      "rawScore": 23787,
+      "rawScore": 23789,
       "url": "https://github.com/4ian/GDevelop",
       "meta": {
         "fullName": "4ian/GDevelop",
-        "stars": 21201,
+        "stars": 21203,
         "forks": 1293
       },
       "signalQuality": 84,
@@ -406,15 +296,15 @@
       "rank": 3,
       "source": "reddit_gaming",
       "title": "Highguard has now officially shutdown",
-      "rawScore": 14293,
+      "rawScore": 14656,
       "url": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 10234,
-        "comments": 1353
+        "ups": 10510,
+        "comments": 1382
       },
       "signalQuality": 18,
-      "score": 392,
+      "score": 393,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -428,12 +318,12 @@
       "rank": 11,
       "source": "reddit_gaming",
       "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
-      "rawScore": 6558,
+      "rawScore": 6614,
       "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 3429,
-        "comments": 1043
+        "ups": 3464,
+        "comments": 1050
       },
       "signalQuality": 40,
       "score": 384,
@@ -450,11 +340,11 @@
       "rank": 19,
       "source": "reddit_gaming",
       "title": "Valve says the Steam Machine targets 30 FPS/1080p for games to get verified on the machine, and input verification is the same as the Steam Deck; Performance is roughly 6 times that of the Deck",
-      "rawScore": 4838,
+      "rawScore": 4835,
       "url": "https://www.reddit.com/r/gaming/comments/1rr1brk/valve_says_the_steam_machine_targets_30_fps1080p/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 3146,
+        "ups": 3143,
         "comments": 564
       },
       "signalQuality": 40,
@@ -472,12 +362,12 @@
       "rank": 27,
       "source": "reddit_gaming",
       "title": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
-      "rawScore": 5684,
+      "rawScore": 5758,
       "url": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 4490,
-        "comments": 398
+        "ups": 4561,
+        "comments": 399
       },
       "signalQuality": 22,
       "score": 360,
@@ -494,11 +384,11 @@
       "rank": 4,
       "source": "reddit_memes",
       "title": "It’s an endless cycle",
-      "rawScore": 15366,
+      "rawScore": 15430,
       "url": "https://www.reddit.com/r/memes/comments/1rrb14u/its_an_endless_cycle/",
       "meta": {
         "subreddit": "memes",
-        "ups": 15096,
+        "ups": 15160,
         "comments": 90
       },
       "signalQuality": -62,
@@ -538,15 +428,37 @@
       "rank": 35,
       "source": "reddit_gaming",
       "title": "Official Launch Trailer | Crimson Desert",
-      "rawScore": 2863,
+      "rawScore": 2883,
       "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 1066,
-        "comments": 599
+        "ups": 1077,
+        "comments": 602
       },
       "signalQuality": 40,
       "score": 351,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 12,
+      "source": "reddit_memes",
+      "title": "Galas or dating apps, neither of them work for me 🥹🥹",
+      "rawScore": 4070,
+      "url": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 3923,
+        "comments": 49
+      },
+      "signalQuality": -16,
+      "score": 345,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -582,12 +494,12 @@
       "rank": 2,
       "source": "reddit_indiegaming",
       "title": "9 Months ago we started our hobby game project. How can we improve?",
-      "rawScore": 544,
+      "rawScore": 548,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 52,
-        "comments": 164
+        "ups": 53,
+        "comments": 165
       },
       "signalQuality": 80,
       "score": 340,
@@ -623,40 +535,18 @@
       }
     },
     {
-      "rank": 12,
-      "source": "reddit_memes",
-      "title": "Galas or dating apps, neither of them work for me 🥹🥹",
-      "rawScore": 2911,
-      "url": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
-      "meta": {
-        "subreddit": "memes",
-        "ups": 2785,
-        "comments": 42
-      },
-      "signalQuality": -16,
-      "score": 330,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 20,
       "source": "reddit_memes",
       "title": "Shut it Keith",
-      "rawScore": 40187,
+      "rawScore": 40513,
       "url": "https://www.reddit.com/r/memes/comments/1rro7xi/shut_it_keith/",
       "meta": {
         "subreddit": "memes",
-        "ups": 39239,
+        "ups": 39565,
         "comments": 316
       },
       "signalQuality": -140,
-      "score": 320,
+      "score": 321,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -714,15 +604,15 @@
       "rank": 28,
       "source": "reddit_memes",
       "title": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
-      "rawScore": 1968,
+      "rawScore": 1991,
       "url": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
       "meta": {
         "subreddit": "memes",
-        "ups": 1143,
-        "comments": 275
+        "ups": 1157,
+        "comments": 278
       },
       "signalQuality": -16,
-      "score": 313,
+      "score": 314,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -767,6 +657,28 @@
       },
       "signalQuality": 84,
       "score": 303,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 36,
+      "source": "reddit_memes",
+      "title": "Real business",
+      "rawScore": 21379,
+      "url": "https://www.reddit.com/r/memes/comments/1rrq1vx/real_business/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 21118,
+        "comments": 87
+      },
+      "signalQuality": -134,
+      "score": 299,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -824,11 +736,11 @@
       "rank": 5,
       "source": "reddit_gamedev",
       "title": "According to Valve 5863 games earned over 100 000 dollars on Steam in 2025.",
-      "rawScore": 725,
+      "rawScore": 726,
       "url": "https://www.reddit.com/r/gamedev/comments/1rqtmvv/according_to_valve_5863_games_earned_over_100_000/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 458,
+        "ups": 459,
         "comments": 89
       },
       "signalQuality": 54,
@@ -868,15 +780,103 @@
       "rank": 13,
       "source": "reddit_gamedev",
       "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
-      "rawScore": 276,
+      "rawScore": 284,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 153,
-        "comments": 41
+        "ups": 158,
+        "comments": 42
       },
       "signalQuality": 72,
-      "score": 272,
+      "score": 273,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 18,
+      "source": "reddit_indiegaming",
+      "title": "Indie games that made me rethink what gaming could be",
+      "rawScore": 129,
+      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
+      "meta": {
+        "subreddit": "IndieGaming",
+        "ups": 63,
+        "comments": 22
+      },
+      "signalQuality": 72,
+      "score": 273,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 21,
+      "source": "reddit_gamedev",
+      "title": "What is considered too big for an indie project?",
+      "rawScore": 175,
+      "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
+      "meta": {
+        "subreddit": "gamedev",
+        "ups": 16,
+        "comments": 53
+      },
+      "signalQuality": 70,
+      "score": 254,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 1,
+      "source": "reddit_webgames",
+      "title": "Signal Drift - tune alien transmissions out of static in this free browser puzzle game",
+      "rawScore": 8,
+      "url": "https://www.reddit.com/r/WebGames/comments/1rs4ju9/signal_drift_tune_alien_transmissions_out_of/",
+      "meta": {
+        "subreddit": "webgames",
+        "ups": 2,
+        "comments": 2
+      },
+      "signalQuality": 90,
+      "score": 188,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 25,
+      "source": "reddit_webgames",
+      "title": "My dad taught me to drive tractors 20 years ago. I don’t think this is quite what he had in mind... 🚜💨 Testing the drift physics for my browser game. What do you guys think? #TractorDrift #IndieDev #Gaming #WebDev",
+      "rawScore": 1,
+      "url": "https://www.reddit.com/r/WebGames/comments/1rs1m00/my_dad_taught_me_to_drive_tractors_20_years_ago_i/",
+      "meta": {
+        "subreddit": "webgames",
+        "ups": 1,
+        "comments": 0
+      },
+      "signalQuality": 90,
+      "score": 188,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -891,18 +891,18 @@
     {
       "releaseSlot": 1,
       "trend": {
-        "rank": 21,
-        "source": "reddit_gamedev",
-        "title": "What is considered too big for an indie project?",
-        "rawScore": 176,
-        "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
+        "rank": 26,
+        "source": "reddit_indiegaming",
+        "title": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
+        "rawScore": 108,
+        "url": "https://www.reddit.com/r/IndieGaming/comments/1rrwm3j/convictions_in_my_game_somewhat_similar_to_perks/",
         "meta": {
-          "subreddit": "gamedev",
-          "ups": 17,
-          "comments": 53
+          "subreddit": "IndieGaming",
+          "ups": 24,
+          "comments": 28
         },
-        "signalQuality": 70,
-        "score": 254,
+        "signalQuality": 62,
+        "score": 255,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -912,32 +912,32 @@
           "matches": []
         }
       },
-      "outputSlug": "what-is-considered-too-big-for-an-indie-project-pulse-pattern-",
-      "ideaSeedId": "pulse-pattern",
-      "ideaSeedName": "Pulse Pattern",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"What is considered too big for an indie project?\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
-      "buildStrategyId": "cabinet_arcade",
+      "outputSlug": "convictions-in-my-game-somewhat-similar-to-perks-but-more-impo",
+      "ideaSeedId": "neon-orb-rush",
+      "ideaSeedName": "Neon Orb Rush",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
+      "buildStrategyId": "single_file",
       "capabilities": [
         "touch",
         "audio",
         "offline",
         "leaderboard"
       ],
-      "genre": "puzzle",
-      "sessionMinutes": 4
+      "genre": "arcade",
+      "sessionMinutes": 2
     },
     {
       "releaseSlot": 2,
       "trend": {
-        "rank": 1,
+        "rank": 9,
         "source": "reddit_webgames",
-        "title": "Signal Drift - tune alien transmissions out of static in this free browser puzzle game",
-        "rawScore": 8,
-        "url": "https://www.reddit.com/r/WebGames/comments/1rs4ju9/signal_drift_tune_alien_transmissions_out_of/",
+        "title": "Playable Snake game in the browser – no downloads, works on mobile",
+        "rawScore": 3,
+        "url": "https://www.reddit.com/r/WebGames/comments/1rs6qd2/playable_snake_game_in_the_browser_no_downloads/",
         "meta": {
           "subreddit": "webgames",
-          "ups": 2,
-          "comments": 2
+          "ups": 0,
+          "comments": 1
         },
         "signalQuality": 90,
         "score": 188,
@@ -950,35 +950,35 @@
           "matches": []
         }
       },
-      "outputSlug": "signal-drift-tune-alien-transmissions-out-of-static-in-this-fr",
-      "ideaSeedId": "gravity-basket",
-      "ideaSeedName": "Gravity Basket",
-      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"Signal Drift - tune alien transmissions out of static in this free browser puzzle game\" using \"Move a catcher to collect falling items while avoiding decoys.\". Extra twist: bias toward mobile thumb ergonomics.",
-      "buildStrategyId": "single_file",
+      "outputSlug": "playable-snake-game-in-the-browser-no-downloads-works-on-mobil",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"Playable Snake game in the browser – no downloads, works on mobile\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "buildStrategyId": "cabinet_arcade",
       "capabilities": [
         "touch",
         "audio",
         "offline",
         "leaderboard"
       ],
-      "genre": "arcade",
-      "sessionMinutes": 3
+      "genre": "puzzle",
+      "sessionMinutes": 4
     },
     {
       "releaseSlot": 3,
       "trend": {
-        "rank": 18,
-        "source": "reddit_indiegaming",
-        "title": "Indie games that made me rethink what gaming could be",
-        "rawScore": 130,
-        "url": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
+        "rank": 37,
+        "source": "reddit_gamedev",
+        "title": "What’s something new game devs over-engineer that experienced teams keep simple?",
+        "rawScore": 83,
+        "url": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/",
         "meta": {
-          "subreddit": "IndieGaming",
-          "ups": 64,
-          "comments": 22
+          "subreddit": "gamedev",
+          "ups": 14,
+          "comments": 23
         },
-        "signalQuality": 72,
-        "score": 273,
+        "signalQuality": 62,
+        "score": 219,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -988,10 +988,10 @@
           "matches": []
         }
       },
-      "outputSlug": "indie-games-that-made-me-rethink-what-gaming-could-be-skyline-",
+      "outputSlug": "whats-something-new-game-devs-over-engineer-that-experienced-t",
       "ideaSeedId": "skyline-dodge",
       "ideaSeedName": "Skyline Dodge",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Indie games that made me rethink what gaming could be\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
+      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"What’s something new game devs over-engineer that experienced teams keep simple?\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
       "buildStrategyId": "split_runtime",
       "capabilities": [
         "touch",
@@ -1005,18 +1005,18 @@
     {
       "releaseSlot": 4,
       "trend": {
-        "rank": 25,
-        "source": "reddit_webgames",
-        "title": "My dad taught me to drive tractors 20 years ago. I don’t think this is quite what he had in mind... 🚜💨 Testing the drift physics for my browser game. What do you guys think? #TractorDrift #IndieDev #Gaming #WebDev",
-        "rawScore": 1,
-        "url": "https://www.reddit.com/r/WebGames/comments/1rs1m00/my_dad_taught_me_to_drive_tractors_20_years_ago_i/",
+        "rank": 34,
+        "source": "reddit_indiegaming",
+        "title": "Hiring yourself is technically free, right?",
+        "rawScore": 214,
+        "url": "https://www.reddit.com/r/IndieGaming/comments/1rs4sr2/hiring_yourself_is_technically_free_right/",
         "meta": {
-          "subreddit": "webgames",
-          "ups": 1,
-          "comments": 0
+          "subreddit": "IndieGaming",
+          "ups": 97,
+          "comments": 39
         },
-        "signalQuality": 90,
-        "score": 188,
+        "signalQuality": 26,
+        "score": 247,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1026,10 +1026,10 @@
           "matches": []
         }
       },
-      "outputSlug": "my-dad-taught-me-to-drive-tractors-20-years-ago-i-dont-think-t",
-      "ideaSeedId": "color-swap-lanes",
-      "ideaSeedName": "Color Swap Lanes",
-      "ideaPrompt": "Autoresearch cycle 4: design a non-template casual game around \"My dad taught me to drive tractors 20 years ago. I don’t think this is quite what he had in mind... 🚜💨 Testing the drift physics for my browser game. What do you guys think? #TractorDrift #IndieDev #Gaming #WebDev\" using \"Switch lanes and match colors with incoming gates.\". Extra twist: include one novelty mechanic tied to the trend title.",
+      "outputSlug": "hiring-yourself-is-technically-free-right-skyline-dodge-c1",
+      "ideaSeedId": "skyline-dodge",
+      "ideaSeedName": "Skyline Dodge",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Hiring yourself is technically free, right?\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
       "buildStrategyId": "split_runtime",
       "capabilities": [
         "touch",
@@ -1043,18 +1043,18 @@
     {
       "releaseSlot": 5,
       "trend": {
-        "rank": 36,
-        "source": "reddit_memes",
-        "title": "Real business",
-        "rawScore": 21032,
-        "url": "https://www.reddit.com/r/memes/comments/1rrq1vx/real_business/",
+        "rank": 33,
+        "source": "reddit_webgames",
+        "title": "EliteMobb — Mafia Strategy Browser Game (Beta)",
+        "rawScore": 7,
+        "url": "https://www.reddit.com/r/WebGames/comments/1rrwxqd/elitemobb_mafia_strategy_browser_game_beta/",
         "meta": {
-          "subreddit": "memes",
-          "ups": 20771,
-          "comments": 87
+          "subreddit": "webgames",
+          "ups": 1,
+          "comments": 2
         },
-        "signalQuality": -134,
-        "score": 298,
+        "signalQuality": 90,
+        "score": 188,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1064,24 +1064,24 @@
           "matches": []
         }
       },
-      "outputSlug": "real-business-neon-orb-rush-c1",
-      "ideaSeedId": "neon-orb-rush",
-      "ideaSeedName": "Neon Orb Rush",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Real business\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
-      "buildStrategyId": "single_file",
+      "outputSlug": "elitemobb-mafia-strategy-browser-game-beta-pulse-pattern-c3",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"EliteMobb — Mafia Strategy Browser Game (Beta)\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "buildStrategyId": "cabinet_arcade",
       "capabilities": [
         "touch",
         "audio",
         "offline",
         "leaderboard"
       ],
-      "genre": "arcade",
-      "sessionMinutes": 2
+      "genre": "puzzle",
+      "sessionMinutes": 4
     }
   ],
-  "generatedAt": "2026-03-13T00:36:08.372Z",
+  "generatedAt": "2026-03-13T00:56:46.766Z",
   "autoresearch": {
-    "runId": "20260313002522",
+    "runId": "20260313004611",
     "cycles": 4,
     "exploreCount": 3,
     "publishCount": 5,

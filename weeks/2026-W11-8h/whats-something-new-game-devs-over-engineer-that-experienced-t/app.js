@@ -1,10 +1,10 @@
-const GAME_TITLE = `Indie Collapse Run`;
+const GAME_TITLE = `What Collapse Run`;
 const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Indie games that made me rethink what gaming could be`;
-const MOTIF_A = `indie`;
-const MOTIF_B = `rethink`;
-const OBJECTIVE_TAG = `indie vs rethink`;
+const THEME_LABEL = `What’s something new game devs over-engineer that experienced teams keep simple?`;
+const MOTIF_A = `what`;
+const MOTIF_B = `something`;
+const OBJECTIVE_TAG = `what vs something`;
 const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");
