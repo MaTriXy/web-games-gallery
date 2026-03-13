@@ -1,12 +1,34 @@
 {
   "schemaVersion": "2.0.0",
   "weekKey": "2026-W11-8h",
-  "generatedAt": "2026-03-13T06:46:47.382Z",
+  "generatedAt": "2026-03-13T07:07:29.730Z",
   "games": [
     {
-      "slug": "i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor",
-      "title": "First $1500: Neon Postmortem",
-      "description": "Race to bank your first $1500 by tapping the right neon revenue orbs before they fade and dodging the costly mistakes that suddenly flip the board.",
+      "slug": "networked-aframe-a-web-framework-for-building-multi-user-virtu",
+      "title": "Framework Pulse Relay",
+      "description": "Patch a collapsing networked A-frame framework by tapping glowing frame joints back in pulse order before the signal drops.",
+      "genre": "puzzle",
+      "sessionMinutes": 4,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "networked-aframe A web framework for building multi-user virtual reality experiences.",
+      "trendSource": "github_games",
+      "trendUrl": "https://github.com/networked-aframe/networked-aframe",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "buildStrategyId": "cabinet_arcade",
+      "sourcePath": "./networked-aframe-a-web-framework-for-building-multi-user-virtu/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "global-sales-of-pokmon-pokopia-for-switch-2-surpass-22-million",
+      "title": "Global Triage",
+      "description": "Tap true global calls, reject sales decoys, and hold a growing combo as the sales feed floods faster every wave.",
       "genre": "arcade",
       "sessionMinutes": 2,
       "capabilities": [
@@ -15,42 +37,20 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
-      "trendSource": "reddit_gamedev",
-      "trendUrl": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
+      "trendTitle": "Global Sales of Pokémon Pokopia for Switch 2 surpass 2.2 Million in First Four Days",
+      "trendSource": "reddit_gaming",
+      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rrb9eo/global_sales_of_pokémon_pokopia_for_switch_2/",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
       "buildStrategyId": "single_file",
-      "sourcePath": "./i-made-my-first-1500-from-my-free-mobile-game-here-is-what-wor/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
+      "sourcePath": "./global-sales-of-pokmon-pokopia-for-switch-2-surpass-22-million/index.html",
+      "generationEngine": "native_builder",
+      "generationReason": "timeout"
     },
     {
-      "slug": "far-reach-single-file-browser-4x-strategy-game-no-install-offl",
-      "title": "Single-File Reach",
-      "description": "Thread one growing pulse file through the Reach by replaying frontier commands before the line collapses.",
-      "genre": "puzzle",
-      "sessionMinutes": 4,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "Far Reach – Single-file browser 4X strategy game (no install, offline playable) – Medieval to space empires on three planets",
-      "trendSource": "reddit_webgames",
-      "trendUrl": "https://www.reddit.com/r/WebGames/comments/1rs97wp/far_reach_singlefile_browser_4x_strategy_game_no/",
-      "ideaSeedId": "pulse-pattern",
-      "ideaSeedName": "Pulse Pattern",
-      "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./far-reach-single-file-browser-4x-strategy-game-no-install-offl/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "avatar-the-last-airbender-skyline-dodge-c2",
-      "title": "Last Avatar Drift",
-      "description": "Swipe the last Avatar across shifting air lanes to dodge elemental barrages and steal risky form-shifts for bigger combos.",
+      "slug": "show-hn-balancing-game-for-the-mobile-browser-with-increasing-",
+      "title": "Balancing Collapse Run",
+      "description": "Swipe through collapsing balancing lanes, bait risky show boosts, and stretch your combo before the grid shuts down.",
       "genre": "action",
       "sessionMinutes": 3,
       "capabilities": [
@@ -59,20 +59,20 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "avatar the last airbender",
-      "trendSource": "google_trends",
-      "trendUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "trendTitle": "Show HN: Balancing game for the mobile browser with increasing difficulty",
+      "trendSource": "hacker_news",
+      "trendUrl": "https://www.balanc3dgame.com/",
       "ideaSeedId": "skyline-dodge",
       "ideaSeedName": "Skyline Dodge",
       "buildStrategyId": "split_runtime",
-      "sourcePath": "./avatar-the-last-airbender-skyline-dodge-c2/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
+      "sourcePath": "./show-hn-balancing-game-for-the-mobile-browser-with-increasing-/index.html",
+      "generationEngine": "native_builder",
+      "generationReason": "timeout"
     },
     {
-      "slug": "official-launch-trailer-crimson-desert-gravity-basket-c3",
-      "title": "Launch Seal Drop",
-      "description": "Slide an official launch cradle with one thumb to catch approved payloads and reject fake drops before the desert countdown burns out.",
+      "slug": "server-survival-tower-defense-game-that-teaches-cloud-architec",
+      "title": "Server-Survival: Tower Catch",
+      "description": "Drag a rescue cradle around a collapsing server tower to catch clean traffic modules, dodge bot junk, and keep the stack online through surges.",
       "genre": "arcade",
       "sessionMinutes": 3,
       "capabilities": [
@@ -81,20 +81,20 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Official Launch Trailer | Crimson Desert",
-      "trendSource": "reddit_gaming",
-      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
+      "trendTitle": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
+      "trendSource": "github_games",
+      "trendUrl": "https://github.com/pshenok/server-survival",
       "ideaSeedId": "gravity-basket",
       "ideaSeedName": "Gravity Basket",
       "buildStrategyId": "single_file",
-      "sourcePath": "./official-launch-trailer-crimson-desert-gravity-basket-c3/index.html",
+      "sourcePath": "./server-survival-tower-defense-game-that-teaches-cloud-architec/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "tilia-lite-a-daily-logic-grid-puzzle-built-entirely-inside-a-r",
-      "title": "Tilia-Lite: Daily Pulse Ledger",
-      "description": "You relight the daily Tilia-Lite lattice by memorizing and replaying leaf-beat sequences before the pattern fades.",
+      "slug": "nasa-satellite-crash-earth-pulse-pattern-c2",
+      "title": "NASA Satellite: Crash Window",
+      "description": "As NASA s last ground operator, tap back a crashing satellite s thruster pulses before it hits Earth.",
       "genre": "puzzle",
       "sessionMinutes": 4,
       "capabilities": [
@@ -103,13 +103,13 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Tilia-Lite - A daily logic grid puzzle built entirely inside a Reddit post [HTML5]",
-      "trendSource": "reddit_webgames",
-      "trendUrl": "https://www.reddit.com/r/WebGames/comments/1rsapn5/tilialite_a_daily_logic_grid_puzzle_built/",
+      "trendTitle": "nasa satellite crash earth",
+      "trendSource": "google_trends",
+      "trendUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
       "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./tilia-lite-a-daily-logic-grid-puzzle-built-entirely-inside-a-r/index.html",
+      "sourcePath": "./nasa-satellite-crash-earth-pulse-pattern-c2/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     }

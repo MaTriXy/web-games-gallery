@@ -1,0 +1,48 @@
+{
+  "title": "Framework Pulse Relay",
+  "description": "Patch a collapsing networked A-frame framework by tapping glowing frame joints back in pulse order before the signal drops.",
+  "category": "Casual memory rhythm",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#16C47F",
+  "starThresholds": [
+    600,
+    1400,
+    2600
+  ],
+  "howToPlayJson": {
+    "title": "Framework Pulse Relay",
+    "objective": "Memorize each broadcast pulse route across linked A-frames, then replay the exact joint sequence to keep the framework online and build the highest combo before three link failures end the run.",
+    "controls": [
+      {
+        "action": "Replay pulse",
+        "input": "Tap the highlighted frame joints in remembered order",
+        "outcome": "Correct taps rebuild the route and extend the combo"
+      },
+      {
+        "action": "Use mirrored frame",
+        "input": "When a frame shows a flip icon, tap that frame's last flashed joint first",
+        "outcome": "You satisfy the temporary reverse-order rule and keep the multiplier alive"
+      },
+      {
+        "action": "Bank streak",
+        "input": "Press and hold the center core between rounds",
+        "outcome": "You lock in part of your combo for safety but lose a little timer time"
+      }
+    ],
+    "steps": [
+      "A short pulse melody travels through 3 linked A-frames, lighting specific joints in sequence.",
+      "The player replays the route by tapping the same joints in order on a mobile-friendly single screen.",
+      "Every 2 rounds, one frame hot-swaps into a readable rule state for a few seconds: mirrored frames must be replayed in reverse only for that",
+      "Longer routes, faster pulse playback, and extra connected frames appear as the session progresses toward a 2-4 minute failure point.",
+      "A wrong tap or timeout causes a link failure, breaks the current combo, and removes one of three remaining framework shields.",
+      "The run ends at zero shields, then the score is posted to a simple local-first daily leaderboard with optional online sync when available."
+    ],
+    "scoring": "Score 10 points per correct joint, +25 per cleared route, and a combo multiplier that rises by 0.5x each flawless round up to 5x. Banking streaks preserves half the multiplier after the next mistake. Leaderboards rank by",
+    "tips": [
+      "Watch the pulse melody as much as the light path; each joint has its own audio cue.",
+      "Use the brief slow-motion just before replay to chunk the route into frame-sized groups.",
+      "Bank a streak before a 6-plus step route if you are carrying a high multiplier.",
+      "When a frame flips, only that frame's local order reverses, not the full route."
+    ]
+  }
+}

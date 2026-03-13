@@ -1,11 +1,11 @@
-const GAME_TITLE = `Last Avatar Drift`;
-const ACCENT = `#7FD6FF`;
+const GAME_TITLE = `Balancing Collapse Run`;
+const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `avatar the last airbender`;
-const MOTIF_A = `avatar`;
-const MOTIF_B = `last`;
-const OBJECTIVE_TAG = `avatar vs last`;
-const STAR_THRESHOLDS = [1200,3600,8200];
+const THEME_LABEL = `Show HN: Balancing game for the mobile browser with increasing difficulty`;
+const MOTIF_A = `balancing`;
+const MOTIF_B = `mobile`;
+const OBJECTIVE_TAG = `balancing vs mobile`;
+const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

@@ -1,0 +1,47 @@
+{
+  "title": "NASA Satellite: Crash Window",
+  "description": "As NASA s last ground operator, tap back a crashing satellite s thruster pulses before it hits Earth.",
+  "category": "Casual arcade memory",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#FF6A00",
+  "starThresholds": [
+    1200,
+    2600,
+    4500
+  ],
+  "howToPlayJson": {
+    "title": "NASA Satellite: Crash Window",
+    "objective": "Memorize and replay the satellite s pulse commands to keep it aligned for safe breakup, surviving longer waves as the descent speeds up, errors stack heat, and one final mistake on a full heat bar means impact.",
+    "controls": [
+      {
+        "action": "Replay pulse sequence",
+        "input": "Tap the glowing thruster pads in the order they flashed",
+        "outcome": "The satellite corrects course, your combo rises, and the next wave gets longer and faster."
+      },
+      {
+        "action": "Scan the dark-side pad",
+        "input": "Press and hold the obscured pad for a brief beat",
+        "outcome": "You reveal the hidden pulse safely, but your score multiplier pauses during the scan."
+      },
+      {
+        "action": "Emergency stabilize",
+        "input": "Tap the center NASA uplink button between rounds",
+        "outcome": "You bank the current combo into score and vent a small amount of heat before the next sequence."
+      }
+    ],
+    "steps": [
+      "A short pulse pattern plays across 3 to 5 thruster pads with sharp synth beeps.",
+      "You replay the pattern from memory before the crash timer ring closes.",
+      "Each clear adds a beat, speeds playback, and pushes the satellite closer to Earth on the background descent track.",
+      "Every few rounds, the satellite rolls into Earth s shadow and one pulse becomes hidden unless you spend time scanning it.",
+      "Mistakes add heat; filling the heat meter or missing the timer triggers atmospheric breakup and ends the run."
+    ],
+    "scoring": "Score 100 points per correct input, plus a rising combo multiplier for flawless rounds. Hidden dark-side pulses cleared without scanning give bonus points. Tapping Emergency Stabilize banks your multiplier into score, so",
+    "tips": [
+      "Bank your combo before a shadow round if the pattern is already long.",
+      "Use scan only when the hidden pulse position is unclear; blind clears are the biggest score spike.",
+      "Listen for pitch as well as light because each pad has its own audio cue.",
+      "Short sessions come from high speed escalation: three mistakes or one overheated round can end a run fast."
+    ]
+  }
+}
