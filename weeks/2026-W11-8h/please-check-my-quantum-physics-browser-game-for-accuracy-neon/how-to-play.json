@@ -1,0 +1,39 @@
+{
+  "title": "Please, Check!",
+  "objective": "Survive a 3-minute accuracy-review shift by checking the orb packets that break the current requested rule, building combos while avoiding correct packets.",
+  "controls": [
+    {
+      "action": "Check a faulty packet",
+      "input": "Tap a moving orb packet once",
+      "outcome": "The packet is stamped CHECKED, you score points, and your combo rises."
+    },
+    {
+      "action": "Read the active request",
+      "input": "Watch the top banner and pulse color",
+      "outcome": "You know which mistake type matters right now: color, spin, count, or mirror."
+    },
+    {
+      "action": "Recover after a mistake",
+      "input": "Quickly tap the next valid target",
+      "outcome": "You stop the pressure meter from filling and rebuild your multiplier."
+    }
+  ],
+  "steps": [
+    "A bold banner announces a request such as PLEASE CHECK: SPIN with a matching icon and voice cue.",
+    "Neon orb packets drift in from the edges; each packet shows a simple visual rule pair so the mistake is readable at a glance.",
+    "Tap only the packets that fail the active check before they fade out.",
+    "Every few seconds a new please-check request interrupts play and changes what counts as a target.",
+    "Miss too many faulty packets or tap too many correct ones and your review meter empties, ending the run."
+  ],
+  "scoring": "Each correct check adds points and increases a combo multiplier up to x8. A wrong tap or missed faulty packet resets the combo and removes one review charge. Final score goes to a simple local offline leaderboard for one",
+  "tips": [
+    "Follow the banner first; the target rule changes often enough that old habits get punished.",
+    "Faulty packets carry one exaggerated mismatch, so look for the single broken detail instead of reading the whole packet.",
+    "Use request-change moments to decide whether to chase a far target or let it go and prepare for the new rule."
+  ],
+  "trendContext": {
+    "source": "hacker_news",
+    "title": "Please check my quantum physics browser game for accuracy",
+    "url": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/"
+  }
+}

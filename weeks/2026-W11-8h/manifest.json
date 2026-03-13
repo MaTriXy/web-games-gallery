@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.0.0",
   "weekKey": "2026-W11-8h",
-  "generatedAt": "2026-03-13T02:42:18.058Z",
+  "generatedAt": "2026-03-13T03:01:56.180Z",
   "games": [
     {
-      "slug": "launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g",
-      "title": "Rosebud Launch",
-      "description": "Swipe a fragile rosebud capsule across a launch corridor to dodge wreckage and trigger risky blooms for bigger scores.",
+      "slug": "show-hn-i-built-a-multiplayer-voxel-browser-game-engine-skylin",
+      "title": "Skyline Host Shift",
+      "description": "Swipe a voxel courier across rooftop lanes to dodge crashing world chunks and ride risky host swaps for huge combo spikes.",
       "genre": "action",
       "sessionMinutes": 3,
       "capabilities": [
@@ -15,20 +15,20 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games",
+      "trendTitle": "Show HN: I built a multiplayer voxel browser game engine",
       "trendSource": "hacker_news",
-      "trendUrl": "https://news.ycombinator.com/item?id=38868185",
+      "trendUrl": "https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/",
       "ideaSeedId": "skyline-dodge",
       "ideaSeedName": "Skyline Dodge",
       "buildStrategyId": "split_runtime",
-      "sourcePath": "./launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g/index.html",
+      "sourcePath": "./show-hn-i-built-a-multiplayer-voxel-browser-game-engine-skylin/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "gamedevmind-game-development-map-neon-orb-rush-c1",
-      "title": "Gamedevmind Triage",
-      "description": "Tap true gamedevmind calls, reject development decoys, and hold a growing combo as the development feed floods faster every wave.",
+      "slug": "gamedevmind-game-development-map-signal-sniper-c4",
+      "title": "GameDevMind: Signal Sniper",
+      "description": "Snipe the right problem signals inside the living GameDevMind map to clear development blockers before they drown out creative work.",
       "genre": "arcade",
       "sessionMinutes": 2,
       "capabilities": [
@@ -40,17 +40,17 @@
       "trendTitle": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
       "trendSource": "github_games",
       "trendUrl": "https://github.com/gonglei007/GameDevMind",
-      "ideaSeedId": "neon-orb-rush",
-      "ideaSeedName": "Neon Orb Rush",
-      "buildStrategyId": "single_file",
-      "sourcePath": "./gamedevmind-game-development-map-neon-orb-rush-c1/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
+      "ideaSeedId": "signal-sniper",
+      "ideaSeedName": "Signal Sniper",
+      "buildStrategyId": "cabinet_arcade",
+      "sourcePath": "./gamedevmind-game-development-map-signal-sniper-c4/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "khris-middleton-pulse-pattern-c2",
-      "title": "Khris Middleton: Midrange Recall",
-      "description": "Memorize Khris's shot-call pulses, then replay them on the half-court by tapping the right lanes before the buzzer.",
+      "slug": "far-reach-single-file-browser-4x-strategy-game-no-install-offl",
+      "title": "Single-File Reach",
+      "description": "Relay frontier commands down a single-file beacon line by memorizing and replaying pulse sequences before the far reaches fall out of sync.",
       "genre": "puzzle",
       "sessionMinutes": 4,
       "capabilities": [
@@ -59,42 +59,42 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "khris middleton",
-      "trendSource": "google_trends",
-      "trendUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "trendTitle": "Far Reach – Single-file browser 4X strategy game (no install, offline playable) – Medieval to space empires on three planets",
+      "trendSource": "reddit_webgames",
+      "trendUrl": "https://www.reddit.com/r/WebGames/comments/1rs97wp/far_reach_singlefile_browser_4x_strategy_game_no/",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
       "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./khris-middleton-pulse-pattern-c2/index.html",
+      "sourcePath": "./far-reach-single-file-browser-4x-strategy-game-no-install-offl/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "predators-vs-canucks-gravity-basket-c2",
-      "title": "Power Play Crease",
-      "description": "Slide a goalie glove across the crease to snag Canucks shots, slap away Predators traps, and ride hot streaks before three breakaways get through.",
+      "slug": "please-check-my-quantum-physics-browser-game-for-accuracy-neon",
+      "title": "Please, Check!",
+      "description": "Answer frantic please-check requests by tapping the wrong neon quantum orb packets before they slip off the screen.",
       "genre": "arcade",
-      "sessionMinutes": 3,
+      "sessionMinutes": 2,
       "capabilities": [
         "touch",
         "audio",
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "predators vs canucks",
-      "trendSource": "google_trends",
-      "trendUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
-      "ideaSeedId": "gravity-basket",
-      "ideaSeedName": "Gravity Basket",
+      "trendTitle": "Please check my quantum physics browser game for accuracy",
+      "trendSource": "hacker_news",
+      "trendUrl": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/",
+      "ideaSeedId": "neon-orb-rush",
+      "ideaSeedName": "Neon Orb Rush",
       "buildStrategyId": "single_file",
-      "sourcePath": "./predators-vs-canucks-gravity-basket-c2/index.html",
+      "sourcePath": "./please-check-my-quantum-physics-browser-game-for-accuracy-neon/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa",
-      "title": "Crimson Collapse Run",
-      "description": "Swipe through collapsing crimson lanes, bait risky launch boosts, and stretch your combo before the grid shuts down.",
+      "slug": "official-launch-trailer-crimson-desert-color-swap-lanes-c4",
+      "title": "Official Launch Caravan",
+      "description": "Guide a desert launch sled between lanes, swap its permit color to clear official gates, and time risky trailer launches to keep the convoy alive.",
       "genre": "action",
       "sessionMinutes": 3,
       "capabilities": [
@@ -103,15 +103,15 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
+      "trendTitle": "Official Launch Trailer | Crimson Desert",
       "trendSource": "reddit_gaming",
-      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
+      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
       "ideaSeedId": "color-swap-lanes",
       "ideaSeedName": "Color Swap Lanes",
       "buildStrategyId": "split_runtime",
-      "sourcePath": "./crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
+      "sourcePath": "./official-launch-trailer-crimson-desert-color-swap-lanes-c4/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
     }
   ],
   "sourceReferences": [

@@ -1,11 +1,11 @@
-const GAME_TITLE = `Rosebud Launch`;
-const ACCENT = `#E85D75`;
+const GAME_TITLE = `Official Launch Caravan`;
+const ACCENT = `#C84B31`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games`;
-const MOTIF_A = `launch`;
-const MOTIF_B = `rosebud`;
-const OBJECTIVE_TAG = `launch vs rosebud`;
-const STAR_THRESHOLDS = [1200,2600,4200];
+const THEME_LABEL = `Official Launch Trailer | Crimson Desert`;
+const MOTIF_A = `official`;
+const MOTIF_B = `launch`;
+const OBJECTIVE_TAG = `official vs launch`;
+const STAR_THRESHOLDS = [120,260,420];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

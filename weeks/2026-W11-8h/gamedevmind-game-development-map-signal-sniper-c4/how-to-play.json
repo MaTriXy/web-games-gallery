@@ -1,0 +1,41 @@
+{
+  "title": "GameDevMind: Signal Sniper",
+  "objective": "Tap only the currently requested blocker nodes on the crowded GameDevMind map, chain clean hits for a multiplier, and avoid striking creative or active-development nodes before three mistakes end the run.",
+  "controls": [
+    {
+      "action": "Snipe a node",
+      "input": "Tap a highlighted node once",
+      "outcome": "Clears that blocker signal and adds score"
+    },
+    {
+      "action": "Confirm a chain pair",
+      "input": "Tap two linked nodes in order before the link fades",
+      "outcome": "Grants bonus points and preserves combo"
+    },
+    {
+      "action": "Skip a risky cluster",
+      "input": "Do not tap",
+      "outcome": "Lets invalid nodes pass if you are unsure, but missed valid nodes reduce combo"
+    }
+  ],
+  "steps": [
+    "A short voice cue and large top banner announce the current development directive, such as 'Patch Bugs', 'Collect Tools', or 'Index Docs'.",
+    "Nodes flood into the screen from all sides as a compact mind-map cluster; only nodes matching the directive get a bright ring, matching icon",
+    "Tap valid nodes quickly to build combo; each clean hit briefly clears nearby visual noise so the board becomes easier to read.",
+    "Every few seconds, a Signal Flip changes the directive and reshuffles which node family is safe to tap; the whole board flashes the new icon",
+    "Occasionally a linked pair appears as a 'Known Solution Path' bonus: tap both connected valid nodes in sequence for a multiplier jump.",
+    "The pace and crowding escalate for 2-4 minutes until the player reaches three mistakes from wrong taps or missed hazard overload."
+  ],
+  "scoring": "Each correct tap scores 10 points times combo multiplier. Every 5 clean hits increases the multiplier by +1 up to x8. Tapping a wrong node or missing a flashing hazard resets the combo. Linked 'Known Solution Path' pairs",
+  "tips": [
+    "Read the top directive first; the game is about target identity, not raw speed.",
+    "Follow icon plus color together so Signal Flips do not catch you tapping the old target family.",
+    "Use risky clusters to hunt linked pairs only when your combo is already high.",
+    "Golden light means creative energy: never tap it unless the directive explicitly switches to ideas."
+  ],
+  "trendContext": {
+    "source": "github_games",
+    "title": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
+    "url": "https://github.com/gonglei007/GameDevMind"
+  }
+}
