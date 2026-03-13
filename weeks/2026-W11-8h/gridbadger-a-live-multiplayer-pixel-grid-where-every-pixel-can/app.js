@@ -1,11 +1,11 @@
-const GAME_TITLE = `Highguard Collapse Run`;
-const ACCENT = `#FF6A3D`;
+const GAME_TITLE = `Gridbadger: Live Skyline Dodge`;
+const ACCENT = `#ff6a3d`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Highguard has now officially shutdown`;
-const MOTIF_A = `highguard`;
-const MOTIF_B = `officially`;
-const OBJECTIVE_TAG = `highguard vs officially`;
-const STAR_THRESHOLDS = [1200,2600,4200];
+const THEME_LABEL = `GridBadger - A live multiplayer pixel grid where every pixel can be flipped, pri`;
+const MOTIF_A = `gridbadger`;
+const MOTIF_B = `live`;
+const OBJECTIVE_TAG = `gridbadger vs live`;
+const STAR_THRESHOLDS = [1200,2800,5200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

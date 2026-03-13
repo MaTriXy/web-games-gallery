@@ -1,6 +1,6 @@
 {
-  "title": "Highguard Collapse Run",
-  "description": "Swipe through collapsing highguard lanes, bait risky shutdown boosts, and stretch your combo before the grid shuts down.",
+  "title": "Galas Collapse Run",
+  "description": "Swipe through collapsing galas lanes, bait risky dating boosts, and stretch your combo before the grid shuts down.",
   "category": "Arcade Survival",
   "iconName": "gamecontroller.fill",
   "accentColor": "#FF6A3D",
@@ -10,8 +10,8 @@
     4200
   ],
   "howToPlayJson": {
-    "title": "Highguard Collapse Run",
-    "objective": "Survive a 45-second highguard collapse by dodging hostile streams, grabbing unstable boosts, and deciding when a risky shutdown lane is worth the multiplier spike.",
+    "title": "Galas Collapse Run",
+    "objective": "Survive a 45-second galas collapse by dodging hostile streams, grabbing unstable boosts, and deciding when a risky dating lane is worth the multiplier spike.",
     "controls": [
       {
         "action": "Slide runner",
@@ -25,13 +25,13 @@
       }
     ],
     "steps": [
-      "Hazards pour down the highguard grid while your runner hugs the bottom edge.",
-      "Safe highguard boosts appear inside dangerous gaps; taking one raises the combo and speeds up the next few seconds.",
+      "Hazards pour down the galas grid while your runner hugs the bottom edge.",
+      "Safe galas boosts appear inside dangerous gaps; taking one raises the combo and speeds up the next few seconds.",
       "One bad collision breaks the streak and chunks the timer, so every greedy lane swap is a bet."
     ],
     "scoring": "You score for survival, near-miss rhythm, and every unstable boost captured. Multipliers rise with clean risky pickups, not just passive endurance.",
     "tips": [
-      "Use the center lane as your reset point before chasing a shutdown boost.",
+      "Use the center lane as your reset point before chasing a dating boost.",
       "A small combo is safer than a broken timer; treat the multiplier like a wager.",
       "Late waves accelerate hardest after greedy pickups, so read the next opening before committing."
     ]
