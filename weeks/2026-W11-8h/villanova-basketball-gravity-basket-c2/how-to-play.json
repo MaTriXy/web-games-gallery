@@ -1,0 +1,41 @@
+{
+  "title": "Villanova Full-Court Press",
+  "objective": "Score as many points as possible in a 3-minute Villanova practice rush by catching real basketballs, avoiding decoys, and building combo-based momentum before three misses or hits end the run.",
+  "controls": [
+    {
+      "action": "Move catcher",
+      "input": "Drag left or right anywhere on the lower half of the screen with one thumb",
+      "outcome": "The rolling Villanova practice hoop tracks your thumb across the court"
+    },
+    {
+      "action": "Burst lane swap",
+      "input": "Tap with a second thumb or quick-tap while dragging",
+      "outcome": "The hoop snaps to the nearest side lane to save a combo or dodge a bad drop"
+    },
+    {
+      "action": "Start run",
+      "input": "Tap the whistle button",
+      "outcome": "Begins the 3-minute practice session and music cue"
+    }
+  ],
+  "steps": [
+    "Catch falling orange basketballs to score points and raise your combo.",
+    "Avoid decoys like foam souvenir balls, referee whistles, and rival red shot-clock blocks that break combo or cost a life.",
+    "Every few seconds the coach calls a play: only one marked lane becomes the 'assist lane,' and catches there give double points while catches",
+    "outside it only give normal points, forcing constant repositioning.",
+    "As speed increases, mixed drops include glowing moneyballs that boost the multiplier if caught in sequence.",
+    "The run ends when you lose 3 team-energy hearts from misses or bad catches, or when the 3-minute practice clock expires."
+  ],
+  "scoring": "1 point per normal basketball, combo increases multiplier up to x5, assist-lane catches add +1 bonus, three moneyballs in a row trigger a 5-second 'Nova Run' where all valid catches are worth double; local offline high-s",
+  "tips": [
+    "Keep your thumb low and centered so short lateral drags cover all lanes.",
+    "Use burst lane swap to preserve a high combo when the coach call flips lanes.",
+    "Sometimes letting a normal ball go is correct if a decoy cluster is about to land.",
+    "Listen for the whistle: the audio cue warns that the assist lane is about to change."
+  ],
+  "trendContext": {
+    "source": "google_trends",
+    "title": "villanova basketball",
+    "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+  }
+}

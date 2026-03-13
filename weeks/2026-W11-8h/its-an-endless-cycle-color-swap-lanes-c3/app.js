@@ -1,10 +1,10 @@
-const GAME_TITLE = `Galas Collapse Run`;
+const GAME_TITLE = `Endless Collapse Run`;
 const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Galas or dating apps, neither of them work for me 🥹🥹`;
-const MOTIF_A = `galas`;
-const MOTIF_B = `dating`;
-const OBJECTIVE_TAG = `galas vs dating`;
+const THEME_LABEL = `It’s an endless cycle`;
+const MOTIF_A = `endless`;
+const MOTIF_B = `cycle`;
+const OBJECTIVE_TAG = `endless vs cycle`;
 const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");

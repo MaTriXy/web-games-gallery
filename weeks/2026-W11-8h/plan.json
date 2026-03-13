@@ -12,18 +12,18 @@
   "requestedCount": 5,
   "trendCandidates": [
     {
-      "rank": 21,
-      "source": "reddit_gamedev",
-      "title": "Launching a Steam page, how many wishlists do YOU expect?",
-      "rawScore": 165,
-      "url": "https://www.reddit.com/r/gamedev/comments/1rrlhcc/launching_a_steam_page_how_many_wishlists_do_you/",
+      "rank": 35,
+      "source": "reddit_gaming",
+      "title": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
+      "rawScore": 2193,
+      "url": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/",
       "meta": {
-        "subreddit": "gamedev",
-        "ups": 24,
-        "comments": 47
+        "subreddit": "gaming",
+        "ups": 996,
+        "comments": 399
       },
-      "signalQuality": 44,
-      "score": 226,
+      "signalQuality": 48,
+      "score": 349,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -34,18 +34,18 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 21,
       "source": "reddit_gamedev",
       "title": "I decided to quit game developement, what should i do with my steam page?",
-      "rawScore": 53,
+      "rawScore": 62,
       "url": "https://www.reddit.com/r/gamedev/comments/1rs5cox/i_decided_to_quit_game_developement_what_should_i/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 2,
-        "comments": 17
+        "ups": 5,
+        "comments": 19
       },
       "signalQuality": 80,
-      "score": 221,
+      "score": 227,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -78,18 +78,17 @@
       }
     },
     {
-      "rank": 25,
-      "source": "reddit_webgames",
-      "title": "GridBadger - A live multiplayer pixel grid where every pixel can be flipped, prices rise with each takeover, and you can see everyone's cursors",
-      "rawScore": 1,
-      "url": "https://www.reddit.com/r/WebGames/comments/1rs5m56/gridbadger_a_live_multiplayer_pixel_grid_where/",
+      "rank": 8,
+      "source": "google_trends",
+      "title": "milwaukee bucks vs miami heat match player stats",
+      "rawScore": 900,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
-        "subreddit": "webgames",
-        "ups": 0,
-        "comments": 0
+        "geo": "US",
+        "approxTraffic": 500
       },
-      "signalQuality": 90,
-      "score": 188,
+      "signalQuality": 22,
+      "score": 184,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -102,7 +101,28 @@
     {
       "rank": 16,
       "source": "google_trends",
-      "title": "daniil medvedev",
+      "title": "orlando magic",
+      "rawScore": 5000,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 5000
+      },
+      "signalQuality": -66,
+      "score": 137,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 24,
+      "source": "google_trends",
+      "title": "villanova basketball",
       "rawScore": 2000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
@@ -121,38 +141,17 @@
       }
     },
     {
-      "rank": 24,
-      "source": "google_trends",
-      "title": "isaiah evans",
-      "rawScore": 1500,
-      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
-      "meta": {
-        "geo": "US",
-        "approxTraffic": 500
-      },
-      "signalQuality": -66,
-      "score": 109,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 32,
       "source": "google_trends",
-      "title": "macklin celebrini",
-      "rawScore": 900,
+      "title": "pelle larsson",
+      "rawScore": 1400,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
         "approxTraffic": 500
       },
       "signalQuality": -66,
-      "score": 96,
+      "score": 107,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -165,59 +164,15 @@
     {
       "rank": 40,
       "source": "google_trends",
-      "title": "silver alert",
-      "rawScore": 800,
+      "title": "bulls vs lakers",
+      "rawScore": 1300,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
         "approxTraffic": 500
       },
       "signalQuality": -66,
-      "score": 94,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 4,
-      "source": "reddit_memes",
-      "title": "Galas or dating apps, neither of them work for me 🥹🥹",
-      "rawScore": 7051,
-      "url": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
-      "meta": {
-        "subreddit": "memes",
-        "ups": 6844,
-        "comments": 69
-      },
-      "signalQuality": -16,
-      "score": 369,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 19,
-      "source": "reddit_gaming",
-      "title": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
-      "rawScore": 5963,
-      "url": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
-      "meta": {
-        "subreddit": "gaming",
-        "ups": 4754,
-        "comments": 403
-      },
-      "signalQuality": 22,
-      "score": 362,
+      "score": 105,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -231,11 +186,11 @@
       "rank": 12,
       "source": "reddit_memes",
       "title": "It’s an endless cycle",
-      "rawScore": 15537,
+      "rawScore": 15590,
       "url": "https://www.reddit.com/r/memes/comments/1rrb14u/its_an_endless_cycle/",
       "meta": {
         "subreddit": "memes",
-        "ups": 15267,
+        "ups": 15320,
         "comments": 90
       },
       "signalQuality": -62,
@@ -275,11 +230,11 @@
       "rank": 27,
       "source": "reddit_gaming",
       "title": "Official Launch Trailer | Crimson Desert",
-      "rawScore": 2898,
+      "rawScore": 2908,
       "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 1083,
+        "ups": 1093,
         "comments": 605
       },
       "signalQuality": 40,
@@ -294,36 +249,14 @@
       }
     },
     {
-      "rank": 35,
-      "source": "reddit_gaming",
-      "title": "Global Sales of Pokémon Pokopia for Switch 2 surpass 2.2 Million in First Four Days",
-      "rawScore": 4176,
-      "url": "https://www.reddit.com/r/gaming/comments/1rrb9eo/global_sales_of_pokémon_pokopia_for_switch_2/",
-      "meta": {
-        "subreddit": "gaming",
-        "ups": 2898,
-        "comments": 426
-      },
-      "signalQuality": 22,
-      "score": 348,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 22,
       "source": "github_games",
       "title": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
-      "rawScore": 7481,
+      "rawScore": 7482,
       "url": "https://github.com/gonglei007/GameDevMind",
       "meta": {
         "fullName": "gonglei007/GameDevMind",
-        "stars": 6203,
+        "stars": 6204,
         "forks": 639
       },
       "signalQuality": 54,
@@ -341,12 +274,12 @@
       "rank": 2,
       "source": "reddit_indiegaming",
       "title": "9 Months ago we started our hobby game project. How can we improve?",
-      "rawScore": 560,
+      "rawScore": 562,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 62,
-        "comments": 166
+        "ups": 61,
+        "comments": 167
       },
       "signalQuality": 80,
       "score": 341,
@@ -385,15 +318,15 @@
       "rank": 20,
       "source": "reddit_memes",
       "title": "Shut it Keith",
-      "rawScore": 41122,
+      "rawScore": 41426,
       "url": "https://www.reddit.com/r/memes/comments/1rro7xi/shut_it_keith/",
       "meta": {
         "subreddit": "memes",
-        "ups": 40165,
-        "comments": 319
+        "ups": 40466,
+        "comments": 320
       },
       "signalQuality": -140,
-      "score": 321,
+      "score": 322,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -407,15 +340,15 @@
       "rank": 28,
       "source": "reddit_memes",
       "title": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
-      "rawScore": 2048,
+      "rawScore": 2067,
       "url": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
       "meta": {
         "subreddit": "memes",
-        "ups": 1208,
+        "ups": 1227,
         "comments": 280
       },
       "signalQuality": -16,
-      "score": 315,
+      "score": 316,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -517,15 +450,15 @@
       "rank": 36,
       "source": "reddit_memes",
       "title": "Real business",
-      "rawScore": 22007,
+      "rawScore": 22288,
       "url": "https://www.reddit.com/r/memes/comments/1rrq1vx/real_business/",
       "meta": {
         "subreddit": "memes",
-        "ups": 21740,
+        "ups": 22021,
         "comments": 89
       },
       "signalQuality": -134,
-      "score": 300,
+      "score": 301,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -561,15 +494,15 @@
       "rank": 10,
       "source": "reddit_indiegaming",
       "title": "Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences",
-      "rawScore": 146,
+      "rawScore": 152,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rryewg/indie_devs_is_it_really_that_hard_to_get_steam/",
       "meta": {
         "subreddit": "IndieGaming",
         "ups": 11,
-        "comments": 45
+        "comments": 47
       },
       "signalQuality": 90,
-      "score": 296,
+      "score": 297,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -583,12 +516,34 @@
       "rank": 5,
       "source": "reddit_gamedev",
       "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
-      "rawScore": 293,
+      "rawScore": 292,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 164,
+        "ups": 163,
         "comments": 43
+      },
+      "signalQuality": 72,
+      "score": 274,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 18,
+      "source": "reddit_indiegaming",
+      "title": "Indie games that made me rethink what gaming could be",
+      "rawScore": 134,
+      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
+      "meta": {
+        "subreddit": "IndieGaming",
+        "ups": 65,
+        "comments": 23
       },
       "signalQuality": 72,
       "score": 274,
@@ -624,40 +579,18 @@
       }
     },
     {
-      "rank": 18,
-      "source": "reddit_indiegaming",
-      "title": "Indie games that made me rethink what gaming could be",
-      "rawScore": 129,
-      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
-      "meta": {
-        "subreddit": "IndieGaming",
-        "ups": 63,
-        "comments": 22
-      },
-      "signalQuality": 72,
-      "score": 273,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 26,
       "source": "reddit_indiegaming",
       "title": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
-      "rawScore": 112,
+      "rawScore": 111,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrwm3j/convictions_in_my_game_somewhat_similar_to_perks/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 25,
+        "ups": 24,
         "comments": 29
       },
       "signalQuality": 62,
-      "score": 257,
+      "score": 256,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -693,15 +626,15 @@
       "rank": 34,
       "source": "reddit_indiegaming",
       "title": "Hiring yourself is technically free, right?",
-      "rawScore": 240,
+      "rawScore": 252,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rs4sr2/hiring_yourself_is_technically_free_right/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 105,
-        "comments": 45
+        "ups": 111,
+        "comments": 47
       },
       "signalQuality": 26,
-      "score": 252,
+      "score": 254,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -715,15 +648,37 @@
       "rank": 29,
       "source": "reddit_gamedev",
       "title": "What’s something new game devs over-engineer that experienced teams keep simple?",
-      "rawScore": 93,
+      "rawScore": 101,
       "url": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 18,
-        "comments": 25
+        "ups": 20,
+        "comments": 27
       },
       "signalQuality": 62,
-      "score": 223,
+      "score": 226,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 37,
+      "source": "reddit_gamedev",
+      "title": "Launching a Steam page, how many wishlists do YOU expect?",
+      "rawScore": 165,
+      "url": "https://www.reddit.com/r/gamedev/comments/1rrlhcc/launching_a_steam_page_how_many_wishlists_do_you/",
+      "meta": {
+        "subreddit": "gamedev",
+        "ups": 24,
+        "comments": 47
+      },
+      "signalQuality": 44,
+      "score": 226,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -778,14 +733,14 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 25,
       "source": "reddit_webgames",
-      "title": "My dad taught me to drive tractors 20 years ago. I don’t think this is quite what he had in mind... 🚜💨 Testing the drift physics for my browser game. What do you guys think? #TractorDrift #IndieDev #Gaming #WebDev",
+      "title": "GridBadger - A live multiplayer pixel grid where every pixel can be flipped, prices rise with each takeover, and you can see everyone's cursors",
       "rawScore": 1,
-      "url": "https://www.reddit.com/r/WebGames/comments/1rs1m00/my_dad_taught_me_to_drive_tractors_20_years_ago_i/",
+      "url": "https://www.reddit.com/r/WebGames/comments/1rs5m56/gridbadger_a_live_multiplayer_pixel_grid_where/",
       "meta": {
         "subreddit": "webgames",
-        "ups": 1,
+        "ups": 0,
         "comments": 0
       },
       "signalQuality": 90,
@@ -800,17 +755,18 @@
       }
     },
     {
-      "rank": 8,
-      "source": "google_trends",
-      "title": "blackhawks vs mammoth",
-      "rawScore": 2000,
-      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "rank": 33,
+      "source": "reddit_webgames",
+      "title": "My dad taught me to drive tractors 20 years ago. I don’t think this is quite what he had in mind... 🚜💨 Testing the drift physics for my browser game. What do you guys think? #TractorDrift #IndieDev #Gaming #WebDev",
+      "rawScore": 1,
+      "url": "https://www.reddit.com/r/WebGames/comments/1rs1m00/my_dad_taught_me_to_drive_tractors_20_years_ago_i/",
       "meta": {
-        "geo": "US",
-        "approxTraffic": 2000
+        "subreddit": "webgames",
+        "ups": 1,
+        "comments": 0
       },
-      "signalQuality": -66,
-      "score": 116,
+      "signalQuality": 90,
+      "score": 188,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -846,15 +802,15 @@
       "rank": 3,
       "source": "reddit_gaming",
       "title": "Highguard has now officially shutdown",
-      "rawScore": 15235,
+      "rawScore": 15449,
       "url": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 10960,
-        "comments": 1425
+        "ups": 11135,
+        "comments": 1438
       },
       "signalQuality": 18,
-      "score": 394,
+      "score": 395,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -868,15 +824,59 @@
       "rank": 11,
       "source": "reddit_gaming",
       "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
-      "rawScore": 6760,
+      "rawScore": 6812,
       "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 3547,
-        "comments": 1071
+        "ups": 3575,
+        "comments": 1079
       },
       "signalQuality": 40,
       "score": 385,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 4,
+      "source": "reddit_memes",
+      "title": "Galas or dating apps, neither of them work for me 🥹🥹",
+      "rawScore": 8729,
+      "url": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 8465,
+        "comments": 88
+      },
+      "signalQuality": -16,
+      "score": 378,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 19,
+      "source": "reddit_gaming",
+      "title": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
+      "rawScore": 6046,
+      "url": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 4834,
+        "comments": 404
+      },
+      "signalQuality": 22,
+      "score": 362,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -891,56 +891,18 @@
     {
       "releaseSlot": 1,
       "trend": {
-        "rank": 25,
-        "source": "reddit_webgames",
-        "title": "GridBadger - A live multiplayer pixel grid where every pixel can be flipped, prices rise with each takeover, and you can see everyone's cursors",
-        "rawScore": 1,
-        "url": "https://www.reddit.com/r/WebGames/comments/1rs5m56/gridbadger_a_live_multiplayer_pixel_grid_where/",
-        "meta": {
-          "subreddit": "webgames",
-          "ups": 0,
-          "comments": 0
-        },
-        "signalQuality": 90,
-        "score": 188,
-        "ratingAudit": {
-          "ratingPolicy": "apple-9+",
-          "ratingLabel": "Apple 9+",
-          "engine": "rules",
-          "allowed": true,
-          "highestSeverity": 0,
-          "matches": []
-        }
-      },
-      "outputSlug": "gridbadger-a-live-multiplayer-pixel-grid-where-every-pixel-can",
-      "ideaSeedId": "skyline-dodge",
-      "ideaSeedName": "Skyline Dodge",
-      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"GridBadger - A live multiplayer pixel grid where every pixel can be flipped, prices rise with each takeover, and you can see everyone's cursors\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
-      "buildStrategyId": "split_runtime",
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "genre": "action",
-      "sessionMinutes": 3
-    },
-    {
-      "releaseSlot": 2,
-      "trend": {
-        "rank": 19,
+        "rank": 35,
         "source": "reddit_gaming",
-        "title": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
-        "rawScore": 5963,
-        "url": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
+        "title": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
+        "rawScore": 2193,
+        "url": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/",
         "meta": {
           "subreddit": "gaming",
-          "ups": 4754,
-          "comments": 403
+          "ups": 996,
+          "comments": 399
         },
-        "signalQuality": 22,
-        "score": 362,
+        "signalQuality": 48,
+        "score": 349,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -950,85 +912,10 @@
           "matches": []
         }
       },
-      "outputSlug": "all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1",
-      "ideaSeedId": "gravity-basket",
-      "ideaSeedName": "Gravity Basket",
-      "ideaPrompt": "Autoresearch cycle 4: design a non-template casual game around \"All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation\" using \"Move a catcher to collect falling items while avoiding decoys.\". Extra twist: bias toward mobile thumb ergonomics.",
-      "buildStrategyId": "single_file",
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "genre": "arcade",
-      "sessionMinutes": 3
-    },
-    {
-      "releaseSlot": 3,
-      "trend": {
-        "rank": 32,
-        "source": "google_trends",
-        "title": "macklin celebrini",
-        "rawScore": 900,
-        "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
-        "meta": {
-          "geo": "US",
-          "approxTraffic": 500
-        },
-        "signalQuality": -66,
-        "score": 96,
-        "ratingAudit": {
-          "ratingPolicy": "apple-9+",
-          "ratingLabel": "Apple 9+",
-          "engine": "rules",
-          "allowed": true,
-          "highestSeverity": 0,
-          "matches": []
-        }
-      },
-      "outputSlug": "macklin-celebrini-pulse-pattern-c3",
-      "ideaSeedId": "pulse-pattern",
-      "ideaSeedName": "Pulse Pattern",
-      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"macklin celebrini\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
-      "buildStrategyId": "cabinet_arcade",
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "genre": "puzzle",
-      "sessionMinutes": 4
-    },
-    {
-      "releaseSlot": 4,
-      "trend": {
-        "rank": 21,
-        "source": "reddit_gamedev",
-        "title": "Launching a Steam page, how many wishlists do YOU expect?",
-        "rawScore": 165,
-        "url": "https://www.reddit.com/r/gamedev/comments/1rrlhcc/launching_a_steam_page_how_many_wishlists_do_you/",
-        "meta": {
-          "subreddit": "gamedev",
-          "ups": 24,
-          "comments": 47
-        },
-        "signalQuality": 44,
-        "score": 226,
-        "ratingAudit": {
-          "ratingPolicy": "apple-9+",
-          "ratingLabel": "Apple 9+",
-          "engine": "rules",
-          "allowed": true,
-          "highestSeverity": 0,
-          "matches": []
-        }
-      },
-      "outputSlug": "launching-a-steam-page-how-many-wishlists-do-you-expect-neon-o",
+      "outputSlug": "anyone-find-themselves-opening-up-their-game-libraries-staring",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Launching a Steam page, how many wishlists do YOU expect?\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
       "buildStrategyId": "single_file",
       "capabilities": [
         "touch",
@@ -1040,20 +927,19 @@
       "sessionMinutes": 2
     },
     {
-      "releaseSlot": 5,
+      "releaseSlot": 2,
       "trend": {
-        "rank": 4,
-        "source": "reddit_memes",
-        "title": "Galas or dating apps, neither of them work for me 🥹🥹",
-        "rawScore": 7051,
-        "url": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
+        "rank": 32,
+        "source": "google_trends",
+        "title": "pelle larsson",
+        "rawScore": 1400,
+        "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
         "meta": {
-          "subreddit": "memes",
-          "ups": 6844,
-          "comments": 69
+          "geo": "US",
+          "approxTraffic": 500
         },
-        "signalQuality": -16,
-        "score": 369,
+        "signalQuality": -66,
+        "score": 107,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1063,10 +949,123 @@
           "matches": []
         }
       },
-      "outputSlug": "galas-or-dating-apps-neither-of-them-work-for-me-color-swap-la",
+      "outputSlug": "pelle-larsson-pulse-pattern-c3",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"pelle larsson\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "buildStrategyId": "cabinet_arcade",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "puzzle",
+      "sessionMinutes": 4
+    },
+    {
+      "releaseSlot": 3,
+      "trend": {
+        "rank": 12,
+        "source": "reddit_memes",
+        "title": "It’s an endless cycle",
+        "rawScore": 15590,
+        "url": "https://www.reddit.com/r/memes/comments/1rrb14u/its_an_endless_cycle/",
+        "meta": {
+          "subreddit": "memes",
+          "ups": 15320,
+          "comments": 90
+        },
+        "signalQuality": -62,
+        "score": 357,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "its-an-endless-cycle-color-swap-lanes-c3",
       "ideaSeedId": "color-swap-lanes",
       "ideaSeedName": "Color Swap Lanes",
-      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"Galas or dating apps, neither of them work for me 🥹🥹\" using \"Switch lanes and match colors with incoming gates.\". Extra twist: include one novelty mechanic tied to the trend title.",
+      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"It’s an endless cycle\" using \"Switch lanes and match colors with incoming gates.\". Extra twist: include one novelty mechanic tied to the trend title.",
+      "buildStrategyId": "split_runtime",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "action",
+      "sessionMinutes": 3
+    },
+    {
+      "releaseSlot": 4,
+      "trend": {
+        "rank": 24,
+        "source": "google_trends",
+        "title": "villanova basketball",
+        "rawScore": 2000,
+        "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+        "meta": {
+          "geo": "US",
+          "approxTraffic": 2000
+        },
+        "signalQuality": -66,
+        "score": 116,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "villanova-basketball-gravity-basket-c2",
+      "ideaSeedId": "gravity-basket",
+      "ideaSeedName": "Gravity Basket",
+      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"villanova basketball\" using \"Move a catcher to collect falling items while avoiding decoys.\". Extra twist: bias toward mobile thumb ergonomics.",
+      "buildStrategyId": "single_file",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "arcade",
+      "sessionMinutes": 3
+    },
+    {
+      "releaseSlot": 5,
+      "trend": {
+        "rank": 27,
+        "source": "reddit_gaming",
+        "title": "Official Launch Trailer | Crimson Desert",
+        "rawScore": 2908,
+        "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
+        "meta": {
+          "subreddit": "gaming",
+          "ups": 1093,
+          "comments": 605
+        },
+        "signalQuality": 40,
+        "score": 352,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "official-launch-trailer-crimson-desert-color-swap-lanes-c4",
+      "ideaSeedId": "color-swap-lanes",
+      "ideaSeedName": "Color Swap Lanes",
+      "ideaPrompt": "Autoresearch cycle 4: design a non-template casual game around \"Official Launch Trailer | Crimson Desert\" using \"Switch lanes and match colors with incoming gates.\". Extra twist: include one novelty mechanic tied to the trend title.",
       "buildStrategyId": "split_runtime",
       "capabilities": [
         "touch",
@@ -1078,9 +1077,9 @@
       "sessionMinutes": 3
     }
   ],
-  "generatedAt": "2026-03-13T01:38:56.642Z",
+  "generatedAt": "2026-03-13T01:59:57.159Z",
   "autoresearch": {
-    "runId": "20260313012712",
+    "runId": "20260313014900",
     "cycles": 4,
     "exploreCount": 3,
     "publishCount": 5,

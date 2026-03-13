@@ -1,0 +1,39 @@
+{
+  "title": "Find Anyone",
+  "objective": "Rack up the highest score in a 3-minute run by finding and tapping glowing Anyone orbs, chaining combos, and avoiding Scroll decoys that speed up the collapse into the feed.",
+  "controls": [
+    {
+      "action": "Tap an Anyone orb",
+      "input": "Single tap",
+      "outcome": "Collects it, refreshes combo time, and adds score."
+    },
+    {
+      "action": "Ignore a Scroll decoy",
+      "input": "Do not tap red feed bubbles",
+      "outcome": "Keeps your focus meter stable and preserves multiplier."
+    },
+    {
+      "action": "Burst the active Find Ring",
+      "input": "Tap highlighted orbiting orbs in the shown order",
+      "outcome": "Triggers a short score multiplier surge and clears nearby clutter."
+    }
+  ],
+  "steps": [
+    "Neon library doors drift onto the screen and crack open into moving orbs.",
+    "Blue-white Anyone orbs are the real targets; red Scroll bubbles are decoys with a downward arrow telegraph.",
+    "Tap real targets before they fade to fill your combo and slow the feed meter.",
+    "Every few seconds, a bright Find Ring appears around 3 marked orbs; hit them in order for a temporary x2-x4 boost.",
+    "Miss too many real targets or tap too many Scroll bubbles and the feed meter fills, ending the run."
+  ],
+  "scoring": "Each Anyone orb scores 10 points, with a combo multiplier rising from x1 to x5 for clean streaks. Completing a Find Ring grants a bonus burst and extends combo time. Leaderboard ranking is based on highest single-run raw",
+  "tips": [
+    "Prioritize clearly marked Anyone orbs near the bottom where fade-outs happen first.",
+    "Break from easy taps when a Find Ring appears; its bonus is worth more than scattered singles.",
+    "Red Scroll bubbles punish panic tapping, so read the telegraph before committing."
+  ],
+  "trendContext": {
+    "source": "reddit_gaming",
+    "title": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
+    "url": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/"
+  }
+}

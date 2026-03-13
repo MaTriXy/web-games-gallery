@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T01:38:56.642Z
+Generated at: 2026-03-13T01:59:57.159Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: gridbadger-a-live-multiplayer-pixel-grid-where-every-pixel-can (action, 3 min) <- GridBadger - A live multiplayer pixel grid where every pixel can be flipped, prices rise with each takeover, and you can see everyone's cursors
-- slot 2: all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1 (arcade, 3 min) <- All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation
-- slot 3: macklin-celebrini-pulse-pattern-c3 (puzzle, 4 min) <- macklin celebrini
-- slot 4: launching-a-steam-page-how-many-wishlists-do-you-expect-neon-o (arcade, 2 min) <- Launching a Steam page, how many wishlists do YOU expect?
-- slot 5: galas-or-dating-apps-neither-of-them-work-for-me-color-swap-la (action, 3 min) <- Galas or dating apps, neither of them work for me 🥹🥹
+- slot 1: anyone-find-themselves-opening-up-their-game-libraries-staring (arcade, 2 min) <- Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?
+- slot 2: pelle-larsson-pulse-pattern-c3 (puzzle, 4 min) <- pelle larsson
+- slot 3: its-an-endless-cycle-color-swap-lanes-c3 (action, 3 min) <- It’s an endless cycle
+- slot 4: villanova-basketball-gravity-basket-c2 (arcade, 3 min) <- villanova basketball
+- slot 5: official-launch-trailer-crimson-desert-color-swap-lanes-c4 (action, 3 min) <- Official Launch Trailer | Crimson Desert
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated
