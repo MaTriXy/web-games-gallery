@@ -1,0 +1,41 @@
+{
+  "title": "After Work Launch",
+  "objective": "Survive a 2-4 minute after-hours rooftop escape while weaving through escalating office hazards, grabbing clock-out stamps to build a score multiplier, and avoiding three hits that end the run.",
+  "controls": [
+    {
+      "action": "Shift lanes",
+      "input": "Swipe left or right",
+      "outcome": "Move between rooftop lanes to dodge incoming hazards and line up score pickups."
+    },
+    {
+      "action": "Burst step",
+      "input": "Swipe up",
+      "outcome": "Hop over low hazards like cables, carts, and spilled coffee streams."
+    },
+    {
+      "action": "Duck slide",
+      "input": "Swipe down",
+      "outcome": "Slip under high hazards like swinging signs, drones, and flying folders."
+    }
+  ],
+  "steps": [
+    "The player starts on a dusk skyline catwalk outside a glowing office tower, trying to make it home after work.",
+    "Hazards stream in waves: paperwork gusts, rolling office chairs, dangling cables, delivery drones, and snapping neon signs.",
+    "Every few seconds a 'clock-out stamp' spawns in the most dangerous lane; collecting it refreshes and increases the score multiplier.",
+    "A siren cue announces a 'launch shift' twist: all hazard lanes rotate one step left or right, forcing a fast route change.",
+    "Wave speed rises over time, and mixed-height hazards begin stacking so the player must combine lane shifts with hops and slides.",
+    "The run ends after three hits or one direct collision with a red-alert hazard during the final overtime rush."
+  ],
+  "scoring": "Score increases from survival time and near-miss dodges. Each collected clock-out stamp raises the multiplier by 1x, but missing a stamp resets the multiplier to 1x. Consecutive near-misses without taking damage add a",
+  "tips": [
+    "Play for near-misses early; the base waves are slow enough to farm combo safely.",
+    "Do not chase every clock-out stamp if a launch shift siren just sounded.",
+    "Use burst step for low clutter only; lane movement is safer when hazards are stacked.",
+    "Audio matters: stamp chimes signal multiplier windows, and the siren warns the lane rotation twist before it happens."
+  ],
+  "trendContext": {
+    "source": "reddit_indiegaming",
+    "title": "After 3 years of work, my indie tower defense Bean Beasts just launched today on Switch! 🫘",
+    "url": "https://www.reddit.com/r/IndieGaming/comments/1rs2ed1/after_3_years_of_work_my_indie_tower_defense_bean/"
+  }
+}

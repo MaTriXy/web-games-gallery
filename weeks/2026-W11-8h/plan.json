@@ -12,18 +12,18 @@
   "requestedCount": 5,
   "trendCandidates": [
     {
-      "rank": 26,
-      "source": "reddit_indiegaming",
-      "title": "Hiring yourself is technically free, right?",
-      "rawScore": 307,
-      "url": "https://www.reddit.com/r/IndieGaming/comments/1rs4sr2/hiring_yourself_is_technically_free_right/",
+      "rank": 36,
+      "source": "reddit_memes",
+      "title": "What is the most annoying habit of your wife?",
+      "rawScore": 2282,
+      "url": "https://www.reddit.com/r/memes/comments/1rs73pg/what_is_the_most_annoying_habit_of_your_wife/",
       "meta": {
-        "subreddit": "IndieGaming",
-        "ups": 148,
-        "comments": 53
+        "subreddit": "memes",
+        "ups": 2093,
+        "comments": 63
       },
-      "signalQuality": 26,
-      "score": 262,
+      "signalQuality": -36,
+      "score": 300,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -36,60 +36,16 @@
     {
       "rank": 34,
       "source": "reddit_indiegaming",
-      "title": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
-      "rawScore": 113,
-      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrwm3j/convictions_in_my_game_somewhat_similar_to_perks/",
+      "title": "After 3 years of work, my indie tower defense Bean Beasts just launched today on Switch! 🫘",
+      "rawScore": 66,
+      "url": "https://www.reddit.com/r/IndieGaming/comments/1rs2ed1/after_3_years_of_work_my_indie_tower_defense_bean/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 26,
-        "comments": 29
+        "ups": 42,
+        "comments": 8
       },
-      "signalQuality": 62,
-      "score": 257,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 21,
-      "source": "reddit_gamedev",
-      "title": "What’s something new game devs over-engineer that experienced teams keep simple?",
-      "rawScore": 154,
-      "url": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/",
-      "meta": {
-        "subreddit": "gamedev",
-        "ups": 34,
-        "comments": 40
-      },
-      "signalQuality": 62,
-      "score": 241,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 1,
-      "source": "reddit_webgames",
-      "title": "Signal Drift - tune alien transmissions out of static in this free browser puzzle game",
-      "rawScore": 12,
-      "url": "https://www.reddit.com/r/WebGames/comments/1rs4ju9/signal_drift_tune_alien_transmissions_out_of/",
-      "meta": {
-        "subreddit": "webgames",
-        "ups": 3,
-        "comments": 3
-      },
-      "signalQuality": 90,
-      "score": 196,
+      "signalQuality": 72,
+      "score": 245,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -146,15 +102,15 @@
     {
       "rank": 8,
       "source": "google_trends",
-      "title": "el nino forecast",
-      "rawScore": 10000,
+      "title": "vegas golden knights",
+      "rawScore": 1600,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 10000
+        "approxTraffic": 500
       },
-      "signalQuality": -96,
-      "score": 124,
+      "signalQuality": -66,
+      "score": 110,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -167,12 +123,12 @@
     {
       "rank": 16,
       "source": "google_trends",
-      "title": "darryn peterson",
+      "title": "black ops royale",
       "rawScore": 1300,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 500
+        "approxTraffic": 200
       },
       "signalQuality": -66,
       "score": 105,
@@ -188,54 +144,12 @@
     {
       "rank": 24,
       "source": "google_trends",
-      "title": "connor bedard",
-      "rawScore": 1200,
-      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
-      "meta": {
-        "geo": "US",
-        "approxTraffic": 200
-      },
-      "signalQuality": -66,
-      "score": 103,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 32,
-      "source": "google_trends",
-      "title": "henri veesaar",
-      "rawScore": 1100,
-      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
-      "meta": {
-        "geo": "US",
-        "approxTraffic": 200
-      },
-      "signalQuality": -66,
-      "score": 101,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 40,
-      "source": "google_trends",
-      "title": "jeff kaplan overwatch",
+      "title": "jalen smith",
       "rawScore": 1000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 1000
+        "approxTraffic": 500
       },
       "signalQuality": -66,
       "score": 99,
@@ -249,18 +163,104 @@
       }
     },
     {
-      "rank": 30,
-      "source": "github_games",
-      "title": "sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.",
-      "rawScore": 4424,
-      "url": "https://github.com/hackclub/sprig",
+      "rank": 32,
+      "source": "google_trends",
+      "title": "jared mccain",
+      "rawScore": 800,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
-        "fullName": "hackclub/sprig",
-        "stars": 1068,
-        "forks": 1678
+        "geo": "US",
+        "approxTraffic": 500
       },
-      "signalQuality": 66,
-      "score": 339,
+      "signalQuality": -66,
+      "score": 94,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 40,
+      "source": "google_trends",
+      "title": "sf giants",
+      "rawScore": 1500,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 500
+      },
+      "signalQuality": -96,
+      "score": 79,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 6,
+      "source": "github_games",
+      "title": "GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+      "rawScore": 23791,
+      "url": "https://github.com/4ian/GDevelop",
+      "meta": {
+        "fullName": "4ian/GDevelop",
+        "stars": 21205,
+        "forks": 1293
+      },
+      "signalQuality": 84,
+      "score": 412,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 3,
+      "source": "reddit_gaming",
+      "title": "Highguard has now officially shutdown",
+      "rawScore": 16998,
+      "url": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 12384,
+        "comments": 1538
+      },
+      "signalQuality": 18,
+      "score": 399,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 11,
+      "source": "reddit_gaming",
+      "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
+      "rawScore": 7115,
+      "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 3779,
+        "comments": 1112
+      },
+      "signalQuality": 40,
+      "score": 387,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -274,12 +274,12 @@
       "rank": 12,
       "source": "reddit_memes",
       "title": "Shut it Keith",
-      "rawScore": 43153,
+      "rawScore": 43374,
       "url": "https://www.reddit.com/r/memes/comments/1rro7xi/shut_it_keith/",
       "meta": {
         "subreddit": "memes",
-        "ups": 42175,
-        "comments": 326
+        "ups": 42393,
+        "comments": 327
       },
       "signalQuality": -140,
       "score": 324,
@@ -296,11 +296,11 @@
       "rank": 20,
       "source": "reddit_memes",
       "title": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
-      "rawScore": 2170,
+      "rawScore": 2187,
       "url": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
       "meta": {
         "subreddit": "memes",
-        "ups": 1303,
+        "ups": 1320,
         "comments": 289
       },
       "signalQuality": -16,
@@ -384,15 +384,15 @@
       "rank": 28,
       "source": "reddit_memes",
       "title": "Real business",
-      "rawScore": 24057,
+      "rawScore": 24268,
       "url": "https://www.reddit.com/r/memes/comments/1rrq1vx/real_business/",
       "meta": {
         "subreddit": "memes",
-        "ups": 23781,
-        "comments": 92
+        "ups": 23983,
+        "comments": 95
       },
       "signalQuality": -134,
-      "score": 304,
+      "score": 305,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -428,11 +428,11 @@
       "rank": 10,
       "source": "reddit_indiegaming",
       "title": "Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences",
-      "rawScore": 158,
+      "rawScore": 157,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rryewg/indie_devs_is_it_really_that_hard_to_get_steam/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 11,
+        "ups": 10,
         "comments": 49
       },
       "signalQuality": 90,
@@ -469,28 +469,6 @@
       }
     },
     {
-      "rank": 36,
-      "source": "reddit_memes",
-      "title": "it really do be like that",
-      "rawScore": 3473,
-      "url": "https://www.reddit.com/r/memes/comments/1rrpkn4/it_really_do_be_like_that/",
-      "meta": {
-        "subreddit": "memes",
-        "ups": 3041,
-        "comments": 144
-      },
-      "signalQuality": -56,
-      "score": 298,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 5,
       "source": "reddit_gamedev",
       "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
@@ -503,28 +481,6 @@
       },
       "signalQuality": 72,
       "score": 277,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 18,
-      "source": "reddit_indiegaming",
-      "title": "Indie games that made me rethink what gaming could be",
-      "rawScore": 138,
-      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
-      "meta": {
-        "subreddit": "IndieGaming",
-        "ups": 66,
-        "comments": 24
-      },
-      "signalQuality": 72,
-      "score": 275,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -557,14 +513,58 @@
       }
     },
     {
+      "rank": 18,
+      "source": "reddit_indiegaming",
+      "title": "Hiring yourself is technically free, right?",
+      "rawScore": 314,
+      "url": "https://www.reddit.com/r/IndieGaming/comments/1rs4sr2/hiring_yourself_is_technically_free_right/",
+      "meta": {
+        "subreddit": "IndieGaming",
+        "ups": 155,
+        "comments": 53
+      },
+      "signalQuality": 26,
+      "score": 263,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 26,
+      "source": "reddit_indiegaming",
+      "title": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
+      "rawScore": 113,
+      "url": "https://www.reddit.com/r/IndieGaming/comments/1rrwm3j/convictions_in_my_game_somewhat_similar_to_perks/",
+      "meta": {
+        "subreddit": "IndieGaming",
+        "ups": 26,
+        "comments": 29
+      },
+      "signalQuality": 62,
+      "score": 257,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
       "rank": 13,
       "source": "reddit_gamedev",
       "title": "What is considered too big for an indie project?",
-      "rawScore": 179,
+      "rawScore": 178,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 17,
+        "ups": 16,
         "comments": 54
       },
       "signalQuality": 70,
@@ -579,14 +579,36 @@
       }
     },
     {
+      "rank": 21,
+      "source": "reddit_gamedev",
+      "title": "What’s something new game devs over-engineer that experienced teams keep simple?",
+      "rawScore": 153,
+      "url": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/",
+      "meta": {
+        "subreddit": "gamedev",
+        "ups": 33,
+        "comments": 40
+      },
+      "signalQuality": 62,
+      "score": 241,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
       "rank": 29,
       "source": "reddit_gamedev",
       "title": "I decided to quit game developement, what should i do with my steam page?",
-      "rawScore": 71,
+      "rawScore": 72,
       "url": "https://www.reddit.com/r/gamedev/comments/1rs5cox/i_decided_to_quit_game_developement_what_should_i/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 8,
+        "ups": 9,
         "comments": 21
       },
       "signalQuality": 80,
@@ -604,15 +626,37 @@
       "rank": 37,
       "source": "reddit_gamedev",
       "title": "Launching a Steam page, how many wishlists do YOU expect?",
-      "rawScore": 172,
+      "rawScore": 171,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrlhcc/launching_a_steam_page_how_many_wishlists_do_you/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 25,
+        "ups": 24,
         "comments": 49
       },
       "signalQuality": 44,
       "score": 227,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 1,
+      "source": "reddit_webgames",
+      "title": "Signal Drift - tune alien transmissions out of static in this free browser puzzle game",
+      "rawScore": 12,
+      "url": "https://www.reddit.com/r/WebGames/comments/1rs4ju9/signal_drift_tune_alien_transmissions_out_of/",
+      "meta": {
+        "subreddit": "webgames",
+        "ups": 3,
+        "comments": 3
+      },
+      "signalQuality": 90,
+      "score": 196,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -667,84 +711,18 @@
       }
     },
     {
-      "rank": 6,
-      "source": "github_games",
-      "title": "GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
-      "rawScore": 23790,
-      "url": "https://github.com/4ian/GDevelop",
-      "meta": {
-        "fullName": "4ian/GDevelop",
-        "stars": 21204,
-        "forks": 1293
-      },
-      "signalQuality": 84,
-      "score": 412,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 4,
       "source": "reddit_memes",
       "title": "Galas or dating apps, neither of them work for me 🥹🥹",
-      "rawScore": 18433,
+      "rawScore": 19710,
       "url": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
       "meta": {
         "subreddit": "memes",
-        "ups": 17833,
-        "comments": 200
+        "ups": 19095,
+        "comments": 205
       },
       "signalQuality": -16,
-      "score": 411,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 3,
-      "source": "reddit_gaming",
-      "title": "Highguard has now officially shutdown",
-      "rawScore": 16865,
-      "url": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/",
-      "meta": {
-        "subreddit": "gaming",
-        "ups": 12257,
-        "comments": 1536
-      },
-      "signalQuality": 18,
-      "score": 398,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 11,
-      "source": "reddit_gaming",
-      "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
-      "rawScore": 7081,
-      "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
-      "meta": {
-        "subreddit": "gaming",
-        "ups": 3751,
-        "comments": 1110
-      },
-      "signalQuality": 40,
-      "score": 387,
+      "score": 413,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -758,15 +736,15 @@
       "rank": 19,
       "source": "reddit_gaming",
       "title": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
-      "rawScore": 3375,
+      "rawScore": 3561,
       "url": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 1860,
-        "comments": 505
+        "ups": 1995,
+        "comments": 522
       },
       "signalQuality": 48,
-      "score": 366,
+      "score": 368,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -780,15 +758,15 @@
       "rank": 27,
       "source": "reddit_gaming",
       "title": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
-      "rawScore": 6521,
+      "rawScore": 6598,
       "url": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 5264,
-        "comments": 419
+        "ups": 5326,
+        "comments": 424
       },
       "signalQuality": 22,
-      "score": 365,
+      "score": 366,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -824,15 +802,15 @@
       "rank": 35,
       "source": "reddit_gaming",
       "title": "Official Launch Trailer | Crimson Desert",
-      "rawScore": 2963,
+      "rawScore": 2974,
       "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 1115,
+        "ups": 1126,
         "comments": 616
       },
       "signalQuality": 40,
-      "score": 352,
+      "score": 353,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -868,15 +846,37 @@
       "rank": 2,
       "source": "reddit_indiegaming",
       "title": "9 Months ago we started our hobby game project. How can we improve?",
-      "rawScore": 576,
+      "rawScore": 574,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 72,
+        "ups": 70,
         "comments": 168
       },
       "signalQuality": 80,
       "score": 342,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 30,
+      "source": "github_games",
+      "title": "sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.",
+      "rawScore": 4424,
+      "url": "https://github.com/hackclub/sprig",
+      "meta": {
+        "fullName": "hackclub/sprig",
+        "stars": 1068,
+        "forks": 1678
+      },
+      "signalQuality": 66,
+      "score": 339,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -891,18 +891,18 @@
     {
       "releaseSlot": 1,
       "trend": {
-        "rank": 21,
-        "source": "reddit_gamedev",
-        "title": "What’s something new game devs over-engineer that experienced teams keep simple?",
-        "rawScore": 154,
-        "url": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/",
+        "rank": 34,
+        "source": "reddit_indiegaming",
+        "title": "After 3 years of work, my indie tower defense Bean Beasts just launched today on Switch! 🫘",
+        "rawScore": 66,
+        "url": "https://www.reddit.com/r/IndieGaming/comments/1rs2ed1/after_3_years_of_work_my_indie_tower_defense_bean/",
         "meta": {
-          "subreddit": "gamedev",
-          "ups": 34,
-          "comments": 40
+          "subreddit": "IndieGaming",
+          "ups": 42,
+          "comments": 8
         },
-        "signalQuality": 62,
-        "score": 241,
+        "signalQuality": 72,
+        "score": 245,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -912,48 +912,10 @@
           "matches": []
         }
       },
-      "outputSlug": "whats-something-new-game-devs-over-engineer-that-experienced-t",
-      "ideaSeedId": "pulse-pattern",
-      "ideaSeedName": "Pulse Pattern",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"What’s something new game devs over-engineer that experienced teams keep simple?\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
-      "buildStrategyId": "cabinet_arcade",
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "genre": "puzzle",
-      "sessionMinutes": 4
-    },
-    {
-      "releaseSlot": 2,
-      "trend": {
-        "rank": 1,
-        "source": "reddit_webgames",
-        "title": "Signal Drift - tune alien transmissions out of static in this free browser puzzle game",
-        "rawScore": 12,
-        "url": "https://www.reddit.com/r/WebGames/comments/1rs4ju9/signal_drift_tune_alien_transmissions_out_of/",
-        "meta": {
-          "subreddit": "webgames",
-          "ups": 3,
-          "comments": 3
-        },
-        "signalQuality": 90,
-        "score": 196,
-        "ratingAudit": {
-          "ratingPolicy": "apple-9+",
-          "ratingLabel": "Apple 9+",
-          "engine": "rules",
-          "allowed": true,
-          "highestSeverity": 0,
-          "matches": []
-        }
-      },
-      "outputSlug": "signal-drift-tune-alien-transmissions-out-of-static-in-this-fr",
+      "outputSlug": "after-3-years-of-work-my-indie-tower-defense-bean-beasts-just-",
       "ideaSeedId": "skyline-dodge",
       "ideaSeedName": "Skyline Dodge",
-      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"Signal Drift - tune alien transmissions out of static in this free browser puzzle game\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"After 3 years of work, my indie tower defense Bean Beasts just launched today on Switch! 🫘\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
       "buildStrategyId": "split_runtime",
       "capabilities": [
         "touch",
@@ -965,20 +927,20 @@
       "sessionMinutes": 3
     },
     {
-      "releaseSlot": 3,
+      "releaseSlot": 2,
       "trend": {
-        "rank": 26,
-        "source": "reddit_indiegaming",
-        "title": "Hiring yourself is technically free, right?",
-        "rawScore": 307,
-        "url": "https://www.reddit.com/r/IndieGaming/comments/1rs4sr2/hiring_yourself_is_technically_free_right/",
+        "rank": 17,
+        "source": "reddit_webgames",
+        "title": "Playable Snake game in the browser – no downloads, works on mobile",
+        "rawScore": 3,
+        "url": "https://www.reddit.com/r/WebGames/comments/1rs6qd2/playable_snake_game_in_the_browser_no_downloads/",
         "meta": {
-          "subreddit": "IndieGaming",
-          "ups": 148,
-          "comments": 53
+          "subreddit": "webgames",
+          "ups": 0,
+          "comments": 1
         },
-        "signalQuality": 26,
-        "score": 262,
+        "signalQuality": 90,
+        "score": 188,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -988,10 +950,48 @@
           "matches": []
         }
       },
-      "outputSlug": "hiring-yourself-is-technically-free-right-neon-orb-rush-c1",
+      "outputSlug": "playable-snake-game-in-the-browser-no-downloads-works-on-mobil",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Playable Snake game in the browser – no downloads, works on mobile\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "buildStrategyId": "cabinet_arcade",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "puzzle",
+      "sessionMinutes": 4
+    },
+    {
+      "releaseSlot": 3,
+      "trend": {
+        "rank": 36,
+        "source": "reddit_memes",
+        "title": "What is the most annoying habit of your wife?",
+        "rawScore": 2282,
+        "url": "https://www.reddit.com/r/memes/comments/1rs73pg/what_is_the_most_annoying_habit_of_your_wife/",
+        "meta": {
+          "subreddit": "memes",
+          "ups": 2093,
+          "comments": 63
+        },
+        "signalQuality": -36,
+        "score": 300,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "what-is-the-most-annoying-habit-of-your-wife-neon-orb-rush-c1",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Hiring yourself is technically free, right?\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"What is the most annoying habit of your wife?\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
       "buildStrategyId": "single_file",
       "capabilities": [
         "touch",
@@ -1005,18 +1005,18 @@
     {
       "releaseSlot": 4,
       "trend": {
-        "rank": 34,
-        "source": "reddit_indiegaming",
-        "title": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
-        "rawScore": 113,
-        "url": "https://www.reddit.com/r/IndieGaming/comments/1rrwm3j/convictions_in_my_game_somewhat_similar_to_perks/",
+        "rank": 6,
+        "source": "github_games",
+        "title": "GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+        "rawScore": 23791,
+        "url": "https://github.com/4ian/GDevelop",
         "meta": {
-          "subreddit": "IndieGaming",
-          "ups": 26,
-          "comments": 29
+          "fullName": "4ian/GDevelop",
+          "stars": 21205,
+          "forks": 1293
         },
-        "signalQuality": 62,
-        "score": 257,
+        "signalQuality": 84,
+        "score": 412,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1026,35 +1026,35 @@
           "matches": []
         }
       },
-      "outputSlug": "convictions-in-my-game-somewhat-similar-to-perks-but-more-impo",
-      "ideaSeedId": "skyline-dodge",
-      "ideaSeedName": "Skyline Dodge",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
-      "buildStrategyId": "split_runtime",
+      "outputSlug": "gdevelop-open-source-cross-platform-2d3dmultiplayer-game-engin",
+      "ideaSeedId": "gravity-basket",
+      "ideaSeedName": "Gravity Basket",
+      "ideaPrompt": "Autoresearch cycle 4: design a non-template casual game around \"GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.\" using \"Move a catcher to collect falling items while avoiding decoys.\". Extra twist: bias toward mobile thumb ergonomics.",
+      "buildStrategyId": "single_file",
       "capabilities": [
         "touch",
         "audio",
         "offline",
         "leaderboard"
       ],
-      "genre": "action",
+      "genre": "arcade",
       "sessionMinutes": 3
     },
     {
       "releaseSlot": 5,
       "trend": {
-        "rank": 30,
-        "source": "github_games",
-        "title": "sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.",
-        "rawScore": 4424,
-        "url": "https://github.com/hackclub/sprig",
+        "rank": 11,
+        "source": "reddit_gaming",
+        "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
+        "rawScore": 7115,
+        "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
         "meta": {
-          "fullName": "hackclub/sprig",
-          "stars": 1068,
-          "forks": 1678
+          "subreddit": "gaming",
+          "ups": 3779,
+          "comments": 1112
         },
-        "signalQuality": 66,
-        "score": 339,
+        "signalQuality": 40,
+        "score": 387,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1064,10 +1064,10 @@
           "matches": []
         }
       },
-      "outputSlug": "sprig-learn-to-code-by-making-games-in-a-javascript-web-based-",
+      "outputSlug": "crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa",
       "ideaSeedId": "signal-sniper",
       "ideaSeedName": "Signal Sniper",
-      "ideaPrompt": "Autoresearch cycle 4: design a non-template casual game around \"sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.\" using \"Tap only valid targets in crowded, fast-changing scenes.\". Extra twist: increase clarity of goals and visual telegraphing.",
+      "ideaPrompt": "Autoresearch cycle 4: design a non-template casual game around \"Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch\" using \"Tap only valid targets in crowded, fast-changing scenes.\". Extra twist: increase clarity of goals and visual telegraphing.",
       "buildStrategyId": "cabinet_arcade",
       "capabilities": [
         "touch",
@@ -1079,9 +1079,9 @@
       "sessionMinutes": 2
     }
   ],
-  "generatedAt": "2026-03-13T04:21:41.825Z",
+  "generatedAt": "2026-03-13T04:42:02.770Z",
   "autoresearch": {
-    "runId": "20260313041029",
+    "runId": "20260313043145",
     "cycles": 4,
     "exploreCount": 3,
     "publishCount": 5,

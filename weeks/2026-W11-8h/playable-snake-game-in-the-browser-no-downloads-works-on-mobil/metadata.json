@@ -1,0 +1,47 @@
+{
+  "title": "Pulse Snake: Head or Tail",
+  "description": "Play a living snake by tapping its body pulses back in order before the beat snaps shut around its head.",
+  "category": "Arcade Memory",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#19D3A2",
+  "starThresholds": [
+    800,
+    2200,
+    4500
+  ],
+  "howToPlayJson": {
+    "title": "Pulse Snake: Head or Tail",
+    "objective": "Survive a 2-4 minute run by memorizing and replaying increasingly fast pulse sequences traveling across a snake's body, choosing safe or risky routes to keep your combo alive and post a leaderboard score.",
+    "controls": [
+      {
+        "action": "Replay a pulse",
+        "input": "Tap the lit body segment when it is your next remembered beat",
+        "outcome": "The snake advances, the beat continues, and your combo builds"
+      },
+      {
+        "action": "Choose route",
+        "input": "Tap the flashing fork segment near the head or tail",
+        "outcome": "Head route gives a shorter safer sequence; tail route adds extra beats but boosts multiplier"
+      },
+      {
+        "action": "Recover after a mistake",
+        "input": "Hold one finger anywhere during the brief stun window",
+        "outcome": "You spend your stored combo shield to avoid an immediate fail once per run"
+      }
+    ],
+    "steps": [
+      "A short pulse pattern lights up along the snake from head to tail with distinct audio notes.",
+      "The pattern disappears and you tap the same segments back in order on the snake's body.",
+      "Every few sequences, a fork pulse appears and forces a choice: replay from the head for fewer beats or from the tail for a longer high-risk,",
+      "Successful replays make the snake longer and faster, adding more beats, tighter timing, and alternating directions.",
+      "A wrong tap, timeout, or broken order causes the snake to bite itself and ends the run unless you spend a saved combo shield."
+    ],
+    "scoring": "Each correct tap scores points; finishing a full sequence raises a combo multiplier. Tail-route sequences add an instant multiplier bonus and a small leaderboard burst bonus. Missing a beat ends the run and submits your",
+    "tips": [
+      "Watch the head first; sequence direction can reverse after a fork.",
+      "Use audio as much as visuals; each body zone has its own note.",
+      "Take head routes early to stabilize, then switch to tail routes once your combo is rolling.",
+      "Short holds are only for shield recovery; normal play is all quick taps."
+    ]
+  }
+}

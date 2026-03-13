@@ -1,11 +1,11 @@
-const GAME_TITLE = `Signal Drift: Rooftop Relay`;
-const ACCENT = `#5EE6C6`;
+const GAME_TITLE = `After Work Launch`;
+const ACCENT = `#FF6B35`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Signal Drift - tune alien transmissions out of static in this free browser puzzl`;
-const MOTIF_A = `signal`;
-const MOTIF_B = `drift`;
-const OBJECTIVE_TAG = `signal vs drift`;
-const STAR_THRESHOLDS = [1200,2600,4200];
+const THEME_LABEL = `After 3 years of work, my indie tower defense Bean Beasts just launched today on`;
+const MOTIF_A = `after`;
+const MOTIF_B = `work`;
+const OBJECTIVE_TAG = `after vs work`;
+const STAR_THRESHOLDS = [1200,2600,4800];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

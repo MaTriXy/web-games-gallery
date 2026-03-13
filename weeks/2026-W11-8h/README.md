@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T04:21:41.825Z
+Generated at: 2026-03-13T04:42:02.770Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: whats-something-new-game-devs-over-engineer-that-experienced-t (puzzle, 4 min) <- What’s something new game devs over-engineer that experienced teams keep simple?
-- slot 2: signal-drift-tune-alien-transmissions-out-of-static-in-this-fr (action, 3 min) <- Signal Drift - tune alien transmissions out of static in this free browser puzzle game
-- slot 3: hiring-yourself-is-technically-free-right-neon-orb-rush-c1 (arcade, 2 min) <- Hiring yourself is technically free, right?
-- slot 4: convictions-in-my-game-somewhat-similar-to-perks-but-more-impo (action, 3 min) <- Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?
-- slot 5: sprig-learn-to-code-by-making-games-in-a-javascript-web-based- (arcade, 2 min) <- sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.
+- slot 1: after-3-years-of-work-my-indie-tower-defense-bean-beasts-just- (action, 3 min) <- After 3 years of work, my indie tower defense Bean Beasts just launched today on Switch! 🫘
+- slot 2: playable-snake-game-in-the-browser-no-downloads-works-on-mobil (puzzle, 4 min) <- Playable Snake game in the browser – no downloads, works on mobile
+- slot 3: what-is-the-most-annoying-habit-of-your-wife-neon-orb-rush-c1 (arcade, 2 min) <- What is the most annoying habit of your wife?
+- slot 4: gdevelop-open-source-cross-platform-2d3dmultiplayer-game-engin (arcade, 3 min) <- GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
+- slot 5: crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa (arcade, 2 min) <- Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated

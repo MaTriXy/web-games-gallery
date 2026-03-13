@@ -1,0 +1,32 @@
+{
+  "title": "What Triage",
+  "objective": "Sort the live what feed under pressure, chasing multiplier windows without letting decoys or missed calls collapse the run.",
+  "controls": [
+    {
+      "action": "Tap a live call",
+      "input": "Touch / click",
+      "outcome": "Confirm a valid target and extend combo"
+    },
+    {
+      "action": "Ignore a decoy",
+      "input": "Hold position for the next wave",
+      "outcome": "Preserve the streak and avoid a timer penalty"
+    }
+  ],
+  "steps": [
+    "Three targets appear at once, but only one is the live what action worth taking.",
+    "Every correct tap shortens the next decision window and raises the multiplier ceiling.",
+    "Mistakes or hesitations trigger an most penalty that eats time and resets the combo."
+  ],
+  "scoring": "Correct calls build combo tiers and unlock bigger point jumps. The highest scores come from surviving faster waves without cashing out the streak.",
+  "tips": [
+    "Read the full what label before tapping; decoys are designed to steal rushed fingers.",
+    "Tempo matters more than pure speed; one missed window hurts more than a calm half-second read.",
+    "Use early easy waves to build multiplier, then play cleaner once the board starts lying."
+  ],
+  "trendContext": {
+    "source": "reddit_memes",
+    "title": "What is the most annoying habit of your wife?",
+    "url": "https://www.reddit.com/r/memes/comments/1rs73pg/what_is_the_most_annoying_habit_of_your_wife/"
+  }
+}
