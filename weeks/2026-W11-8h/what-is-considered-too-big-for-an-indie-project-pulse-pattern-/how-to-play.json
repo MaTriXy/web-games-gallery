@@ -1,0 +1,42 @@
+{
+  "title": "What's Considered",
+  "objective": "Memorize each audio pulse sequence, then replay the approved beats in the correct order while adapting to shifting 'considered' rules and keeping your combo alive for a higher leaderboard score.",
+  "controls": [
+    {
+      "action": "Replay a beat",
+      "input": "Tap a lit project pad",
+      "outcome": "Inputs that beat into the current sequence step."
+    },
+    {
+      "action": "Skip a rejected beat",
+      "input": "Do not tap when a crossed-out pulse appears in recall",
+      "outcome": "Keeps the replay valid and preserves combo timing."
+    },
+    {
+      "action": "Use a held approval",
+      "input": "Press and hold on a pad with a ringed pulse",
+      "outcome": "Counts as a 'considered' long note and boosts multiplier if released on time."
+    }
+  ],
+  "steps": [
+    "Four project pads sit on a small desk: Code, Art, Audio, and Story, each with a distinct synth note.",
+    "During the preview phase, the game plays a fast pulse pattern across the pads; every pulse is marked either 'WHAT' or 'CONSIDERED'.",
+    "During the replay phase, you repeat only the pulses currently considered shippable, in order, while ignoring the rejected ones.",
+    "Every few seconds the producer's rule flips: either only 'CONSIDERED' pulses count, or a flashing 'WHAT?' clause means the next marked pulse",
+    "must be included once as a risky exception.",
+    "Later rounds add held pulses, faster tempo, longer chains, and quick rule flips mid-run.",
+    "One mistake, missed hold, or wrong inclusion fills the scope meter; when it maxes out, the project is too big and the run ends."
+  ],
+  "scoring": "Score 10 points per correct beat, 25 per correct hold, and increase a combo multiplier every 5 correct inputs in a row. Risky exception beats during a 'WHAT?' clause give double points. Final score is your leaderboard",
+  "tips": [
+    "Listen for pitch as much as color; audio memory is faster than visual counting.",
+    "When the rule flips, pause half a beat mentally before replaying.",
+    "Held notes are the safest way to extend combo if you nail the release.",
+    "Rejected pulses still matter because they change where the approved sequence resumes."
+  ],
+  "trendContext": {
+    "source": "reddit_gamedev",
+    "title": "What is considered too big for an indie project?",
+    "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/"
+  }
+}

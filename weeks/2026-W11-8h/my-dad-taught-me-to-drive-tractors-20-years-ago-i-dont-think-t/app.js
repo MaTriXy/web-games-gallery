@@ -1,11 +1,11 @@
-const GAME_TITLE = `Galas Collapse Run`;
-const ACCENT = `#FF6A3D`;
+const GAME_TITLE = `Dad's Drift Lesson`;
+const ACCENT = `#C86B2A`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Galas or dating apps, neither of them work for me 🥹🥹`;
-const MOTIF_A = `galas`;
-const MOTIF_B = `dating`;
-const OBJECTIVE_TAG = `galas vs dating`;
-const STAR_THRESHOLDS = [1200,2600,4200];
+const THEME_LABEL = `My dad taught me to drive tractors 20 years ago. I don’t think this is quite wha`;
+const MOTIF_A = `taught`;
+const MOTIF_B = `drive`;
+const OBJECTIVE_TAG = `taught vs drive`;
+const STAR_THRESHOLDS = [120,260,420];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

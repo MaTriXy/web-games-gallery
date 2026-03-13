@@ -1,0 +1,48 @@
+{
+  "title": "Signal Drift Basket",
+  "description": "Slide a thumb-controlled receiver basket to catch drifting signal drops and dodge static debris while alien broadcasts keep slipping off-frequency.",
+  "category": "Casual arcade puzzle",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#5EEAD4",
+  "starThresholds": [
+    600,
+    1400,
+    2600
+  ],
+  "howToPlayJson": {
+    "title": "Signal Drift Basket",
+    "objective": "Survive a 3-minute transmission window by catching valid signal drops, avoiding static, and preserving your combo through repeated drift shifts.",
+    "controls": [
+      {
+        "action": "Move receiver",
+        "input": "Drag left or right anywhere on the lower half of the screen",
+        "outcome": "The basket glides under falling objects with one-thumb control."
+      },
+      {
+        "action": "Retune band",
+        "input": "Tap with the same thumb",
+        "outcome": "Switch the basket between Blue Band and Amber Band so it only catches the matching signal."
+      },
+      {
+        "action": "Brace drift",
+        "input": "Hold for a short moment during a warning pulse",
+        "outcome": "The basket slows but ignores one drift shove, useful during dense static waves."
+      }
+    ],
+    "steps": [
+      "Signal drops and static fragments fall from the top in curved paths instead of straight lines.",
+      "Catch only signal drops that match your current tuned band; the wrong color counts as interference.",
+      "Static fragments always break combo and remove one shield charge if they hit the basket.",
+      "Every few seconds a Drift Pulse sweeps the screen, pushing all falling objects sideways and often swapping which color is the live broadcast",
+      "Short audio chirps warn each Drift Pulse, and the backing loop changes pitch to hint which band is now active.",
+      "As time passes, fall speed increases, drift curves get stronger, and mixed clusters force quick retunes.",
+      "The run ends when you lose all shield charges or the transmission timer expires."
+    ],
+    "scoring": "Each clean signal caught scores 10 points. Consecutive correct catches build a Signal Lock multiplier up to 5x. Catching three signals during one Drift Pulse grants a bonus burst. Any static hit, wrong-band catch, or a f",
+    "tips": [
+      "Stay near the center before a Drift Pulse so you can react to the shove in either direction.",
+      "Use audio chirps to pre-read band swaps instead of waiting for the visual change.",
+      "Bracing is best for crowded waves, but overusing it costs catch opportunities and slows combo building."
+    ]
+  }
+}

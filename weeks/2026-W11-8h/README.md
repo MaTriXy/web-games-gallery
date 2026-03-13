@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T00:15:18.778Z
+Generated at: 2026-03-13T00:36:08.372Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: sprig-learn-to-code-by-making-games-in-a-javascript-web-based- (arcade, 2 min) <- sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.
-- slot 2: show-hn-balancing-game-for-the-mobile-browser-with-increasing- (puzzle, 4 min) <- Show HN: Balancing game for the mobile browser with increasing difficulty
-- slot 3: galas-or-dating-apps-neither-of-them-work-for-me-skyline-dodge (action, 3 min) <- Galas or dating apps, neither of them work for me 🥹🥹
-- slot 4: indie-devs-is-it-really-that-hard-to-get-steam-wishlists-hones (puzzle, 4 min) <- Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences
-- slot 5: networked-aframe-a-web-framework-for-building-multi-user-virtu (arcade, 3 min) <- networked-aframe A web framework for building multi-user virtual reality experiences.
+- slot 1: what-is-considered-too-big-for-an-indie-project-pulse-pattern- (puzzle, 4 min) <- What is considered too big for an indie project?
+- slot 2: signal-drift-tune-alien-transmissions-out-of-static-in-this-fr (arcade, 3 min) <- Signal Drift - tune alien transmissions out of static in this free browser puzzle game
+- slot 3: indie-games-that-made-me-rethink-what-gaming-could-be-skyline- (action, 3 min) <- Indie games that made me rethink what gaming could be
+- slot 4: my-dad-taught-me-to-drive-tractors-20-years-ago-i-dont-think-t (action, 3 min) <- My dad taught me to drive tractors 20 years ago. I don’t think this is quite what he had in mind... 🚜💨 Testing the drift physics for my browser game. What do you guys think? #TractorDrift #IndieDev #Gaming #WebDev
+- slot 5: real-business-neon-orb-rush-c1 (arcade, 2 min) <- Real business
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated

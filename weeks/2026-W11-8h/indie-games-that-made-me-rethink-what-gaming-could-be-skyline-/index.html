@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Indie Collapse Run</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="app">
+    <section class="game-frame">
+      
+      <header class="topbar">
+        <div class="title-block">
+          <p id="themeTag" class="theme-tag">Indie games that made me rethink what gaming could be</p>
+          <h1>Indie Collapse Run</h1>
+          <p class="sub">Swipe through collapsing indie lanes, bait risky rethink boosts, and stretch your combo before the grid shuts down.</p>
+        </div>
+        <div class="hud">
+          <span>Score <strong id="score">0</strong></span>
+          <span>Combo <strong id="combo">0</strong></span>
+          <span>Multiplier <strong id="multiplier">x1</strong></span>
+          <span>Best <strong id="bestCombo">0</strong></span>
+          <span>Time <strong id="timer">45</strong></span>
+        </div>
+      </header>
+      <section id="gameShell" class="game-shell hidden">
+        <p id="status" class="status"></p>
+        <section id="playfield" class="playfield"></section>
+        <section class="sequence-grid">
+          <button class="pad hidden" data-pad="0"></button>
+          <button class="pad hidden" data-pad="1"></button>
+          <button class="pad hidden" data-pad="2"></button>
+          <button class="pad hidden" data-pad="3"></button>
+        </section>
+        <section class="footer-panels">
+          <div class="briefing-compact">
+            <h2>Mission</h2>
+            <p>Survive a 45-second indie collapse by dodging hostile streams, grabbing unstable boosts, and deciding when a risky rethink lane is worth the multiplier spike.</p>
+          </div>
+          <div class="leaderboard-panel">
+            <h2>Leaderboard</h2>
+            <ol id="board"></ol>
+          </div>
+        </section>
+      </section>
+      <section id="introOverlay" class="screen-overlay">
+        <div class="screen-card intro-card">
+          <p class="eyebrow">Mission briefing</p>
+          <h2>Ready to launch?</h2>
+          <p class="screen-copy">Survive a 45-second indie collapse by dodging hostile streams, grabbing unstable boosts, and deciding when a risky rethink lane is worth the multiplier spike.</p>
+          <div class="intro-grid">
+            <div>
+              <h3>Controls</h3>
+              <ul><li><strong>Slide runner:</strong> Touch / drag -> Shift lanes to dodge collapsing hazards</li><li><strong>Cut through a boost line:</strong> Hold your lane through a glowing opening -> Gain multiplier, bonus time, and faster future waves</li></ul>
+            </div>
+            <div>
+              <h3>Plan</h3>
+              <ol><li>Hazards pour down the indie grid while your runner hugs the bottom edge.</li><li>Safe indie boosts appear inside dangerous gaps; taking one raises the combo and speeds up the next few seconds.</li><li>One bad collision breaks the streak and chunks the timer, so every greedy lane swap is a bet.</li></ol>
+            </div>
+            <div class="tips-panel">
+              <h3>Pilot tips</h3>
+              <ul><li>Use the center lane as your reset point before chasing a rethink boost.</li><li>A small combo is safer than a broken timer; treat the multiplier like a wager.</li><li>Late waves accelerate hardest after greedy pickups, so read the next opening before committing.</li></ul>
+            </div>
+          </div>
+          <div class="start-row">
+            <button id="startBtn">Start mission</button>
+            <p>45-second run. No page scrolling. Beat your best combo.</p>
+          </div>
+        </div>
+      </section>
+      <section id="resultOverlay" class="screen-overlay hidden">
+        <div class="screen-card result-card">
+          <h2>Round Summary</h2>
+          <p id="summary" class="summary"></p>
+          <button id="restartBtn">Play again</button>
+        </div>
+      </section>
+    </section>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>

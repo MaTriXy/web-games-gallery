@@ -12,128 +12,18 @@
   "requestedCount": 5,
   "trendCandidates": [
     {
-      "rank": 30,
-      "source": "github_games",
-      "title": "sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.",
-      "rawScore": 4424,
-      "url": "https://github.com/hackclub/sprig",
-      "meta": {
-        "fullName": "hackclub/sprig",
-        "stars": 1068,
-        "forks": 1678
-      },
-      "signalQuality": 66,
-      "score": 339,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 20,
-      "source": "reddit_memes",
-      "title": "Galas or dating apps, neither of them work for me 🥹🥹",
-      "rawScore": 2029,
-      "url": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
-      "meta": {
-        "subreddit": "memes",
-        "ups": 1915,
-        "comments": 38
-      },
-      "signalQuality": -16,
-      "score": 315,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 15,
-      "source": "hacker_news",
-      "title": "Show HN: Balancing game for the mobile browser with increasing difficulty",
-      "rawScore": 746,
-      "url": "https://www.balanc3dgame.com/",
-      "meta": {
-        "author": "nargaw",
-        "score": 338,
-        "comments": 102
-      },
-      "signalQuality": 84,
-      "score": 314,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 36,
       "source": "reddit_memes",
       "title": "Real business",
-      "rawScore": 20622,
+      "rawScore": 21032,
       "url": "https://www.reddit.com/r/memes/comments/1rrq1vx/real_business/",
       "meta": {
         "subreddit": "memes",
-        "ups": 20364,
-        "comments": 86
+        "ups": 20771,
+        "comments": 87
       },
       "signalQuality": -134,
-      "score": 297,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 10,
-      "source": "reddit_indiegaming",
-      "title": "Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences",
-      "rawScore": 142,
-      "url": "https://www.reddit.com/r/IndieGaming/comments/1rryewg/indie_devs_is_it_really_that_hard_to_get_steam/",
-      "meta": {
-        "subreddit": "IndieGaming",
-        "ups": 10,
-        "comments": 44
-      },
-      "signalQuality": 90,
-      "score": 294,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 38,
-      "source": "github_games",
-      "title": "networked-aframe A web framework for building multi-user virtual reality experiences.",
-      "rawScore": 1807,
-      "url": "https://github.com/networked-aframe/networked-aframe",
-      "meta": {
-        "fullName": "networked-aframe/networked-aframe",
-        "stars": 1203,
-        "forks": 302
-      },
-      "signalQuality": 30,
-      "score": 274,
+      "score": 298,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -147,11 +37,11 @@
       "rank": 18,
       "source": "reddit_indiegaming",
       "title": "Indie games that made me rethink what gaming could be",
-      "rawScore": 131,
+      "rawScore": 130,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 65,
+        "ups": 64,
         "comments": 22
       },
       "signalQuality": 72,
@@ -166,18 +56,18 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 21,
       "source": "reddit_gamedev",
       "title": "What is considered too big for an indie project?",
-      "rawScore": 172,
+      "rawScore": 176,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 16,
-        "comments": 52
+        "ups": 17,
+        "comments": 53
       },
       "signalQuality": 70,
-      "score": 253,
+      "score": 254,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -191,11 +81,11 @@
       "rank": 26,
       "source": "reddit_indiegaming",
       "title": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
-      "rawScore": 103,
+      "rawScore": 102,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrwm3j/convictions_in_my_game_somewhat_similar_to_perks/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 22,
+        "ups": 21,
         "comments": 27
       },
       "signalQuality": 62,
@@ -212,16 +102,16 @@
     {
       "rank": 34,
       "source": "reddit_indiegaming",
-      "title": "After 3 years of work, my indie tower defense Bean Beasts just launched today on Switch! 🫘",
-      "rawScore": 61,
-      "url": "https://www.reddit.com/r/IndieGaming/comments/1rs2ed1/after_3_years_of_work_my_indie_tower_defense_bean/",
+      "title": "Hiring yourself is technically free, right?",
+      "rawScore": 180,
+      "url": "https://www.reddit.com/r/IndieGaming/comments/1rs4sr2/hiring_yourself_is_technically_free_right/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 40,
-        "comments": 7
+        "ups": 90,
+        "comments": 30
       },
-      "signalQuality": 72,
-      "score": 242,
+      "signalQuality": 26,
+      "score": 240,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -232,7 +122,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 29,
       "source": "reddit_gamedev",
       "title": "Launching a Steam page, how many wishlists do YOU expect?",
       "rawScore": 165,
@@ -254,40 +144,18 @@
       }
     },
     {
-      "rank": 29,
-      "source": "reddit_gamedev",
-      "title": "40K wishlists - Steam Next Fest - our strategy &amp; data",
-      "rawScore": 99,
-      "url": "https://www.reddit.com/r/gamedev/comments/1rrq9mh/40k_wishlists_steam_next_fest_our_strategy_data/",
-      "meta": {
-        "subreddit": "gamedev",
-        "ups": 39,
-        "comments": 20
-      },
-      "signalQuality": 54,
-      "score": 218,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 37,
       "source": "reddit_gamedev",
-      "title": "I decided to quit game developement, what should i do with my steam page?",
-      "rawScore": 45,
-      "url": "https://www.reddit.com/r/gamedev/comments/1rs5cox/i_decided_to_quit_game_developement_what_should_i/",
+      "title": "What’s something new game devs over-engineer that experienced teams keep simple?",
+      "rawScore": 79,
+      "url": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 3,
-        "comments": 14
+        "ups": 10,
+        "comments": 23
       },
-      "signalQuality": 80,
-      "score": 216,
+      "signalQuality": 62,
+      "score": 218,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -410,15 +278,15 @@
     {
       "rank": 8,
       "source": "google_trends",
-      "title": "wiaa girls basketball tournament 2026",
-      "rawScore": 800,
+      "title": "braden smith assist tracker",
+      "rawScore": 1500,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
         "approxTraffic": 500
       },
-      "signalQuality": 0,
-      "score": 160,
+      "signalQuality": 10,
+      "score": 185,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -432,14 +300,14 @@
       "rank": 16,
       "source": "google_trends",
       "title": "what time does the pitt come out",
-      "rawScore": 1200,
+      "rawScore": 1000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 500
+        "approxTraffic": 1000
       },
       "signalQuality": -18,
-      "score": 151,
+      "score": 147,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -452,15 +320,15 @@
     {
       "rank": 24,
       "source": "google_trends",
-      "title": "oscar nominations 2026",
-      "rawScore": 1400,
+      "title": "age of attraction cast",
+      "rawScore": 1300,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 1000
+        "approxTraffic": 500
       },
-      "signalQuality": -42,
-      "score": 131,
+      "signalQuality": -30,
+      "score": 141,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -473,15 +341,15 @@
     {
       "rank": 32,
       "source": "google_trends",
-      "title": "vanna white",
-      "rawScore": 1600,
+      "title": "nuggets vs spurs",
+      "rawScore": 2000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 1000
+        "approxTraffic": 2000
       },
       "signalQuality": -66,
-      "score": 110,
+      "score": 116,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -495,14 +363,14 @@
       "rank": 40,
       "source": "google_trends",
       "title": "jonathan jones",
-      "rawScore": 1300,
+      "rawScore": 2000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 500
+        "approxTraffic": 2000
       },
       "signalQuality": -66,
-      "score": 105,
+      "score": 116,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -538,15 +406,15 @@
       "rank": 3,
       "source": "reddit_gaming",
       "title": "Highguard has now officially shutdown",
-      "rawScore": 13918,
+      "rawScore": 14293,
       "url": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 9943,
-        "comments": 1325
+        "ups": 10234,
+        "comments": 1353
       },
       "signalQuality": 18,
-      "score": 391,
+      "score": 392,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -560,15 +428,15 @@
       "rank": 11,
       "source": "reddit_gaming",
       "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
-      "rawScore": 6506,
+      "rawScore": 6558,
       "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 3395,
-        "comments": 1037
+        "ups": 3429,
+        "comments": 1043
       },
       "signalQuality": 40,
-      "score": 383,
+      "score": 384,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -582,15 +450,15 @@
       "rank": 19,
       "source": "reddit_gaming",
       "title": "Valve says the Steam Machine targets 30 FPS/1080p for games to get verified on the machine, and input verification is the same as the Steam Deck; Performance is roughly 6 times that of the Deck",
-      "rawScore": 4819,
+      "rawScore": 4838,
       "url": "https://www.reddit.com/r/gaming/comments/1rr1brk/valve_says_the_steam_machine_targets_30_fps1080p/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 3130,
-        "comments": 563
+        "ups": 3146,
+        "comments": 564
       },
       "signalQuality": 40,
-      "score": 371,
+      "score": 372,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -604,15 +472,15 @@
       "rank": 27,
       "source": "reddit_gaming",
       "title": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
-      "rawScore": 5543,
+      "rawScore": 5684,
       "url": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 4403,
-        "comments": 380
+        "ups": 4490,
+        "comments": 398
       },
       "signalQuality": 22,
-      "score": 359,
+      "score": 360,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -626,15 +494,15 @@
       "rank": 4,
       "source": "reddit_memes",
       "title": "It’s an endless cycle",
-      "rawScore": 15296,
+      "rawScore": 15366,
       "url": "https://www.reddit.com/r/memes/comments/1rrb14u/its_an_endless_cycle/",
       "meta": {
         "subreddit": "memes",
-        "ups": 15026,
+        "ups": 15096,
         "comments": 90
       },
       "signalQuality": -62,
-      "score": 356,
+      "score": 357,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -670,12 +538,12 @@
       "rank": 35,
       "source": "reddit_gaming",
       "title": "Official Launch Trailer | Crimson Desert",
-      "rawScore": 2839,
+      "rawScore": 2863,
       "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 1063,
-        "comments": 592
+        "ups": 1066,
+        "comments": 599
       },
       "signalQuality": 40,
       "score": 351,
@@ -714,12 +582,12 @@
       "rank": 2,
       "source": "reddit_indiegaming",
       "title": "9 Months ago we started our hobby game project. How can we improve?",
-      "rawScore": 545,
+      "rawScore": 544,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrlcod/9_months_ago_we_started_our_hobby_game_project/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 56,
-        "comments": 163
+        "ups": 52,
+        "comments": 164
       },
       "signalQuality": 80,
       "score": 340,
@@ -733,14 +601,58 @@
       }
     },
     {
+      "rank": 30,
+      "source": "github_games",
+      "title": "sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.",
+      "rawScore": 4424,
+      "url": "https://github.com/hackclub/sprig",
+      "meta": {
+        "fullName": "hackclub/sprig",
+        "stars": 1068,
+        "forks": 1678
+      },
+      "signalQuality": 66,
+      "score": 339,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
       "rank": 12,
       "source": "reddit_memes",
+      "title": "Galas or dating apps, neither of them work for me 🥹🥹",
+      "rawScore": 2911,
+      "url": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 2785,
+        "comments": 42
+      },
+      "signalQuality": -16,
+      "score": 330,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 20,
+      "source": "reddit_memes",
       "title": "Shut it Keith",
-      "rawScore": 39836,
+      "rawScore": 40187,
       "url": "https://www.reddit.com/r/memes/comments/1rro7xi/shut_it_keith/",
       "meta": {
         "subreddit": "memes",
-        "ups": 38888,
+        "ups": 39239,
         "comments": 316
       },
       "signalQuality": -140,
@@ -777,18 +689,40 @@
       }
     },
     {
+      "rank": 15,
+      "source": "hacker_news",
+      "title": "Show HN: Balancing game for the mobile browser with increasing difficulty",
+      "rawScore": 746,
+      "url": "https://www.balanc3dgame.com/",
+      "meta": {
+        "author": "nargaw",
+        "score": 338,
+        "comments": 102
+      },
+      "signalQuality": 84,
+      "score": 314,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
       "rank": 28,
       "source": "reddit_memes",
       "title": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
-      "rawScore": 1920,
+      "rawScore": 1968,
       "url": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
       "meta": {
         "subreddit": "memes",
-        "ups": 1104,
-        "comments": 272
+        "ups": 1143,
+        "comments": 275
       },
       "signalQuality": -16,
-      "score": 312,
+      "score": 313,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -865,14 +799,80 @@
       }
     },
     {
+      "rank": 10,
+      "source": "reddit_indiegaming",
+      "title": "Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences",
+      "rawScore": 142,
+      "url": "https://www.reddit.com/r/IndieGaming/comments/1rryewg/indie_devs_is_it_really_that_hard_to_get_steam/",
+      "meta": {
+        "subreddit": "IndieGaming",
+        "ups": 10,
+        "comments": 44
+      },
+      "signalQuality": 90,
+      "score": 294,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
       "rank": 5,
       "source": "reddit_gamedev",
+      "title": "According to Valve 5863 games earned over 100 000 dollars on Steam in 2025.",
+      "rawScore": 725,
+      "url": "https://www.reddit.com/r/gamedev/comments/1rqtmvv/according_to_valve_5863_games_earned_over_100_000/",
+      "meta": {
+        "subreddit": "gamedev",
+        "ups": 458,
+        "comments": 89
+      },
+      "signalQuality": 54,
+      "score": 289,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 38,
+      "source": "github_games",
+      "title": "networked-aframe A web framework for building multi-user virtual reality experiences.",
+      "rawScore": 1807,
+      "url": "https://github.com/networked-aframe/networked-aframe",
+      "meta": {
+        "fullName": "networked-aframe/networked-aframe",
+        "stars": 1203,
+        "forks": 302
+      },
+      "signalQuality": 30,
+      "score": 274,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 13,
+      "source": "reddit_gamedev",
       "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
-      "rawScore": 278,
+      "rawScore": 276,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 155,
+        "ups": 153,
         "comments": 41
       },
       "signalQuality": 72,
@@ -891,18 +891,18 @@
     {
       "releaseSlot": 1,
       "trend": {
-        "rank": 30,
-        "source": "github_games",
-        "title": "sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.",
-        "rawScore": 4424,
-        "url": "https://github.com/hackclub/sprig",
+        "rank": 21,
+        "source": "reddit_gamedev",
+        "title": "What is considered too big for an indie project?",
+        "rawScore": 176,
+        "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
         "meta": {
-          "fullName": "hackclub/sprig",
-          "stars": 1068,
-          "forks": 1678
+          "subreddit": "gamedev",
+          "ups": 17,
+          "comments": 53
         },
-        "signalQuality": 66,
-        "score": 339,
+        "signalQuality": 70,
+        "score": 254,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -912,48 +912,10 @@
           "matches": []
         }
       },
-      "outputSlug": "sprig-learn-to-code-by-making-games-in-a-javascript-web-based-",
-      "ideaSeedId": "neon-orb-rush",
-      "ideaSeedName": "Neon Orb Rush",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"sprig 🍃 Learn to code by making games in a JavaScript web-based game editor.\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
-      "buildStrategyId": "single_file",
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "genre": "arcade",
-      "sessionMinutes": 2
-    },
-    {
-      "releaseSlot": 2,
-      "trend": {
-        "rank": 15,
-        "source": "hacker_news",
-        "title": "Show HN: Balancing game for the mobile browser with increasing difficulty",
-        "rawScore": 746,
-        "url": "https://www.balanc3dgame.com/",
-        "meta": {
-          "author": "nargaw",
-          "score": 338,
-          "comments": 102
-        },
-        "signalQuality": 84,
-        "score": 314,
-        "ratingAudit": {
-          "ratingPolicy": "apple-9+",
-          "ratingLabel": "Apple 9+",
-          "engine": "rules",
-          "allowed": true,
-          "highestSeverity": 0,
-          "matches": []
-        }
-      },
-      "outputSlug": "show-hn-balancing-game-for-the-mobile-browser-with-increasing-",
+      "outputSlug": "what-is-considered-too-big-for-an-indie-project-pulse-pattern-",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Show HN: Balancing game for the mobile browser with increasing difficulty\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"What is considered too big for an indie project?\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
       "buildStrategyId": "cabinet_arcade",
       "capabilities": [
         "touch",
@@ -965,20 +927,20 @@
       "sessionMinutes": 4
     },
     {
-      "releaseSlot": 3,
+      "releaseSlot": 2,
       "trend": {
-        "rank": 20,
-        "source": "reddit_memes",
-        "title": "Galas or dating apps, neither of them work for me 🥹🥹",
-        "rawScore": 2029,
-        "url": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
+        "rank": 1,
+        "source": "reddit_webgames",
+        "title": "Signal Drift - tune alien transmissions out of static in this free browser puzzle game",
+        "rawScore": 8,
+        "url": "https://www.reddit.com/r/WebGames/comments/1rs4ju9/signal_drift_tune_alien_transmissions_out_of/",
         "meta": {
-          "subreddit": "memes",
-          "ups": 1915,
-          "comments": 38
+          "subreddit": "webgames",
+          "ups": 2,
+          "comments": 2
         },
-        "signalQuality": -16,
-        "score": 315,
+        "signalQuality": 90,
+        "score": 188,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -988,10 +950,48 @@
           "matches": []
         }
       },
-      "outputSlug": "galas-or-dating-apps-neither-of-them-work-for-me-skyline-dodge",
+      "outputSlug": "signal-drift-tune-alien-transmissions-out-of-static-in-this-fr",
+      "ideaSeedId": "gravity-basket",
+      "ideaSeedName": "Gravity Basket",
+      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"Signal Drift - tune alien transmissions out of static in this free browser puzzle game\" using \"Move a catcher to collect falling items while avoiding decoys.\". Extra twist: bias toward mobile thumb ergonomics.",
+      "buildStrategyId": "single_file",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "arcade",
+      "sessionMinutes": 3
+    },
+    {
+      "releaseSlot": 3,
+      "trend": {
+        "rank": 18,
+        "source": "reddit_indiegaming",
+        "title": "Indie games that made me rethink what gaming could be",
+        "rawScore": 130,
+        "url": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
+        "meta": {
+          "subreddit": "IndieGaming",
+          "ups": 64,
+          "comments": 22
+        },
+        "signalQuality": 72,
+        "score": 273,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "indie-games-that-made-me-rethink-what-gaming-could-be-skyline-",
       "ideaSeedId": "skyline-dodge",
       "ideaSeedName": "Skyline Dodge",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Galas or dating apps, neither of them work for me 🥹🥹\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Indie games that made me rethink what gaming could be\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
       "buildStrategyId": "split_runtime",
       "capabilities": [
         "touch",
@@ -1005,18 +1005,18 @@
     {
       "releaseSlot": 4,
       "trend": {
-        "rank": 10,
-        "source": "reddit_indiegaming",
-        "title": "Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences",
-        "rawScore": 142,
-        "url": "https://www.reddit.com/r/IndieGaming/comments/1rryewg/indie_devs_is_it_really_that_hard_to_get_steam/",
+        "rank": 25,
+        "source": "reddit_webgames",
+        "title": "My dad taught me to drive tractors 20 years ago. I don’t think this is quite what he had in mind... 🚜💨 Testing the drift physics for my browser game. What do you guys think? #TractorDrift #IndieDev #Gaming #WebDev",
+        "rawScore": 1,
+        "url": "https://www.reddit.com/r/WebGames/comments/1rs1m00/my_dad_taught_me_to_drive_tractors_20_years_ago_i/",
         "meta": {
-          "subreddit": "IndieGaming",
-          "ups": 10,
-          "comments": 44
+          "subreddit": "webgames",
+          "ups": 1,
+          "comments": 0
         },
         "signalQuality": 90,
-        "score": 294,
+        "score": 188,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1026,35 +1026,35 @@
           "matches": []
         }
       },
-      "outputSlug": "indie-devs-is-it-really-that-hard-to-get-steam-wishlists-hones",
-      "ideaSeedId": "pulse-pattern",
-      "ideaSeedName": "Pulse Pattern",
-      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
-      "buildStrategyId": "cabinet_arcade",
+      "outputSlug": "my-dad-taught-me-to-drive-tractors-20-years-ago-i-dont-think-t",
+      "ideaSeedId": "color-swap-lanes",
+      "ideaSeedName": "Color Swap Lanes",
+      "ideaPrompt": "Autoresearch cycle 4: design a non-template casual game around \"My dad taught me to drive tractors 20 years ago. I don’t think this is quite what he had in mind... 🚜💨 Testing the drift physics for my browser game. What do you guys think? #TractorDrift #IndieDev #Gaming #WebDev\" using \"Switch lanes and match colors with incoming gates.\". Extra twist: include one novelty mechanic tied to the trend title.",
+      "buildStrategyId": "split_runtime",
       "capabilities": [
         "touch",
         "audio",
         "offline",
         "leaderboard"
       ],
-      "genre": "puzzle",
-      "sessionMinutes": 4
+      "genre": "action",
+      "sessionMinutes": 3
     },
     {
       "releaseSlot": 5,
       "trend": {
-        "rank": 38,
-        "source": "github_games",
-        "title": "networked-aframe A web framework for building multi-user virtual reality experiences.",
-        "rawScore": 1807,
-        "url": "https://github.com/networked-aframe/networked-aframe",
+        "rank": 36,
+        "source": "reddit_memes",
+        "title": "Real business",
+        "rawScore": 21032,
+        "url": "https://www.reddit.com/r/memes/comments/1rrq1vx/real_business/",
         "meta": {
-          "fullName": "networked-aframe/networked-aframe",
-          "stars": 1203,
-          "forks": 302
+          "subreddit": "memes",
+          "ups": 20771,
+          "comments": 87
         },
-        "signalQuality": 30,
-        "score": 274,
+        "signalQuality": -134,
+        "score": 298,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1064,10 +1064,10 @@
           "matches": []
         }
       },
-      "outputSlug": "networked-aframe-a-web-framework-for-building-multi-user-virtu",
-      "ideaSeedId": "gravity-basket",
-      "ideaSeedName": "Gravity Basket",
-      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"networked-aframe A web framework for building multi-user virtual reality experiences.\" using \"Move a catcher to collect falling items while avoiding decoys.\". Extra twist: bias toward mobile thumb ergonomics.",
+      "outputSlug": "real-business-neon-orb-rush-c1",
+      "ideaSeedId": "neon-orb-rush",
+      "ideaSeedName": "Neon Orb Rush",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Real business\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
       "buildStrategyId": "single_file",
       "capabilities": [
         "touch",
@@ -1076,12 +1076,12 @@
         "leaderboard"
       ],
       "genre": "arcade",
-      "sessionMinutes": 3
+      "sessionMinutes": 2
     }
   ],
-  "generatedAt": "2026-03-13T00:15:18.778Z",
+  "generatedAt": "2026-03-13T00:36:08.372Z",
   "autoresearch": {
-    "runId": "20260313000454",
+    "runId": "20260313002522",
     "cycles": 4,
     "exploreCount": 3,
     "publishCount": 5,
