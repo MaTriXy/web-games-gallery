@@ -1,0 +1,41 @@
+{
+  "title": "Official Launch Run",
+  "objective": "Survive a 3-minute official launch countdown in the Crimson Desert by dodging debris, flares, and collapsing scaffold pieces while choosing when to enter flashing clearance lanes that boost score but increase danger.",
+  "controls": [
+    {
+      "action": "Dodge lanes",
+      "input": "Swipe left or right",
+      "outcome": "The skiff snaps between runway lanes to avoid hazards."
+    },
+    {
+      "action": "Hold the clearance beam",
+      "input": "Keep your finger down while staying in the marked lane",
+      "outcome": "Builds the Official multiplier as long as you remain inside the beam without getting hit."
+    },
+    {
+      "action": "Break away",
+      "input": "Swipe out of the marked lane at any time",
+      "outcome": "Banks the current multiplier before the beam expires or turns risky."
+    }
+  ],
+  "steps": [
+    "Start on a three-lane desert launch runway with a 180-second countdown.",
+    "Debris streams in from the top: fuel drums, banner poles, flare rockets, and falling launch parts.",
+    "Every few seconds, HQ marks one lane with an Official Clearance beam.",
+    "Staying inside that beam charges a score multiplier, but the next hazard wave increasingly targets or crosses that same lane.",
+    "Swipe out early to keep safe and bank the multiplier, or stay longer for bigger points before the beam collapses.",
+    "Hazard speed, cross-lane patterns, and fake clearance feints intensify until the final launch burst."
+  ],
+  "scoring": "Earn points for every second survived and every hazard wave cleared. Staying in an Official Clearance beam increases a multiplier up to x8, and swiping out before impact banks it into your score. Getting hit resets the",
+  "tips": [
+    "Do not sit in a clearance beam too long; the safest beam is rarely the highest-value beam.",
+    "Bank multipliers before mixed cross-lane waves, especially when flare sirens sound.",
+    "Audio helps: a clean chime means safe beam start, a harsher alarm means that lane is about to be punished.",
+    "Short, early banks usually beat one greedy run if you want consistent leaderboard scores."
+  ],
+  "trendContext": {
+    "source": "reddit_gaming",
+    "title": "Official Launch Trailer | Crimson Desert",
+    "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/"
+  }
+}

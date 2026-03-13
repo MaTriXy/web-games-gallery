@@ -1,36 +1,39 @@
 {
-  "title": "Server-Survival: Tower Catch",
-  "objective": "Survive a 3-minute traffic siege by catching the right falling infrastructure pieces to stabilize the tower while avoiding harmful packets, overload debris, and bad scaling choices.",
+  "title": "Neon Orb Rush: Tower Uplink",
+  "objective": "Survive a 3-minute traffic storm by clearing neon request orbs before they reach the tower core, while triggering short autoscale windows to stabilize overloaded floors and build score combos.",
   "controls": [
     {
-      "action": "Slide cradle",
-      "input": "Drag left or right with one thumb along the bottom rail",
-      "outcome": "Moves the load-balancer cradle under falling items"
+      "action": "Burst a request orb",
+      "input": "Tap a moving neon orb before it reaches the tower",
+      "outcome": "The request is served, the lane is cleared, and your combo rises"
     },
     {
-      "action": "Quick reroute",
-      "input": "Tap with a second thumb while dragging",
-      "outcome": "Flips the cradle between App mode and Cache mode for 3 seconds, changing what counts as safe to catch"
+      "action": "Deploy autoscale",
+      "input": "Tap a flashing tower floor when its scale ring appears",
+      "outcome": "That floor auto-clears matching orbs for a few seconds but leaves other lanes fully manual"
     },
     {
-      "action": "Last-chance burst",
-      "input": "Double-tap the cradle when the meter is full",
-      "outcome": "Triggers a short autoscale pulse that clears one wave of junk and slows drops"
+      "action": "Patch an overload",
+      "input": "Tap a red overheating floor twice quickly",
+      "outcome": "Prevents a temporary shutdown that would disable scoring on that floor"
     }
   ],
   "steps": [
-    "Clean request blocks, cache capsules, and server blades fall from the tower lanes above.",
-    "Catch items that match the cradle's current mode to patch the tower and build combo.",
-    "Avoid bot packets, corrupted logs, and overheated hardware chunks; each bad catch costs tower health.",
-    "Every few seconds a traffic spike changes demand: App mode may become dangerous while Cache mode scores double, or the reverse.",
-    "Survive escalating waves as drop speed, fake decoys, and mixed traffic patterns increase until final meltdown timer ends."
+    "Neon request orbs stream toward three stacked tower floors from the screen edges and curve inward as they approach their target floor.",
+    "Tap orbs before impact to keep the server tower alive; missed orbs become breach hits, and too many breaches trigger a full outage failstate",
+    "Each clean hit adds combo, and combo boosts score multiplier until you miss, hit a decoy orb, or let a floor overheat.",
+    "Every few seconds one floor flashes with a scale ring; tap it to deploy a brief autoscale mode that clears its own traffic automatically.",
+    "The twist: during each autoscale window, a different floor enters a volatile reroute state where some orbs suddenly swap lanes mid-flight,so",
+    "Read the telegraphs: true request orbs leave a solid lane trail, rerouted orbs blink before switching floors, and decoy cache ghosts shimmer",
+    "Traffic density, orb speed, lane swaps, and overheat frequency escalate until the end of the short session."
   ],
-  "scoring": "Score 10 points per correct catch, plus a combo multiplier that rises every 3 clean catches up to x5. Catching the demanded traffic type during a spike gives bonus points and extends combo time. Any bad catch, miss on a",
+  "scoring": "Score comes from served requests, with a rising multiplier for uninterrupted clears. Activating autoscale at high combo adds a bonus, and end-of-run score goes to a simple local offline leaderboard.",
   "tips": [
-    "Stay near center so one-thumb slides can reach either lane before a spike lands.",
-    "Use reroute only when the spike banner changes; flipping too early turns safe pieces into hazards.",
-    "Build combo on common traffic, then spend autoscale burst when bot swarms crowd the screen.",
-    "Watch tower windows: flashing blue means cache demand, flashing green means app demand."
+    "Prioritize orbs closest to the tower; breaches matter more than long combo greed.",
+    "Use autoscale on the busiest floor, not the emptiest one.",
+    "Watch for the blink telegraph before a reroute orb changes floors.",
+    "Patch overheats immediately or that floor stops paying combo points.",
+    "Audio helps: clean chimes mark safe clears, a harsh alarm warns of reroutes, and bass pulses signal incoming surge waves."
   ],
   "trendContext": {
     "source": "github_games",

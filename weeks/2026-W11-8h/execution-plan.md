@@ -1,27 +1,27 @@
-# Autoresearch Build Promotion - 2026-W11-8h
+# Continuous Best Of Session - 2026-W11-8h
 
 ## Context
 
-Promote 5 autoresearch winners into build/weeks/2026-W11-8h.
-Source run: 20260313065651. Mode: trending.
+Retain the strongest games from continuous session 20260312230424.
+Aggregate winners across successful iterations and keep the top 5.
 
 ## Constraints
 
-- Keep the promoted release self-contained under build/weeks/<weekKey>/.
-- Prune stale game folders so the release directory matches the promoted manifest.
-- Do not regenerate promoted winners; copy the selected candidate artifacts as-is.
+- Copy the best session candidates as-is without regenerating them.
+- Prune stale folders so build/weeks/<weekKey>/ contains only the retained final winners.
+- Preserve the standard build artifact contract.
 
 ## Plan
 
-1. Select top autoresearch candidates after scoring.
-2. Copy winners into the weekly build folder.
-3. Write manifest.json, plan.json, README.md, and execution-plan.md for the promoted release.
+1. Load selected winners from each successful iteration.
+2. Rank and deduplicate them across the session.
+3. Copy the best set into the final build release and refresh the Pages gallery.
 
 ## Status
 
-- `done`: 5 candidates promoted from autoresearch run 20260313065651
-- `done`: build release folder refreshed for 2026-W11-8h
-- `done`: build artifacts written
+- `done`: 120 session winners considered
+- `done`: 5 final games retained for 2026-W11-8h
+- `done`: final build artifacts written
 
 ## Verification
 

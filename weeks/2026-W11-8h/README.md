@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T07:07:29.730Z
+Generated at: 2026-03-13T07:07:31.667Z
 
-Mode: trending
+Mode: trending_continuous_best_of_session
 Source scope: all
 
 ## Included games
-- slot 1: networked-aframe-a-web-framework-for-building-multi-user-virtu (puzzle, 4 min) <- networked-aframe A web framework for building multi-user virtual reality experiences.
-- slot 2: global-sales-of-pokmon-pokopia-for-switch-2-surpass-22-million (arcade, 2 min) <- Global Sales of Pokémon Pokopia for Switch 2 surpass 2.2 Million in First Four Days
-- slot 3: show-hn-balancing-game-for-the-mobile-browser-with-increasing- (action, 3 min) <- Show HN: Balancing game for the mobile browser with increasing difficulty
-- slot 4: server-survival-tower-defense-game-that-teaches-cloud-architec (arcade, 3 min) <- server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
-- slot 5: nasa-satellite-crash-earth-pulse-pattern-c2 (puzzle, 4 min) <- nasa satellite crash earth
+- slot 1: gamedevmind-game-development-map-neon-orb-rush-c1 (Casual Arcade, 3 min) <- GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
+- slot 2: difference-between-1775-2026-pulse-pattern-c1 (Rhythm Memory, 3 min) <- Difference between 1775 2026
+- slot 3: official-launch-trailer-crimson-desert-skyline-dodge-c1 (Arcade Dodging, 3 min) <- Official Launch Trailer | Crimson Desert
+- slot 4: best-i-can-offer-is-20-pulse-pattern-c1 (Rhythm Bargaining, 3 min) <- Best I can offer is 20$
+- slot 5: server-survival-tower-defense-game-that-teaches-cloud-architec (Arcade Strategy, 3 min) <- server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated

@@ -1,11 +1,11 @@
-const GAME_TITLE = `Balancing Collapse Run`;
-const ACCENT = `#FF6A3D`;
+const GAME_TITLE = `Official Launch Run`;
+const ACCENT = `#C83A2A`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Show HN: Balancing game for the mobile browser with increasing difficulty`;
-const MOTIF_A = `balancing`;
-const MOTIF_B = `mobile`;
-const OBJECTIVE_TAG = `balancing vs mobile`;
-const STAR_THRESHOLDS = [1200,2600,4200];
+const THEME_LABEL = `Official Launch Trailer | Crimson Desert`;
+const MOTIF_A = `official`;
+const MOTIF_B = `launch`;
+const OBJECTIVE_TAG = `official vs launch`;
+const STAR_THRESHOLDS = [1200,3200,6500];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");
