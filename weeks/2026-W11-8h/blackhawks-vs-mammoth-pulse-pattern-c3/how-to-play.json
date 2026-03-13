@@ -1,0 +1,41 @@
+{
+  "title": "Clash Cadence: Blackhawks vs Mammoth",
+  "objective": "Survive a 2-4 minute showdown by correctly replaying escalating Blackhawks and Mammoth pulse patterns, building combo multipliers before three missed calls trigger a full break in the line.",
+  "controls": [
+    {
+      "action": "Replay a Blackhawks pulse",
+      "input": "Tap the upper half of the screen",
+      "outcome": "Queues a sky-call beat for the circling Blackhawks"
+    },
+    {
+      "action": "Replay a Mammoth pulse",
+      "input": "Tap the lower half of the screen",
+      "outcome": "Queues a ground-stomp beat for the charging Mammoth"
+    },
+    {
+      "action": "Commit the sequence",
+      "input": "Pause briefly after the last input",
+      "outcome": "Submits the full pattern for scoring and combo checks"
+    }
+  ],
+  "steps": [
+    "A short pattern plays with sharp hawk cries on upper-screen beats and heavy mammoth drum-stomps on lower-screen beats.",
+    "The player replays the exact order by tapping upper and lower zones in rhythm.",
+    "Every cleared round adds one new beat, slightly increases tempo, and raises the score multiplier.",
+    "Every few rounds a Clash Beat appears: the next pulse flashes both lanes, and the player must choose which side to echo; matching the safer,",
+    "scoring",
+    "Correct beats score points, perfect full-pattern replays increase a combo multiplier up to x8, Clash Beat wins grant a burst bonus, and any"
+  ],
+  "scoring": "Correct beats score points, perfect full-pattern replays increase a combo multiplier up to x8, Clash Beat wins grant a burst bonus, and any mistake breaks the combo; the final score feeds a simple offline-friendly local/",
+  "tips": [
+    "Listen first: Blackhawks are always higher-pitched, Mammoth beats are always deeper.",
+    "Use the screen halves like two instruments, not two buttons.",
+    "On Clash Beats, pick the side with the shorter recent rhythm if you want to protect your combo.",
+    "Perfect replays matter more than survival taps because the multiplier carries the leaderboard run."
+  ],
+  "trendContext": {
+    "source": "google_trends",
+    "title": "blackhawks vs mammoth",
+    "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+  }
+}

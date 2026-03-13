@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T00:56:46.766Z
+Generated at: 2026-03-13T01:17:09.170Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: convictions-in-my-game-somewhat-similar-to-perks-but-more-impo (arcade, 2 min) <- Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?
-- slot 2: playable-snake-game-in-the-browser-no-downloads-works-on-mobil (puzzle, 4 min) <- Playable Snake game in the browser – no downloads, works on mobile
-- slot 3: whats-something-new-game-devs-over-engineer-that-experienced-t (action, 3 min) <- What’s something new game devs over-engineer that experienced teams keep simple?
-- slot 4: hiring-yourself-is-technically-free-right-skyline-dodge-c1 (action, 3 min) <- Hiring yourself is technically free, right?
-- slot 5: elitemobb-mafia-strategy-browser-game-beta-pulse-pattern-c3 (puzzle, 4 min) <- EliteMobb — Mafia Strategy Browser Game (Beta)
+- slot 1: gdevelop-open-source-cross-platform-2d3dmultiplayer-game-engin (arcade, 3 min) <- GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
+- slot 2: blackhawks-vs-mammoth-pulse-pattern-c3 (puzzle, 4 min) <- blackhawks vs mammoth
+- slot 3: highguard-has-now-officially-shutdown-color-swap-lanes-c4 (action, 3 min) <- Highguard has now officially shutdown
+- slot 4: global-sales-of-pokmon-pokopia-for-switch-2-surpass-22-million (arcade, 2 min) <- Global Sales of Pokémon Pokopia for Switch 2 surpass 2.2 Million in First Four Days
+- slot 5: crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa (arcade, 2 min) <- Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated

@@ -1,11 +1,11 @@
-const GAME_TITLE = `Hire Yourself, Inc.`;
-const ACCENT = `#ff6b2c`;
+const GAME_TITLE = `Highguard Collapse Run`;
+const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Hiring yourself is technically free, right?`;
-const MOTIF_A = `hiring`;
-const MOTIF_B = `yourself`;
-const OBJECTIVE_TAG = `hiring vs yourself`;
-const STAR_THRESHOLDS = [1200,2600,4800];
+const THEME_LABEL = `Highguard has now officially shutdown`;
+const MOTIF_A = `highguard`;
+const MOTIF_B = `officially`;
+const OBJECTIVE_TAG = `highguard vs officially`;
+const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

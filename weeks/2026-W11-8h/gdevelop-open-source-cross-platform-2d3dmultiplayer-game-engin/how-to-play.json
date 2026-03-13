@@ -1,0 +1,42 @@
+{
+  "title": "GDevelop: Open-Source Merge Rush",
+  "objective": "Survive a 2-4 minute maintainer sprint by catching valid open-source drops, avoiding decoys, and riding combo windows to post the highest leaderboard score offline or online later.",
+  "controls": [
+    {
+      "action": "Slide basket",
+      "input": "Drag left or right with one thumb along the bottom lane",
+      "outcome": "Moves the repo basket under falling drops for catches or evasions"
+    },
+    {
+      "action": "Quick lane snap",
+      "input": "Tap left or right side of the screen",
+      "outcome": "Jumps the basket one lane for fast saves on narrow patterns"
+    },
+    {
+      "action": "Commit mode check",
+      "input": "Watch the large badge above the basket",
+      "outcome": "Tells you which drop type currently extends combo and which one breaks it"
+    }
+  ],
+  "steps": [
+    "Open-source assets, code commits, bugfix gears, and GDevelop engine parts fall from the top in three to five lanes.",
+    "Catch the currently approved open-source drops to build combo and multiplier.",
+    "Avoid closed-source padlocks, broken plugins, and fake fork crates; three bad catches or misses end the run.",
+    "Every few seconds a big branch banner flips the rule between BUILD mode and REVIEW mode.",
+    "In BUILD mode, catch green commits and engine parts freely; in REVIEW mode, only catch items stamped with the matching open-source license,s",
+    "The twist: during each branch flip, one decoy briefly becomes valuable if it lands immediately after its matching commit, creating a risky 2",
+    "Audio cues signal safe catches, combo tiers, and upcoming branch flips so the game works well on mobile without constant text reading."
+  ],
+  "scoring": "Each clean catch scores points; consecutive valid catches increase a combo multiplier up to x8. During branch-flip windows, catching a matching commit-then-fork pair grants a short 'Merge Bonus' burst worth extra points.",
+  "tips": [
+    "Keep your thumb low and make short drags; lane snaps are safer than chasing every drop.",
+    "Listen for the branch-flip sting; the correct target rule changes before the banner fully lands.",
+    "Skip risky edge drops when your combo is high; survival usually beats one greedy catch.",
+    "Use REVIEW mode to hunt the bonus pair only when the basket is already centered."
+  ],
+  "trendContext": {
+    "source": "github_games",
+    "title": "GDevelop 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+    "url": "https://github.com/4ian/GDevelop"
+  }
+}
