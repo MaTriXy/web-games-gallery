@@ -1,0 +1,39 @@
+{
+  "title": "Cobie Pattern Lock",
+  "description": "Rebuild broken cobie sequences under pressure by replaying unstable patterns before the durant surge wipes your combo.",
+  "category": "Pattern Puzzle",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#4f46e5",
+  "starThresholds": [
+    900,
+    1800,
+    3000
+  ],
+  "howToPlayJson": {
+    "title": "Cobie Pattern Lock",
+    "objective": "Repair escalating cobie patterns over a short run, balancing speed against accuracy as fake pulses and blackout beats try to force a mistake.",
+    "controls": [
+      {
+        "action": "Repeat the lit pattern",
+        "input": "Tap pads in order",
+        "outcome": "Stabilize the sequence and build multiplier"
+      },
+      {
+        "action": "Read the glitch beat",
+        "input": "Pause for decoy flashes",
+        "outcome": "Avoid trap pulses that would break the streak"
+      }
+    ],
+    "steps": [
+      "A fresh cobie pattern flashes across the board, then fades into static.",
+      "You replay the real sequence while the game injects decoy beats and faster blackout windows.",
+      "Long clean chains raise the multiplier, but one wrong pad triggers a durant shock that resets the combo clock."
+    ],
+    "scoring": "Perfect pattern recalls score the most, especially when chained across blackout rounds. Late-round sequences are worth more because the fake pulses arrive faster.",
+    "tips": [
+      "Chunk the pattern into two-beat phrases instead of memorizing the whole line at once.",
+      "Decoy flashes often echo durant; wait a breath for the true cobie beat.",
+      "If the board speeds up, protect the streak before chasing a risky perfect clear."
+    ]
+  }
+}

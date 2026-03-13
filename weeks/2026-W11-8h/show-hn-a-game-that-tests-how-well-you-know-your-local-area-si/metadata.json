@@ -1,6 +1,6 @@
 {
-  "title": "Fuel Triage",
-  "description": "Tap true fuel calls, reject prices decoys, and hold a growing combo as the prices feed floods faster every wave.",
+  "title": "Tests Triage",
+  "description": "Tap true tests calls, reject well decoys, and hold a growing combo as the show feed floods faster every wave.",
   "category": "Arcade Tactics",
   "iconName": "gamecontroller.fill",
   "accentColor": "#4f46e5",
@@ -10,8 +10,8 @@
     2600
   ],
   "howToPlayJson": {
-    "title": "Fuel Triage",
-    "objective": "Sort the live fuel feed under pressure, chasing multiplier windows without letting decoys or missed calls collapse the run.",
+    "title": "Tests Triage",
+    "objective": "Sort the live tests feed under pressure, chasing multiplier windows without letting decoys or missed calls collapse the run.",
     "controls": [
       {
         "action": "Tap a live call",
@@ -25,13 +25,13 @@
       }
     ],
     "steps": [
-      "Three targets appear at once, but only one is the live fuel action worth taking.",
+      "Three targets appear at once, but only one is the live tests action worth taking.",
       "Every correct tap shortens the next decision window and raises the multiplier ceiling.",
-      "Mistakes or hesitations trigger an prices penalty that eats time and resets the combo."
+      "Mistakes or hesitations trigger an show penalty that eats time and resets the combo."
     ],
     "scoring": "Correct calls build combo tiers and unlock bigger point jumps. The highest scores come from surviving faster waves without cashing out the streak.",
     "tips": [
-      "Read the full fuel label before tapping; decoys are designed to steal rushed fingers.",
+      "Read the full tests label before tapping; decoys are designed to steal rushed fingers.",
       "Tempo matters more than pure speed; one missed window hurts more than a calm half-second read.",
       "Use early easy waves to build multiplier, then play cleaner once the board starts lying."
     ]

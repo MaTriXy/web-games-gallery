@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T05:01:26.206Z
+Generated at: 2026-03-13T05:23:02.938Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: his-cardiologist-was-definitely-watching-him-skyline-dodge-c1 (action, 3 min) <- His Cardiologist was definitely watching him
-- slot 2: launching-a-steam-page-how-many-wishlists-do-you-expect-pulse- (puzzle, 4 min) <- Launching a Steam page, how many wishlists do YOU expect?
-- slot 3: all-games-with-loot-boxes-in-them-will-be-rated-minimum-pegi-1 (arcade, 2 min) <- All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation
-- slot 4: gridbadger-a-live-multiplayer-pixel-grid-where-every-pixel-can (action, 3 min) <- GridBadger - A live multiplayer pixel grid where every pixel can be flipped, prices rise with each takeover, and you can see everyone's cursors
-- slot 5: fuel-prices-are-crazy-though-neon-orb-rush-c1 (arcade, 2 min) <- Fuel prices are crazy though
+- slot 1: official-launch-trailer-crimson-desert-color-swap-lanes-c3 (action, 3 min) <- Official Launch Trailer | Crimson Desert
+- slot 2: show-hn-a-game-that-tests-how-well-you-know-your-local-area-si (arcade, 2 min) <- Show HN: A game that tests how well you know your local area
+- slot 3: cobie-durant-pulse-pattern-c1 (puzzle, 4 min) <- cobie durant
+- slot 4: highguard-has-now-officially-shutdown-pulse-pattern-c3 (puzzle, 4 min) <- Highguard has now officially shutdown
+- slot 5: anyone-find-themselves-opening-up-their-game-libraries-staring (arcade, 3 min) <- Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated

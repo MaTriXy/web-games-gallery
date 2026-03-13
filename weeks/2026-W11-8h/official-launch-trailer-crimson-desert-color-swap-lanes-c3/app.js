@@ -1,11 +1,11 @@
-const GAME_TITLE = `Definitely Under Observation`;
-const ACCENT = `#E94B5B`;
+const GAME_TITLE = `Official Launch Run`;
+const ACCENT = `#C8442D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `His Cardiologist was definitely watching him`;
-const MOTIF_A = `cardiologist`;
-const MOTIF_B = `definitely`;
-const OBJECTIVE_TAG = `cardiologist vs definitely`;
-const STAR_THRESHOLDS = [1200,2600,4500];
+const THEME_LABEL = `Official Launch Trailer | Crimson Desert`;
+const MOTIF_A = `official`;
+const MOTIF_B = `launch`;
+const OBJECTIVE_TAG = `official vs launch`;
+const STAR_THRESHOLDS = [800,1600,2600];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");
