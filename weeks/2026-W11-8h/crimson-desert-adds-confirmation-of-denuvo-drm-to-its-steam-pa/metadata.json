@@ -1,0 +1,48 @@
+{
+  "title": "Crimson Seal Sprint",
+  "description": "Race across the crimson desert by memorizing beacon pulses and replaying them before fresh seal-stamps lock the route.",
+  "category": "Memory Rhythm",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#C63A2B",
+  "starThresholds": [
+    1200,
+    2600,
+    4800
+  ],
+  "howToPlayJson": {
+    "title": "Crimson Seal Sprint",
+    "objective": "Repeat growing pulse sequences on desert beacons, adapt to sudden seal-stamp rule changes, and keep your combo alive long enough to post the highest sprint score before three mistakes end the run.",
+    "controls": [
+      {
+        "action": "Replay pulse",
+        "input": "Tap a glowing dune beacon",
+        "outcome": "Inputs that match the current sequence advance the route and build combo."
+      },
+      {
+        "action": "Bury sealed beat",
+        "input": "Long-press a beacon marked with a crimson seal",
+        "outcome": "Correctly converts a locked pulse into a safe reroute and preserves the multiplier."
+      },
+      {
+        "action": "Bank streak",
+        "input": "Two-finger tap during the score flash between rounds",
+        "outcome": "Safely locks in part of your combo bonus before the next harder pattern starts."
+      }
+    ],
+    "steps": [
+      "Four to six dune beacons appear in a small arc at the bottom of the screen, each with a distinct drum or synth tone.",
+      "The game plays a short pulse pattern across the beacons; each cleared round adds one new beat and slightly increases playback speed.",
+      "You replay the full pattern from memory by tapping the beacons in order.",
+      "Every few seconds, one beat gets 'confirmed' by a crimson seal: sealed beats must be long-pressed instead of tapped when their turn comes.",
+      "Clearing rounds without errors raises the combo multiplier; choosing to bank between rounds protects some bonus but costs a little time.",
+      "A wrong tap, a missed long-press, or running out of the brief input timer costs a heart; losing three hearts ends the session."
+    ],
+    "scoring": "Score comes from correct beats, fast replays, and unbroken combo chains. Consecutive perfect rounds raise a multiplier up to 8x. Banking converts half your live combo into permanent points, creating a risk-reward loop. A",
+    "tips": [
+      "Listen first: each beacon has its own audio identity, so sound is as important as color.",
+      "Watch for the crimson seal stamp before you start replaying; it changes one decision, not the whole sequence.",
+      "Bank only after long perfect streaks or just before very dense patterns.",
+      "Use the center beacons as anchors, then remember whether the next pulse moves outward or inward."
+    ]
+  }
+}

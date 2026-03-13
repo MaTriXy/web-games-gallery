@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.0.0",
   "weekKey": "2026-W11-8h",
-  "generatedAt": "2026-03-13T05:44:47.939Z",
+  "generatedAt": "2026-03-13T06:05:45.562Z",
   "games": [
     {
-      "slug": "i-built-a-browser-site-where-you-can-play-classic-multiplayer-",
-      "title": "Where on the Site?",
-      "description": "Sprint across a buzzing game site by memorizing pulse routes and tapping the room where each friend-signal belongs before the page drops.",
+      "slug": "crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa",
+      "title": "Crimson Seal Sprint",
+      "description": "Race across the crimson desert by memorizing beacon pulses and replaying them before fresh seal-stamps lock the route.",
       "genre": "puzzle",
       "sessionMinutes": 4,
       "capabilities": [
@@ -15,20 +15,64 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "I built a browser site where you can play classic multiplayer games with friends (Bingo, Draw &amp; Guess, Chess, Tic Tac Toe) — would love feedback",
-      "trendSource": "reddit_webgames",
-      "trendUrl": "https://www.reddit.com/r/WebGames/comments/1rsejac/i_built_a_browser_site_where_you_can_play_classic/",
+      "trendTitle": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
+      "trendSource": "reddit_gaming",
+      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
       "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./i-built-a-browser-site-where-you-can-play-classic-multiplayer-/index.html",
+      "sourcePath": "./crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "it-really-do-be-like-that-neon-orb-rush-c1",
-      "title": "Really Triage",
-      "description": "Tap true really calls, reject like decoys, and hold a growing combo as the like feed floods faster every wave.",
+      "slug": "server-survival-tower-defense-game-that-teaches-cloud-architec",
+      "title": "Server-Survival: Tower Intake",
+      "description": "Drag a load-balancer tower left and right to catch clean traffic, reject attack packets, and keep your server-survival stack online.",
+      "genre": "arcade",
+      "sessionMinutes": 3,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
+      "trendSource": "github_games",
+      "trendUrl": "https://github.com/pshenok/server-survival",
+      "ideaSeedId": "gravity-basket",
+      "ideaSeedName": "Gravity Basket",
+      "buildStrategyId": "single_file",
+      "sourcePath": "./server-survival-tower-defense-game-that-teaches-cloud-architec/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s",
+      "title": "Everytime Collapse Run",
+      "description": "Swipe through collapsing everytime lanes, bait risky attempt boosts, and stretch your combo before the grid shuts down.",
+      "genre": "action",
+      "sessionMinutes": 3,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
+      "trendSource": "reddit_memes",
+      "trendUrl": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
+      "ideaSeedId": "color-swap-lanes",
+      "ideaSeedName": "Color Swap Lanes",
+      "buildStrategyId": "split_runtime",
+      "sourcePath": "./everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s/index.html",
+      "generationEngine": "native_builder",
+      "generationReason": "timeout"
+    },
+    {
+      "slug": "launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g",
+      "title": "Launch Triage",
+      "description": "Tap true launch calls, reject rosebud decoys, and hold a growing combo as the rosebud feed floods faster every wave.",
       "genre": "arcade",
       "sessionMinutes": 2,
       "capabilities": [
@@ -37,42 +81,20 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "it really do be like that",
-      "trendSource": "reddit_memes",
-      "trendUrl": "https://www.reddit.com/r/memes/comments/1rrpkn4/it_really_do_be_like_that/",
+      "trendTitle": "Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games",
+      "trendSource": "hacker_news",
+      "trendUrl": "https://news.ycombinator.com/item?id=38868185",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
       "buildStrategyId": "single_file",
-      "sourcePath": "./it-really-do-be-like-that-neon-orb-rush-c1/index.html",
+      "sourcePath": "./launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g/index.html",
       "generationEngine": "native_builder",
       "generationReason": "timeout"
     },
     {
-      "slug": "i-decided-to-quit-game-developement-what-should-i-do-with-my-s",
-      "title": "Decided Collapse Run",
-      "description": "Swipe through collapsing decided lanes, bait risky quit boosts, and stretch your combo before the grid shuts down.",
-      "genre": "action",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "I decided to quit game developement, what should i do with my steam page?",
-      "trendSource": "reddit_gamedev",
-      "trendUrl": "https://www.reddit.com/r/gamedev/comments/1rs5cox/i_decided_to_quit_game_developement_what_should_i/",
-      "ideaSeedId": "skyline-dodge",
-      "ideaSeedName": "Skyline Dodge",
-      "buildStrategyId": "split_runtime",
-      "sourcePath": "./i-decided-to-quit-game-developement-what-should-i-do-with-my-s/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
-    },
-    {
-      "slug": "western-conference-standings-pulse-pattern-c2",
-      "title": "Standing Orders",
-      "description": "Run a tense western conference by memorizing gavel-and-telegraph pulse sequences and slamming the right delegate badges before the chamber breaks into chaos.",
+      "slug": "one-piece-season-3-pulse-pattern-c1",
+      "title": "Season Piece: Cut 3",
+      "description": "Re-stitch a spinning seasonal relic by tapping its shifting slices back in the pulsing order before the pattern tears apart.",
       "genre": "puzzle",
       "sessionMinutes": 4,
       "capabilities": [
@@ -81,37 +103,15 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "western conference standings",
+      "trendTitle": "one piece season 3",
       "trendSource": "google_trends",
       "trendUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
       "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./western-conference-standings-pulse-pattern-c2/index.html",
+      "sourcePath": "./one-piece-season-3-pulse-pattern-c1/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "anyone-find-themselves-opening-up-their-game-libraries-staring",
-      "title": "Anyone Collapse Run",
-      "description": "Swipe through collapsing anyone lanes, bait risky find boosts, and stretch your combo before the grid shuts down.",
-      "genre": "action",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
-      "trendSource": "reddit_gaming",
-      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/",
-      "ideaSeedId": "color-swap-lanes",
-      "ideaSeedName": "Color Swap Lanes",
-      "buildStrategyId": "split_runtime",
-      "sourcePath": "./anyone-find-themselves-opening-up-their-game-libraries-staring/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
     }
   ],
   "sourceReferences": [

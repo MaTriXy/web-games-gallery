@@ -1,10 +1,10 @@
-const GAME_TITLE = `Anyone Collapse Run`;
+const GAME_TITLE = `Everytime Collapse Run`;
 const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Anyone find themselves opening up their game libraries, staring at it for a coup`;
-const MOTIF_A = `anyone`;
-const MOTIF_B = `find`;
-const OBJECTIVE_TAG = `anyone vs find`;
+const THEME_LABEL = `Everytime I attempt to fill up my tank lately I experience a small emotional cri`;
+const MOTIF_A = `everytime`;
+const MOTIF_B = `attempt`;
+const OBJECTIVE_TAG = `everytime vs attempt`;
 const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");

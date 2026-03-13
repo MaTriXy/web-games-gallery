@@ -1,0 +1,49 @@
+{
+  "title": "Season Piece: Cut 3",
+  "description": "Re-stitch a spinning seasonal relic by tapping its shifting slices back in the pulsing order before the pattern tears apart.",
+  "category": "Memory Rhythm",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#ff6b35",
+  "starThresholds": [
+    1200,
+    2600,
+    4800
+  ],
+  "howToPlayJson": {
+    "title": "Season Piece: Cut 3",
+    "objective": "Memorize and replay increasingly fast pulse sequences across seasonal piece-slices, surviving sudden season shifts while building combo for a leaderboard score.",
+    "controls": [
+      {
+        "action": "Replay pulse",
+        "input": "Tap a glowing season slice",
+        "outcome": "Inputs that slice in sequence and plays its musical cue"
+      },
+      {
+        "action": "Stitch hold",
+        "input": "Press and hold the center seam button",
+        "outcome": "Banks the current combo through one incoming season shift"
+      },
+      {
+        "action": "Start run / retry",
+        "input": "Tap the center piece",
+        "outcome": "Begins a new 2-4 minute session immediately"
+      }
+    ],
+    "steps": [
+      "A broken circular relic appears as four large touch slices: Spring, Summer, Autumn, and Winter.",
+      "The game plays a short pulse pattern with distinct drum or chime sounds on the slices.",
+      "The player taps the slices back in order to repair the relic one seam at a time.",
+      "After every successful round, the pattern gains one beat and the playback speed increases slightly.",
+      "Every few seconds a 'season cut' twist triggers: two slices swap positions, so the player must follow sound-and-symbol identity instead of a",
+      "Use the center stitch hold once per round to protect combo through a swap, but holding too early leaves later beats exposed.",
+      "A wrong tap, missed beat, or late input tears the relic and ends the run instantly."
+    ],
+    "scoring": "Score comes from repaired beats plus a combo multiplier that rises with flawless rounds. Perfect replays after a season cut give a bigger multiplier jump. Leaderboard play is simple high score per run.",
+    "tips": [
+      "Learn each season by sound first, not screen position.",
+      "Save the stitch hold for longer patterns with a late swap.",
+      "Perfect rounds are worth more than rushing the first beat.",
+      "Watch the icons on each slice when the cut happens; the board moves, the identity does not."
+    ]
+  }
+}
