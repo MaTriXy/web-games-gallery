@@ -1,10 +1,10 @@
-const GAME_TITLE = `Decided Collapse Run`;
-const ACCENT = `#FF6A3D`;
+const GAME_TITLE = `Rosebud Launch`;
+const ACCENT = `#E85D75`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `I decided to quit game developement, what should i do with my steam page?`;
-const MOTIF_A = `decided`;
-const MOTIF_B = `quit`;
-const OBJECTIVE_TAG = `decided vs quit`;
+const THEME_LABEL = `Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games`;
+const MOTIF_A = `launch`;
+const MOTIF_B = `rosebud`;
+const OBJECTIVE_TAG = `launch vs rosebud`;
 const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");

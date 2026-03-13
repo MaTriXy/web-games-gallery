@@ -1,10 +1,10 @@
-const GAME_TITLE = `Server-survival Collapse Run`;
+const GAME_TITLE = `Crimson Collapse Run`;
 const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `server-survival Tower defense game that teaches cloud architecture. Build infras`;
-const MOTIF_A = `server-survival`;
-const MOTIF_B = `tower`;
-const OBJECTIVE_TAG = `server-survival vs tower`;
+const THEME_LABEL = `Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from`;
+const MOTIF_A = `crimson`;
+const MOTIF_B = `desert`;
+const OBJECTIVE_TAG = `crimson vs desert`;
 const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");

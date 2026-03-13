@@ -1,0 +1,47 @@
+{
+  "title": "Rosebud Launch",
+  "description": "Swipe a fragile rosebud capsule across a launch corridor to dodge wreckage and trigger risky blooms for bigger scores.",
+  "category": "Arcade Survival",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#E85D75",
+  "starThresholds": [
+    1200,
+    2600,
+    4200
+  ],
+  "howToPlayJson": {
+    "title": "Rosebud Launch",
+    "objective": "Keep the rosebud alive through a 2-4 minute launch sequence, survive escalating hazard waves, and cash in bloom multipliers for a local offline leaderboard score.",
+    "controls": [
+      {
+        "action": "Dodge lane",
+        "input": "Swipe left or right",
+        "outcome": "The rosebud capsule snaps between three launch lanes to avoid incoming hazards."
+      },
+      {
+        "action": "Bloom burst",
+        "input": "Tap and hold",
+        "outcome": "The rosebud opens for a moment, vacuuming nearby spark fragments for combo score but enlarging its hitbox."
+      },
+      {
+        "action": "Cash combo",
+        "input": "Release hold before impact",
+        "outcome": "Bank the current bloom chain into a score multiplier; holding too long risks a crash."
+      }
+    ],
+    "steps": [
+      "Start in the center lane of a vertical launch shaft with slow-moving debris drifting downward.",
+      "Swipe between lanes to dodge broken gantries, hot bolts, and collapsing browser-panel doors.",
+      "Every few seconds a launch siren sounds and the shaft enters a 'Bloom Window': spark fragments appear between hazards.",
+      "Hold to open the rosebud and absorb sparks for combo charge, but the open petals make the capsule wider and easier to hit.",
+      "Release before the next hazard wave to lock in the combo as a multiplier; if you get greedy, one collision ends the run.",
+      "Waves accelerate over time, mix lane blockers with fake-safe gaps, and add alternating siren patterns so the player keeps re-reading risk."
+    ],
+    "scoring": "Score increases from survival time plus absorbed spark fragments. Each successful Bloom Window raises a multiplier chain; missing a cash-out or crashing loses the run. Best scores feed a simple local leaderboard for fast",
+    "tips": [
+      "Open the rosebud only when two spark lines overlap a safe lane.",
+      "Short bloom holds are safer early; long greedy blooms matter later when waves speed up.",
+      "Use audio: a rising chime means a Bloom Window is live, and a harsh buzzer warns the next hazard burst is entering."
+    ]
+  }
+}

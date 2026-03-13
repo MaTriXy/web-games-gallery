@@ -12,18 +12,18 @@
   "requestedCount": 5,
   "trendCandidates": [
     {
-      "rank": 36,
-      "source": "reddit_memes",
-      "title": "it really do be like that",
-      "rawScore": 3327,
-      "url": "https://www.reddit.com/r/memes/comments/1rrpkn4/it_really_do_be_like_that/",
+      "rank": 22,
+      "source": "github_games",
+      "title": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
+      "rawScore": 7483,
+      "url": "https://github.com/gonglei007/GameDevMind",
       "meta": {
-        "subreddit": "memes",
-        "ups": 2898,
-        "comments": 143
+        "fullName": "gonglei007/GameDevMind",
+        "stars": 6205,
+        "forks": 639
       },
-      "signalQuality": -56,
-      "score": 296,
+      "signalQuality": 54,
+      "score": 345,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -34,18 +34,18 @@
       }
     },
     {
-      "rank": 29,
-      "source": "reddit_gamedev",
-      "title": "I decided to quit game developement, what should i do with my steam page?",
-      "rawScore": 63,
-      "url": "https://www.reddit.com/r/gamedev/comments/1rs5cox/i_decided_to_quit_game_developement_what_should_i/",
+      "rank": 23,
+      "source": "hacker_news",
+      "title": "Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games",
+      "rawScore": 697,
+      "url": "https://news.ycombinator.com/item?id=38868185",
       "meta": {
-        "subreddit": "gamedev",
-        "ups": 3,
-        "comments": 20
+        "author": "lishali88",
+        "score": 293,
+        "comments": 101
       },
-      "signalQuality": 80,
-      "score": 228,
+      "signalQuality": 84,
+      "score": 311,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -80,15 +80,15 @@
     {
       "rank": 8,
       "source": "google_trends",
-      "title": "penguins vs golden knights",
-      "rawScore": 1200,
+      "title": "draper",
+      "rawScore": 20000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 1000
+        "approxTraffic": 20000
       },
-      "signalQuality": 0,
-      "score": 169,
+      "signalQuality": -96,
+      "score": 141,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -101,15 +101,15 @@
     {
       "rank": 16,
       "source": "google_trends",
-      "title": "bulls vs lakers",
-      "rawScore": 10000,
+      "title": "khris middleton",
+      "rawScore": 1600,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 10000
+        "approxTraffic": 500
       },
       "signalQuality": -66,
-      "score": 154,
+      "score": 110,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -122,15 +122,15 @@
     {
       "rank": 24,
       "source": "google_trends",
-      "title": "unc basketball",
-      "rawScore": 10000,
+      "title": "predators vs canucks",
+      "rawScore": 1500,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
         "geo": "US",
-        "approxTraffic": 10000
+        "approxTraffic": 500
       },
-      "signalQuality": -96,
-      "score": 124,
+      "signalQuality": -66,
+      "score": 109,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -143,7 +143,28 @@
     {
       "rank": 32,
       "source": "google_trends",
-      "title": "ku basketball",
+      "title": "lakers vs bulls",
+      "rawScore": 1400,
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "meta": {
+        "geo": "US",
+        "approxTraffic": 500
+      },
+      "signalQuality": -66,
+      "score": 107,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 40,
+      "source": "google_trends",
+      "title": "tcu vs kansas",
       "rawScore": 5000,
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
       "meta": {
@@ -162,61 +183,18 @@
       }
     },
     {
-      "rank": 40,
-      "source": "google_trends",
-      "title": "avalanche vs kraken",
-      "rawScore": 1100,
-      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
-      "meta": {
-        "geo": "US",
-        "approxTraffic": 1000
-      },
-      "signalQuality": -66,
-      "score": 101,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 14,
-      "source": "github_games",
-      "title": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
-      "rawScore": 6704,
-      "url": "https://github.com/pshenok/server-survival",
-      "meta": {
-        "fullName": "pshenok/server-survival",
-        "stars": 5436,
-        "forks": 634
-      },
-      "signalQuality": 66,
-      "score": 353,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 35,
+      "rank": 11,
       "source": "reddit_gaming",
-      "title": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
-      "rawScore": 2352,
-      "url": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/",
+      "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
+      "rawScore": 6904,
+      "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 1095,
-        "comments": 419
+        "ups": 3637,
+        "comments": 1089
       },
-      "signalQuality": 48,
-      "score": 351,
+      "signalQuality": 40,
+      "score": 386,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -227,18 +205,18 @@
       }
     },
     {
-      "rank": 22,
-      "source": "github_games",
-      "title": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
-      "rawScore": 7483,
-      "url": "https://github.com/gonglei007/GameDevMind",
+      "rank": 19,
+      "source": "reddit_gaming",
+      "title": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
+      "rawScore": 6193,
+      "url": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
       "meta": {
-        "fullName": "gonglei007/GameDevMind",
-        "stars": 6205,
-        "forks": 639
+        "subreddit": "gaming",
+        "ups": 4969,
+        "comments": 408
       },
-      "signalQuality": 54,
-      "score": 345,
+      "signalQuality": 22,
+      "score": 363,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -296,12 +274,12 @@
       "rank": 12,
       "source": "reddit_memes",
       "title": "Shut it Keith",
-      "rawScore": 41690,
+      "rawScore": 41978,
       "url": "https://www.reddit.com/r/memes/comments/1rro7xi/shut_it_keith/",
       "meta": {
         "subreddit": "memes",
-        "ups": 40727,
-        "comments": 321
+        "ups": 41009,
+        "comments": 323
       },
       "signalQuality": -140,
       "score": 322,
@@ -318,12 +296,12 @@
       "rank": 20,
       "source": "reddit_memes",
       "title": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
-      "rawScore": 2089,
+      "rawScore": 2111,
       "url": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
       "meta": {
         "subreddit": "memes",
-        "ups": 1246,
-        "comments": 281
+        "ups": 1259,
+        "comments": 284
       },
       "signalQuality": -16,
       "score": 316,
@@ -381,28 +359,6 @@
       }
     },
     {
-      "rank": 23,
-      "source": "hacker_news",
-      "title": "Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games",
-      "rawScore": 697,
-      "url": "https://news.ycombinator.com/item?id=38868185",
-      "meta": {
-        "author": "lishali88",
-        "score": 293,
-        "comments": 101
-      },
-      "signalQuality": 84,
-      "score": 311,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
       "rank": 31,
       "source": "hacker_news",
       "title": "Please check my quantum physics browser game for accuracy",
@@ -428,15 +384,15 @@
       "rank": 28,
       "source": "reddit_memes",
       "title": "Real business",
-      "rawScore": 22574,
+      "rawScore": 22860,
       "url": "https://www.reddit.com/r/memes/comments/1rrq1vx/real_business/",
       "meta": {
         "subreddit": "memes",
-        "ups": 22304,
+        "ups": 22590,
         "comments": 90
       },
       "signalQuality": -134,
-      "score": 301,
+      "score": 302,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -472,11 +428,11 @@
       "rank": 10,
       "source": "reddit_indiegaming",
       "title": "Indie devs: Is it really that hard to get Steam wishlists ? Honest experiences",
-      "rawScore": 153,
+      "rawScore": 154,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rryewg/indie_devs_is_it_really_that_hard_to_get_steam/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 12,
+        "ups": 13,
         "comments": 47
       },
       "signalQuality": 90,
@@ -491,15 +447,37 @@
       }
     },
     {
+      "rank": 36,
+      "source": "reddit_memes",
+      "title": "it really do be like that",
+      "rawScore": 3358,
+      "url": "https://www.reddit.com/r/memes/comments/1rrpkn4/it_really_do_be_like_that/",
+      "meta": {
+        "subreddit": "memes",
+        "ups": 2929,
+        "comments": 143
+      },
+      "signalQuality": -56,
+      "score": 297,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
       "rank": 5,
       "source": "reddit_gamedev",
       "title": "I made my first 1500$ from my free mobile game: here is what worked, and what didn't",
-      "rawScore": 296,
+      "rawScore": 298,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrswso/i_made_my_first_1500_from_my_free_mobile_game/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 167,
-        "comments": 43
+        "ups": 166,
+        "comments": 44
       },
       "signalQuality": 72,
       "score": 275,
@@ -516,11 +494,11 @@
       "rank": 18,
       "source": "reddit_indiegaming",
       "title": "Indie games that made me rethink what gaming could be",
-      "rawScore": 137,
+      "rawScore": 136,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrkpmq/indie_games_that_made_me_rethink_what_gaming/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 65,
+        "ups": 64,
         "comments": 24
       },
       "signalQuality": 72,
@@ -560,15 +538,15 @@
       "rank": 26,
       "source": "reddit_indiegaming",
       "title": "Hiring yourself is technically free, right?",
-      "rawScore": 268,
+      "rawScore": 275,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rs4sr2/hiring_yourself_is_technically_free_right/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 118,
-        "comments": 50
+        "ups": 122,
+        "comments": 51
       },
       "signalQuality": 26,
-      "score": 257,
+      "score": 258,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -582,15 +560,15 @@
       "rank": 34,
       "source": "reddit_indiegaming",
       "title": "Convictions in my game (somewhat similar to perks, but more important.) What do you think about their design?",
-      "rawScore": 111,
+      "rawScore": 112,
       "url": "https://www.reddit.com/r/IndieGaming/comments/1rrwm3j/convictions_in_my_game_somewhat_similar_to_perks/",
       "meta": {
         "subreddit": "IndieGaming",
-        "ups": 24,
+        "ups": 25,
         "comments": 29
       },
       "signalQuality": 62,
-      "score": 256,
+      "score": 257,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -604,11 +582,11 @@
       "rank": 13,
       "source": "reddit_gamedev",
       "title": "What is considered too big for an indie project?",
-      "rawScore": 180,
+      "rawScore": 181,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrrvui/what_is_considered_too_big_for_an_indie_project/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 18,
+        "ups": 19,
         "comments": 54
       },
       "signalQuality": 70,
@@ -626,15 +604,37 @@
       "rank": 21,
       "source": "reddit_gamedev",
       "title": "What’s something new game devs over-engineer that experienced teams keep simple?",
-      "rawScore": 109,
+      "rawScore": 111,
       "url": "https://www.reddit.com/r/gamedev/comments/1rs4394/whats_something_new_game_devs_overengineer_that/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 28,
-        "comments": 27
+        "ups": 27,
+        "comments": 28
       },
       "signalQuality": 62,
-      "score": 229,
+      "score": 230,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 29,
+      "source": "reddit_gamedev",
+      "title": "I decided to quit game developement, what should i do with my steam page?",
+      "rawScore": 67,
+      "url": "https://www.reddit.com/r/gamedev/comments/1rs5cox/i_decided_to_quit_game_developement_what_should_i/",
+      "meta": {
+        "subreddit": "gamedev",
+        "ups": 7,
+        "comments": 20
+      },
+      "signalQuality": 80,
+      "score": 230,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -648,11 +648,11 @@
       "rank": 37,
       "source": "reddit_gamedev",
       "title": "Launching a Steam page, how many wishlists do YOU expect?",
-      "rawScore": 164,
+      "rawScore": 166,
       "url": "https://www.reddit.com/r/gamedev/comments/1rrlhcc/launching_a_steam_page_how_many_wishlists_do_you/",
       "meta": {
         "subreddit": "gamedev",
-        "ups": 23,
+        "ups": 25,
         "comments": 47
       },
       "signalQuality": 44,
@@ -780,12 +780,12 @@
       "rank": 3,
       "source": "reddit_gaming",
       "title": "Highguard has now officially shutdown",
-      "rawScore": 15713,
+      "rawScore": 15942,
       "url": "https://www.reddit.com/r/gaming/comments/1rrzby6/highguard_has_now_officially_shutdown/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 11333,
-        "comments": 1460
+        "ups": 11520,
+        "comments": 1474
       },
       "signalQuality": 18,
       "score": 396,
@@ -802,59 +802,15 @@
       "rank": 4,
       "source": "reddit_memes",
       "title": "Galas or dating apps, neither of them work for me 🥹🥹",
-      "rawScore": 10323,
+      "rawScore": 12034,
       "url": "https://www.reddit.com/r/memes/comments/1rs58lw/galas_or_dating_apps_neither_of_them_work_for_me/",
       "meta": {
         "subreddit": "memes",
-        "ups": 10020,
-        "comments": 101
+        "ups": 11656,
+        "comments": 126
       },
       "signalQuality": -16,
-      "score": 385,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 11,
-      "source": "reddit_gaming",
-      "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
-      "rawScore": 6871,
-      "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
-      "meta": {
-        "subreddit": "gaming",
-        "ups": 3613,
-        "comments": 1086
-      },
-      "signalQuality": 40,
-      "score": 385,
-      "ratingAudit": {
-        "ratingPolicy": "apple-9+",
-        "ratingLabel": "Apple 9+",
-        "engine": "rules",
-        "allowed": true,
-        "highestSeverity": 0,
-        "matches": []
-      }
-    },
-    {
-      "rank": 19,
-      "source": "reddit_gaming",
-      "title": "All games with loot boxes in them will be rated minimum PEGI 16, starting this summer | Meaning they can’t legally be sold to children 15 or under in the UK or any other European country which has adopted PEGI ratings into its legislation",
-      "rawScore": 6117,
-      "url": "https://www.reddit.com/r/gaming/comments/1rrwlpd/all_games_with_loot_boxes_in_them_will_be_rated/",
-      "meta": {
-        "subreddit": "gaming",
-        "ups": 4896,
-        "comments": 407
-      },
-      "signalQuality": 22,
-      "score": 363,
+      "score": 392,
       "ratingAudit": {
         "ratingPolicy": "apple-9+",
         "ratingLabel": "Apple 9+",
@@ -867,13 +823,57 @@
     {
       "rank": 27,
       "source": "reddit_gaming",
+      "title": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
+      "rawScore": 2494,
+      "url": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/",
+      "meta": {
+        "subreddit": "gaming",
+        "ups": 1201,
+        "comments": 431
+      },
+      "signalQuality": 48,
+      "score": 354,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 14,
+      "source": "github_games",
+      "title": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
+      "rawScore": 6704,
+      "url": "https://github.com/pshenok/server-survival",
+      "meta": {
+        "fullName": "pshenok/server-survival",
+        "stars": 5436,
+        "forks": 634
+      },
+      "signalQuality": 66,
+      "score": 353,
+      "ratingAudit": {
+        "ratingPolicy": "apple-9+",
+        "ratingLabel": "Apple 9+",
+        "engine": "rules",
+        "allowed": true,
+        "highestSeverity": 0,
+        "matches": []
+      }
+    },
+    {
+      "rank": 35,
+      "source": "reddit_gaming",
       "title": "Official Launch Trailer | Crimson Desert",
-      "rawScore": 2912,
+      "rawScore": 2925,
       "url": "https://www.reddit.com/r/gaming/comments/1rrlmot/official_launch_trailer_crimson_desert/",
       "meta": {
         "subreddit": "gaming",
-        "ups": 1094,
-        "comments": 606
+        "ups": 1104,
+        "comments": 607
       },
       "signalQuality": 40,
       "score": 352,
@@ -891,18 +891,18 @@
     {
       "releaseSlot": 1,
       "trend": {
-        "rank": 35,
-        "source": "reddit_gaming",
-        "title": "Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?",
-        "rawScore": 2352,
-        "url": "https://www.reddit.com/r/gaming/comments/1rs6yb7/anyone_find_themselves_opening_up_their_game/",
+        "rank": 23,
+        "source": "hacker_news",
+        "title": "Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games",
+        "rawScore": 697,
+        "url": "https://news.ycombinator.com/item?id=38868185",
         "meta": {
-          "subreddit": "gaming",
-          "ups": 1095,
-          "comments": 419
+          "author": "lishali88",
+          "score": 293,
+          "comments": 101
         },
-        "signalQuality": 48,
-        "score": 351,
+        "signalQuality": 84,
+        "score": 311,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -912,85 +912,10 @@
           "matches": []
         }
       },
-      "outputSlug": "anyone-find-themselves-opening-up-their-game-libraries-staring",
-      "ideaSeedId": "gravity-basket",
-      "ideaSeedName": "Gravity Basket",
-      "ideaPrompt": "Autoresearch cycle 4: design a non-template casual game around \"Anyone find themselves opening up their game libraries, staring at it for a couple of hours, then just giving up and going on social media?\" using \"Move a catcher to collect falling items while avoiding decoys.\". Extra twist: bias toward mobile thumb ergonomics.",
-      "buildStrategyId": "single_file",
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "genre": "arcade",
-      "sessionMinutes": 3
-    },
-    {
-      "releaseSlot": 2,
-      "trend": {
-        "rank": 16,
-        "source": "google_trends",
-        "title": "bulls vs lakers",
-        "rawScore": 10000,
-        "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
-        "meta": {
-          "geo": "US",
-          "approxTraffic": 10000
-        },
-        "signalQuality": -66,
-        "score": 154,
-        "ratingAudit": {
-          "ratingPolicy": "apple-9+",
-          "ratingLabel": "Apple 9+",
-          "engine": "rules",
-          "allowed": true,
-          "highestSeverity": 0,
-          "matches": []
-        }
-      },
-      "outputSlug": "bulls-vs-lakers-pulse-pattern-c2",
-      "ideaSeedId": "pulse-pattern",
-      "ideaSeedName": "Pulse Pattern",
-      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"bulls vs lakers\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
-      "buildStrategyId": "cabinet_arcade",
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "genre": "puzzle",
-      "sessionMinutes": 4
-    },
-    {
-      "releaseSlot": 3,
-      "trend": {
-        "rank": 29,
-        "source": "reddit_gamedev",
-        "title": "I decided to quit game developement, what should i do with my steam page?",
-        "rawScore": 63,
-        "url": "https://www.reddit.com/r/gamedev/comments/1rs5cox/i_decided_to_quit_game_developement_what_should_i/",
-        "meta": {
-          "subreddit": "gamedev",
-          "ups": 3,
-          "comments": 20
-        },
-        "signalQuality": 80,
-        "score": 228,
-        "ratingAudit": {
-          "ratingPolicy": "apple-9+",
-          "ratingLabel": "Apple 9+",
-          "engine": "rules",
-          "allowed": true,
-          "highestSeverity": 0,
-          "matches": []
-        }
-      },
-      "outputSlug": "i-decided-to-quit-game-developement-what-should-i-do-with-my-s",
+      "outputSlug": "launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g",
       "ideaSeedId": "skyline-dodge",
       "ideaSeedName": "Skyline Dodge",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"I decided to quit game developement, what should i do with my steam page?\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games\" using \"Swipe to dodge incoming hazards and survive escalating waves.\". Extra twist: add one risk/reward layer for score optimization.",
       "buildStrategyId": "split_runtime",
       "capabilities": [
         "touch",
@@ -1002,20 +927,20 @@
       "sessionMinutes": 3
     },
     {
-      "releaseSlot": 4,
+      "releaseSlot": 2,
       "trend": {
-        "rank": 36,
-        "source": "reddit_memes",
-        "title": "it really do be like that",
-        "rawScore": 3327,
-        "url": "https://www.reddit.com/r/memes/comments/1rrpkn4/it_really_do_be_like_that/",
+        "rank": 22,
+        "source": "github_games",
+        "title": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
+        "rawScore": 7483,
+        "url": "https://github.com/gonglei007/GameDevMind",
         "meta": {
-          "subreddit": "memes",
-          "ups": 2898,
-          "comments": 143
+          "fullName": "gonglei007/GameDevMind",
+          "stars": 6205,
+          "forks": 639
         },
-        "signalQuality": -56,
-        "score": 296,
+        "signalQuality": 54,
+        "score": 345,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1025,10 +950,10 @@
           "matches": []
         }
       },
-      "outputSlug": "it-really-do-be-like-that-neon-orb-rush-c1",
+      "outputSlug": "gamedevmind-game-development-map-neon-orb-rush-c1",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
-      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"it really do be like that\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
+      "ideaPrompt": "Autoresearch cycle 1: design a non-template casual game around \"GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。\" using \"Rapidly tap moving neon orbs before they vanish.\". Extra twist: increase clarity of goals and visual telegraphing.",
       "buildStrategyId": "single_file",
       "capabilities": [
         "touch",
@@ -1040,20 +965,19 @@
       "sessionMinutes": 2
     },
     {
-      "releaseSlot": 5,
+      "releaseSlot": 3,
       "trend": {
-        "rank": 14,
-        "source": "github_games",
-        "title": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
-        "rawScore": 6704,
-        "url": "https://github.com/pshenok/server-survival",
+        "rank": 16,
+        "source": "google_trends",
+        "title": "khris middleton",
+        "rawScore": 1600,
+        "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
         "meta": {
-          "fullName": "pshenok/server-survival",
-          "stars": 5436,
-          "forks": 634
+          "geo": "US",
+          "approxTraffic": 500
         },
-        "signalQuality": 66,
-        "score": 353,
+        "signalQuality": -66,
+        "score": 110,
         "ratingAudit": {
           "ratingPolicy": "apple-9+",
           "ratingLabel": "Apple 9+",
@@ -1063,10 +987,85 @@
           "matches": []
         }
       },
-      "outputSlug": "server-survival-tower-defense-game-that-teaches-cloud-architec",
+      "outputSlug": "khris-middleton-pulse-pattern-c2",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"khris middleton\" using \"Memorize and replay increasingly complex pulse sequences.\". Extra twist: focus on faster session completion and punchier feedback.",
+      "buildStrategyId": "cabinet_arcade",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "puzzle",
+      "sessionMinutes": 4
+    },
+    {
+      "releaseSlot": 4,
+      "trend": {
+        "rank": 24,
+        "source": "google_trends",
+        "title": "predators vs canucks",
+        "rawScore": 1500,
+        "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+        "meta": {
+          "geo": "US",
+          "approxTraffic": 500
+        },
+        "signalQuality": -66,
+        "score": 109,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "predators-vs-canucks-gravity-basket-c2",
+      "ideaSeedId": "gravity-basket",
+      "ideaSeedName": "Gravity Basket",
+      "ideaPrompt": "Autoresearch cycle 2: design a non-template casual game around \"predators vs canucks\" using \"Move a catcher to collect falling items while avoiding decoys.\". Extra twist: bias toward mobile thumb ergonomics.",
+      "buildStrategyId": "single_file",
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "genre": "arcade",
+      "sessionMinutes": 3
+    },
+    {
+      "releaseSlot": 5,
+      "trend": {
+        "rank": 11,
+        "source": "reddit_gaming",
+        "title": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
+        "rawScore": 6904,
+        "url": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
+        "meta": {
+          "subreddit": "gaming",
+          "ups": 3637,
+          "comments": 1089
+        },
+        "signalQuality": 40,
+        "score": 386,
+        "ratingAudit": {
+          "ratingPolicy": "apple-9+",
+          "ratingLabel": "Apple 9+",
+          "engine": "rules",
+          "allowed": true,
+          "highestSeverity": 0,
+          "matches": []
+        }
+      },
+      "outputSlug": "crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa",
       "ideaSeedId": "color-swap-lanes",
       "ideaSeedName": "Color Swap Lanes",
-      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.\" using \"Switch lanes and match colors with incoming gates.\". Extra twist: include one novelty mechanic tied to the trend title.",
+      "ideaPrompt": "Autoresearch cycle 3: design a non-template casual game around \"Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch\" using \"Switch lanes and match colors with incoming gates.\". Extra twist: include one novelty mechanic tied to the trend title.",
       "buildStrategyId": "split_runtime",
       "capabilities": [
         "touch",
@@ -1078,9 +1077,9 @@
       "sessionMinutes": 3
     }
   ],
-  "generatedAt": "2026-03-13T02:21:20.483Z",
+  "generatedAt": "2026-03-13T02:42:18.058Z",
   "autoresearch": {
-    "runId": "20260313021000",
+    "runId": "20260313023124",
     "cycles": 4,
     "exploreCount": 3,
     "publishCount": 5,
