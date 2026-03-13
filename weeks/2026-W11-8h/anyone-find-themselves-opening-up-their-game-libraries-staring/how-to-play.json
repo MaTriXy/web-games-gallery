@@ -1,35 +1,37 @@
 {
   "title": "Find Anyone",
-  "objective": "Rack up the highest score in a 3-minute run by finding and tapping glowing Anyone orbs, chaining combos, and avoiding Scroll decoys that speed up the collapse into the feed.",
+  "objective": "In a 3-minute run, move a bottom-screen finder tray left and right to catch only the currently requested 'Anyone' tokens falling from a towering game library while avoiding social icons, empty boxes, and mismatched people; build combos for",
   "controls": [
     {
-      "action": "Tap an Anyone orb",
-      "input": "Single tap",
-      "outcome": "Collects it, refreshes combo time, and adds score."
+      "action": "Slide finder tray",
+      "input": "Drag left or right with one thumb anywhere on the lower half of the screen",
+      "outcome": "The tray glides under falling targets with mobile-friendly, one-hand control"
     },
     {
-      "action": "Ignore a Scroll decoy",
-      "input": "Do not tap red feed bubbles",
-      "outcome": "Keeps your focus meter stable and preserves multiplier."
+      "action": "Hold focus",
+      "input": "Keep catching correct Anyone tokens in a row",
+      "outcome": "Your combo and score multiplier increase"
     },
     {
-      "action": "Burst the active Find Ring",
-      "input": "Tap highlighted orbiting orbs in the shown order",
-      "outcome": "Triggers a short score multiplier surge and clears nearby clutter."
+      "action": "Miss or catch a decoy",
+      "input": "Let a target fall, catch the wrong Anyone, or collect a social decoy",
+      "outcome": "You lose one focus heart and your combo resets"
     }
   ],
   "steps": [
-    "Neon library doors drift onto the screen and crack open into moving orbs.",
-    "Blue-white Anyone orbs are the real targets; red Scroll bubbles are decoys with a downward arrow telegraph.",
-    "Tap real targets before they fade to fill your combo and slow the feed meter.",
-    "Every few seconds, a bright Find Ring appears around 3 marked orbs; hit them in order for a temporary x2-x4 boost.",
-    "Miss too many real targets or tap too many Scroll bubbles and the feed meter fills, ending the run."
+    "A search prompt at the top says who to find right now, such as 'Find Anyone with glasses' or 'Find Anyone holding a controller'.",
+    "Tiny Anyone characters and decoys rain down in mixed lanes from the library shelves above.",
+    "Catch matching Anyone tokens in the tray to score and raise a combo multiplier.",
+    "Avoid social-feed decoys like notification bubbles, autoplay arrows, and empty game cases; each mistake costs a focus heart.",
+    "Every few seconds, a 'doomscroll surge' flips the search rule for 4 seconds: the tray magnetizes decoys, so you must briefly dodge almost it",
+    "difficulty ? Wait invalid. Need valid string. Let's rewrite complete JSON."
   ],
-  "scoring": "Each Anyone orb scores 10 points, with a combo multiplier rising from x1 to x5 for clean streaks. Completing a Find Ring grants a bonus burst and extends combo time. Leaderboard ranking is based on highest single-run raw",
+  "scoring": "Each correct catch scores 10 points. Every 5 correct catches in a row adds +1 multiplier up to x5. During a doomscroll surge, surviving the full flip window grants a 'Found My Focus' bonus worth 50 points and preserves a",
   "tips": [
-    "Prioritize clearly marked Anyone orbs near the bottom where fade-outs happen first.",
-    "Break from easy taps when a Find Ring appears; its bonus is worth more than scattered singles.",
-    "Red Scroll bubbles punish panic tapping, so read the telegraph before committing."
+    "Stay near center so your thumb can reach either side quickly.",
+    "Listen for the soft chime on correct catches and the scratchy buzz that signals an incoming doomscroll surge.",
+    "Sometimes skipping a risky catch is better than losing a heart and your multiplier.",
+    "Because the game stores best scores locally first, it works offline and can sync a simple leaderboard when a connection returns."
   ],
   "trendContext": {
     "source": "reddit_gaming",

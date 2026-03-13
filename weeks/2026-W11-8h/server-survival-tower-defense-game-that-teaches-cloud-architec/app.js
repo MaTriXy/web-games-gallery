@@ -1,10 +1,10 @@
-const GAME_TITLE = `Official Collapse Run`;
+const GAME_TITLE = `Server-survival Collapse Run`;
 const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Official Launch Trailer | Crimson Desert`;
-const MOTIF_A = `official`;
-const MOTIF_B = `launch`;
-const OBJECTIVE_TAG = `official vs launch`;
+const THEME_LABEL = `server-survival Tower defense game that teaches cloud architecture. Build infras`;
+const MOTIF_A = `server-survival`;
+const MOTIF_B = `tower`;
+const OBJECTIVE_TAG = `server-survival vs tower`;
 const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");

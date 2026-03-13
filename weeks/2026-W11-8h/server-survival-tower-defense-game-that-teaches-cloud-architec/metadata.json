@@ -1,6 +1,6 @@
 {
-  "title": "Endless Collapse Run",
-  "description": "Swipe through collapsing endless lanes, bait risky cycle boosts, and stretch your combo before the grid shuts down.",
+  "title": "Server-survival Collapse Run",
+  "description": "Swipe through collapsing server-survival lanes, bait risky build boosts, and stretch your combo before the grid shuts down.",
   "category": "Arcade Survival",
   "iconName": "gamecontroller.fill",
   "accentColor": "#FF6A3D",
@@ -10,8 +10,8 @@
     4200
   ],
   "howToPlayJson": {
-    "title": "Endless Collapse Run",
-    "objective": "Survive a 45-second endless collapse by dodging hostile streams, grabbing unstable boosts, and deciding when a risky cycle lane is worth the multiplier spike.",
+    "title": "Server-survival Collapse Run",
+    "objective": "Survive a 45-second server-survival collapse by dodging hostile streams, grabbing unstable boosts, and deciding when a risky build lane is worth the multiplier spike.",
     "controls": [
       {
         "action": "Slide runner",
@@ -25,13 +25,13 @@
       }
     ],
     "steps": [
-      "Hazards pour down the endless grid while your runner hugs the bottom edge.",
-      "Safe endless boosts appear inside dangerous gaps; taking one raises the combo and speeds up the next few seconds.",
+      "Hazards pour down the server-survival grid while your runner hugs the bottom edge.",
+      "Safe server-survival boosts appear inside dangerous gaps; taking one raises the combo and speeds up the next few seconds.",
       "One bad collision breaks the streak and chunks the timer, so every greedy lane swap is a bet."
     ],
     "scoring": "You score for survival, near-miss rhythm, and every unstable boost captured. Multipliers rise with clean risky pickups, not just passive endurance.",
     "tips": [
-      "Use the center lane as your reset point before chasing a cycle boost.",
+      "Use the center lane as your reset point before chasing a build boost.",
       "A small combo is safer than a broken timer; treat the multiplier like a wager.",
       "Late waves accelerate hardest after greedy pickups, so read the next opening before committing."
     ]

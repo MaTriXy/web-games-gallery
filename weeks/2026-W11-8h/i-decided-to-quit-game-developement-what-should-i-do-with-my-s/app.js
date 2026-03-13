@@ -1,10 +1,10 @@
-const GAME_TITLE = `Endless Collapse Run`;
+const GAME_TITLE = `Decided Collapse Run`;
 const ACCENT = `#FF6A3D`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `It’s an endless cycle`;
-const MOTIF_A = `endless`;
-const MOTIF_B = `cycle`;
-const OBJECTIVE_TAG = `endless vs cycle`;
+const THEME_LABEL = `I decided to quit game developement, what should i do with my steam page?`;
+const MOTIF_A = `decided`;
+const MOTIF_B = `quit`;
+const OBJECTIVE_TAG = `decided vs quit`;
 const STAR_THRESHOLDS = [1200,2600,4200];
 
 const scoreEl = document.getElementById("score");

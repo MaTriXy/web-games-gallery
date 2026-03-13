@@ -1,0 +1,54 @@
+{
+  "title": "Pulse Rivalry: Bulls vs Lakers",
+  "description": "Defend the arena pulse by memorizing and replaying Bulls hoof-stomps and Lakers splash-chimes before the shot clock hits zero.",
+  "category": "Sports Rhythm Memory",
+  "iconName": "gamecontroller.fill",
+  "accentColor": "#C81D25",
+  "starThresholds": [
+    1200,
+    2600,
+    4200
+  ],
+  "howToPlayJson": {
+    "title": "Pulse Rivalry: Bulls vs Lakers",
+    "objective": "Repeat escalating red Bulls and gold Lakers beat patterns across a 2-minute rivalry run, chaining perfect possessions into a leaderboard score before you miss three plays.",
+    "controls": [
+      {
+        "action": "Replay a Bulls beat",
+        "input": "Tap a red Bulls pad",
+        "outcome": "Inputs that Bulls pulse into the sequence"
+      },
+      {
+        "action": "Replay a Lakers beat",
+        "input": "Tap a gold Lakers pad",
+        "outcome": "Inputs that Lakers pulse into the sequence"
+      },
+      {
+        "action": "Hold a charged beat",
+        "input": "Press and hold the lit pad until the ring closes",
+        "outcome": "Completes long notes that appear in later rounds"
+      },
+      {
+        "action": "Use the possession twist",
+        "input": "Tap the flashing opposite-team pad when the whistle icon appears",
+        "outcome": "Steals the marked beat for bonus combo instead of copying it normally"
+      }
+    ],
+    "steps": [
+      "A short pattern is performed with punchy audio: Bulls beats sound like stomps and horn hits, Lakers beats sound like splashy synth chimes.",
+      "The player replays the pattern on two large mobile pads before the mini shot clock expires.",
+      "Every successful possession adds one new beat and slightly increases playback and replay speed.",
+      "Every few seconds a whistle marks one beat as a steal beat: that beat must be replayed on the opposite team pad, forcing the player to adapt",
+      "Perfect possessions raise a combo multiplier; stealing the whistle beat correctly gives an extra combo bump.",
+      "A mistake, missed hold, or expired shot clock costs one life; after three failures, the run ends and the score can be posted to a simple top",
+      "offline local leaderboard."
+    ],
+    "scoring": "Score comes from base points per correct beat, plus speed bonus for finishing early. Perfect possessions build a combo multiplier up to 5x. Correctly converting whistle steal beats grants an instant combo jump and a 'rhy",
+    "tips": [
+      "Keep the rhythm in team chunks: Bulls stomp, Lakers chime.",
+      "Watch for the whistle marker; it is the only beat you should intentionally flip.",
+      "Use audio as much as color, since later rounds get faster than visual counting.",
+      "Protect a high combo by prioritizing accuracy over rushing the last beat."
+    ]
+  }
+}
