@@ -1,78 +1,12 @@
 {
   "schemaVersion": "2.0.0",
   "weekKey": "2026-W11-8h",
-  "generatedAt": "2026-03-13T06:05:45.562Z",
+  "generatedAt": "2026-03-13T06:26:39.858Z",
   "games": [
     {
-      "slug": "crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa",
-      "title": "Crimson Seal Sprint",
-      "description": "Race across the crimson desert by memorizing beacon pulses and replaying them before fresh seal-stamps lock the route.",
-      "genre": "puzzle",
-      "sessionMinutes": 4,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch",
-      "trendSource": "reddit_gaming",
-      "trendUrl": "https://www.reddit.com/r/gaming/comments/1rrsner/crimson_desert_adds_confirmation_of_denuvo_drm_to/",
-      "ideaSeedId": "pulse-pattern",
-      "ideaSeedName": "Pulse Pattern",
-      "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "server-survival-tower-defense-game-that-teaches-cloud-architec",
-      "title": "Server-Survival: Tower Intake",
-      "description": "Drag a load-balancer tower left and right to catch clean traffic, reject attack packets, and keep your server-survival stack online.",
-      "genre": "arcade",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
-      "trendSource": "github_games",
-      "trendUrl": "https://github.com/pshenok/server-survival",
-      "ideaSeedId": "gravity-basket",
-      "ideaSeedName": "Gravity Basket",
-      "buildStrategyId": "single_file",
-      "sourcePath": "./server-survival-tower-defense-game-that-teaches-cloud-architec/index.html",
-      "generationEngine": "codex_ideation+native_builder",
-      "generationReason": "codex_ideation_ok_codex_full_disabled"
-    },
-    {
-      "slug": "everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s",
-      "title": "Everytime Collapse Run",
-      "description": "Swipe through collapsing everytime lanes, bait risky attempt boosts, and stretch your combo before the grid shuts down.",
-      "genre": "action",
-      "sessionMinutes": 3,
-      "capabilities": [
-        "touch",
-        "audio",
-        "offline",
-        "leaderboard"
-      ],
-      "trendTitle": "Everytime I attempt to fill up my tank lately I experience a small emotional crisis",
-      "trendSource": "reddit_memes",
-      "trendUrl": "https://www.reddit.com/r/memes/comments/1rrv393/everytime_i_attempt_to_fill_up_my_tank_lately_i/",
-      "ideaSeedId": "color-swap-lanes",
-      "ideaSeedName": "Color Swap Lanes",
-      "buildStrategyId": "split_runtime",
-      "sourcePath": "./everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
-    },
-    {
-      "slug": "launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g",
-      "title": "Launch Triage",
-      "description": "Tap true launch calls, reject rosebud decoys, and hold a growing combo as the rosebud feed floods faster every wave.",
+      "slug": "gamedevmind-game-development-map-neon-orb-rush-c1",
+      "title": "GameDevMind: Development Map Rush",
+      "description": "You defend the glowing GameDevMind by tapping known development problems off a live neon map before they erase your creative lanes.",
       "genre": "arcade",
       "sessionMinutes": 2,
       "capabilities": [
@@ -81,20 +15,42 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games",
-      "trendSource": "hacker_news",
-      "trendUrl": "https://news.ycombinator.com/item?id=38868185",
+      "trendTitle": "GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。",
+      "trendSource": "github_games",
+      "trendUrl": "https://github.com/gonglei007/GameDevMind",
       "ideaSeedId": "neon-orb-rush",
       "ideaSeedName": "Neon Orb Rush",
       "buildStrategyId": "single_file",
-      "sourcePath": "./launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g/index.html",
-      "generationEngine": "native_builder",
-      "generationReason": "timeout"
+      "sourcePath": "./gamedevmind-game-development-map-neon-orb-rush-c1/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
     },
     {
-      "slug": "one-piece-season-3-pulse-pattern-c1",
-      "title": "Season Piece: Cut 3",
-      "description": "Re-stitch a spinning seasonal relic by tapping its shifting slices back in the pulsing order before the pattern tears apart.",
+      "slug": "greys-anatomy-is-still-going-skyline-dodge-c2",
+      "title": "Grey Anatomy: Endless Chart",
+      "description": "Swipe a living heartbeat through a greyscale anatomy chart, dodging surgical hazards while diving into flashing organs to keep your combo alive.",
+      "genre": "action",
+      "sessionMinutes": 3,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Grey's Anatomy is STILL going",
+      "trendSource": "reddit_memes",
+      "trendUrl": "https://www.reddit.com/r/memes/comments/1rsdgrq/greys_anatomy_is_still_going/",
+      "ideaSeedId": "skyline-dodge",
+      "ideaSeedName": "Skyline Dodge",
+      "buildStrategyId": "split_runtime",
+      "sourcePath": "./greys-anatomy-is-still-going-skyline-dodge-c2/index.html",
+      "generationEngine": "codex_ideation+native_builder",
+      "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "i-finished-gamedev-university-and-the-job-market-crashed-2-yea",
+      "title": "Final Build Necrolab",
+      "description": "Play as a freshly finished gamedev graduate and tap back increasingly dense build-beat sequences to resurrect dead game prototypes before the market collapses again.",
       "genre": "puzzle",
       "sessionMinutes": 4,
       "capabilities": [
@@ -103,15 +59,59 @@
         "offline",
         "leaderboard"
       ],
-      "trendTitle": "one piece season 3",
-      "trendSource": "google_trends",
-      "trendUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US",
+      "trendTitle": "I finished Gamedev University and the job market crashed. 2 years later and I'm soon done with my Necromancer Roguelite",
+      "trendSource": "reddit_indiegaming",
+      "trendUrl": "https://www.reddit.com/r/IndieGaming/comments/1rrmwog/i_finished_gamedev_university_and_the_job_market/",
       "ideaSeedId": "pulse-pattern",
       "ideaSeedName": "Pulse Pattern",
       "buildStrategyId": "cabinet_arcade",
-      "sourcePath": "./one-piece-season-3-pulse-pattern-c1/index.html",
+      "sourcePath": "./i-finished-gamedev-university-and-the-job-market-crashed-2-yea/index.html",
       "generationEngine": "codex_ideation+native_builder",
       "generationReason": "codex_ideation_ok_codex_full_disabled"
+    },
+    {
+      "slug": "please-check-my-quantum-physics-browser-game-for-accuracy-skyl",
+      "title": "Please Collapse Run",
+      "description": "Swipe through collapsing please lanes, bait risky check boosts, and stretch your combo before the grid shuts down.",
+      "genre": "action",
+      "sessionMinutes": 3,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Please check my quantum physics browser game for accuracy",
+      "trendSource": "hacker_news",
+      "trendUrl": "https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/",
+      "ideaSeedId": "skyline-dodge",
+      "ideaSeedName": "Skyline Dodge",
+      "buildStrategyId": "split_runtime",
+      "sourcePath": "./please-check-my-quantum-physics-browser-game-for-accuracy-skyl/index.html",
+      "generationEngine": "native_builder",
+      "generationReason": "timeout"
+    },
+    {
+      "slug": "show-hn-i-built-a-multiplayer-voxel-browser-game-engine-pulse-",
+      "title": "Multiplayer Pattern Lock",
+      "description": "Rebuild broken multiplayer sequences under pressure by replaying unstable patterns before the show surge wipes your combo.",
+      "genre": "puzzle",
+      "sessionMinutes": 4,
+      "capabilities": [
+        "touch",
+        "audio",
+        "offline",
+        "leaderboard"
+      ],
+      "trendTitle": "Show HN: I built a multiplayer voxel browser game engine",
+      "trendSource": "hacker_news",
+      "trendUrl": "https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/",
+      "ideaSeedId": "pulse-pattern",
+      "ideaSeedName": "Pulse Pattern",
+      "buildStrategyId": "cabinet_arcade",
+      "sourcePath": "./show-hn-i-built-a-multiplayer-voxel-browser-game-engine-pulse-/index.html",
+      "generationEngine": "native_builder",
+      "generationReason": "timeout"
     }
   ],
   "sourceReferences": [

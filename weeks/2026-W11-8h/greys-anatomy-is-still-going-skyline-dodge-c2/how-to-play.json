@@ -1,0 +1,41 @@
+{
+  "title": "Grey Anatomy: Endless Chart",
+  "objective": "Survive escalating waves of scalpels, syringes, crash carts, and misfired anatomy labels inside a giant grey body diagram, and post the highest score before three hits end the run.",
+  "controls": [
+    {
+      "action": "Dodge",
+      "input": "Swipe left or right",
+      "outcome": "The heartbeat snaps to a neighboring body lane to avoid incoming hazards."
+    },
+    {
+      "action": "Dive",
+      "input": "Swipe up or down at junctions",
+      "outcome": "The heartbeat shifts between upper and lower anatomy paths for tighter escapes and bonus routes."
+    },
+    {
+      "action": "Risk Boost",
+      "input": "Pass through a flashing organ gate",
+      "outcome": "You refresh your combo multiplier, but hazard speed and density spike for a few seconds."
+    }
+  ],
+  "steps": [
+    "Start in the torso of a giant grey anatomy chart with three connected lanes.",
+    "Hazards stream inward in waves: scalpels cut across lanes, syringes thrust straight down paths, and anatomy labels slide in as blockers.",
+    "Every few seconds one organ gate flashes, such as heart, lung, or brain.",
+    "Crossing the flashing organ gate banks a multiplier boost and extends combo time, but triggers a short 'new episode' surge with denser, nast",
+    "Skipping the gate is safer, but your multiplier decays and your score pace drops.",
+    "The run ends after three hits, then the score is saved to a simple local leaderboard for fast replay."
+  ],
+  "scoring": "Score rises from survival time and near-miss dodges. Each flashing organ gate taken increases the multiplier by 1 up to x8, but missing the next gate starts multiplier decay. Consecutive near-misses during a surge add a",
+  "tips": [
+    "Take organ gates early in calm waves; taking one during a dense wave is how big scores are made.",
+    "Scalpels usually sweep sideways, so save vertical dives for syringes and stacked blockers.",
+    "If your combo timer is low, a risky organ gate is usually worth more than playing safe.",
+    "Short rising beeps can signal an incoming surge, while a bass pulse marks the currently active organ gate."
+  ],
+  "trendContext": {
+    "source": "reddit_memes",
+    "title": "Grey's Anatomy is STILL going",
+    "url": "https://www.reddit.com/r/memes/comments/1rsdgrq/greys_anatomy_is_still_going/"
+  }
+}

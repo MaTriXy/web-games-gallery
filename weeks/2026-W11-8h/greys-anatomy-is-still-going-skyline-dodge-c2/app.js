@@ -1,11 +1,11 @@
-const GAME_TITLE = `Everytime Collapse Run`;
-const ACCENT = `#FF6A3D`;
+const GAME_TITLE = `Grey Anatomy: Endless Chart`;
+const ACCENT = `#7FA6A3`;
 const MODE = `dodge_stream`;
-const THEME_LABEL = `Everytime I attempt to fill up my tank lately I experience a small emotional cri`;
-const MOTIF_A = `everytime`;
-const MOTIF_B = `attempt`;
-const OBJECTIVE_TAG = `everytime vs attempt`;
-const STAR_THRESHOLDS = [1200,2600,4200];
+const THEME_LABEL = `Grey's Anatomy is STILL going`;
+const MOTIF_A = `grey`;
+const MOTIF_B = `anatomy`;
+const OBJECTIVE_TAG = `grey vs anatomy`;
+const STAR_THRESHOLDS = [1200,3200,6500];
 
 const scoreEl = document.getElementById("score");
 const timerEl = document.getElementById("timer");

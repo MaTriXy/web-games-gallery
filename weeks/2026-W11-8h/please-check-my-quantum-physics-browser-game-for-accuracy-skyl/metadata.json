@@ -1,6 +1,6 @@
 {
-  "title": "Everytime Collapse Run",
-  "description": "Swipe through collapsing everytime lanes, bait risky attempt boosts, and stretch your combo before the grid shuts down.",
+  "title": "Please Collapse Run",
+  "description": "Swipe through collapsing please lanes, bait risky check boosts, and stretch your combo before the grid shuts down.",
   "category": "Arcade Survival",
   "iconName": "gamecontroller.fill",
   "accentColor": "#FF6A3D",
@@ -10,8 +10,8 @@
     4200
   ],
   "howToPlayJson": {
-    "title": "Everytime Collapse Run",
-    "objective": "Survive a 45-second everytime collapse by dodging hostile streams, grabbing unstable boosts, and deciding when a risky attempt lane is worth the multiplier spike.",
+    "title": "Please Collapse Run",
+    "objective": "Survive a 45-second please collapse by dodging hostile streams, grabbing unstable boosts, and deciding when a risky check lane is worth the multiplier spike.",
     "controls": [
       {
         "action": "Slide runner",
@@ -25,13 +25,13 @@
       }
     ],
     "steps": [
-      "Hazards pour down the everytime grid while your runner hugs the bottom edge.",
-      "Safe everytime boosts appear inside dangerous gaps; taking one raises the combo and speeds up the next few seconds.",
+      "Hazards pour down the please grid while your runner hugs the bottom edge.",
+      "Safe please boosts appear inside dangerous gaps; taking one raises the combo and speeds up the next few seconds.",
       "One bad collision breaks the streak and chunks the timer, so every greedy lane swap is a bet."
     ],
     "scoring": "You score for survival, near-miss rhythm, and every unstable boost captured. Multipliers rise with clean risky pickups, not just passive endurance.",
     "tips": [
-      "Use the center lane as your reset point before chasing a attempt boost.",
+      "Use the center lane as your reset point before chasing a check boost.",
       "A small combo is safer than a broken timer; treat the multiplier like a wager.",
       "Late waves accelerate hardest after greedy pickups, so read the next opening before committing."
     ]

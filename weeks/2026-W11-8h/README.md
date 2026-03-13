@@ -1,16 +1,16 @@
 # Weekly Game Release - 2026-W11-8h
 
-Generated at: 2026-03-13T06:05:45.562Z
+Generated at: 2026-03-13T06:26:39.858Z
 
 Mode: trending
 Source scope: all
 
 ## Included games
-- slot 1: crimson-desert-adds-confirmation-of-denuvo-drm-to-its-steam-pa (puzzle, 4 min) <- Crimson Desert adds confirmation of Denuvo DRM to its Steam page a week out from launch
-- slot 2: server-survival-tower-defense-game-that-teaches-cloud-architec (arcade, 3 min) <- server-survival Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
-- slot 3: everytime-i-attempt-to-fill-up-my-tank-lately-i-experience-a-s (action, 3 min) <- Everytime I attempt to fill up my tank lately I experience a small emotional crisis
-- slot 4: launch-hn-rosebud-yc-s19-turn-game-descriptions-into-browser-g (arcade, 2 min) <- Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games
-- slot 5: one-piece-season-3-pulse-pattern-c1 (puzzle, 4 min) <- one piece season 3
+- slot 1: gamedevmind-game-development-map-neon-orb-rush-c1 (arcade, 2 min) <- GameDevMind 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
+- slot 2: greys-anatomy-is-still-going-skyline-dodge-c2 (action, 3 min) <- Grey's Anatomy is STILL going
+- slot 3: i-finished-gamedev-university-and-the-job-market-crashed-2-yea (puzzle, 4 min) <- I finished Gamedev University and the job market crashed. 2 years later and I'm soon done with my Necromancer Roguelite
+- slot 4: please-check-my-quantum-physics-browser-game-for-accuracy-skyl (action, 3 min) <- Please check my quantum physics browser game for accuracy
+- slot 5: show-hn-i-built-a-multiplayer-voxel-browser-game-engine-pulse- (puzzle, 4 min) <- Show HN: I built a multiplayer voxel browser game engine
 
 ## Source references
 - GitHub Topic: children-games: https://github.com/topics/children-games?o=asc&s=updated
